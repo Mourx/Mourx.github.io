@@ -122,9 +122,15 @@ function Init(){
 
   LoadCard("Rainbow","Legends","Sisay, weatherlight captain");
   LoadCard("Breya","Artifacts","Breya, etherium shaper");
-  LoadCard("Cromat","Mutate/ Energy/ Protection/ Nonsense/ Dinos","Cromat");
+  LoadCard("Nono","Colourless","Kozilek the great distortion");
   LoadCard("Junji","Reanimation","Junji");
   LoadCard("Onebo","1 Mana Tribal","Valentin, dean");
+
+  LoadCard("Cromat1","Mutate","Cromat");
+  LoadCard("Cromat2","Energy","Cromat");
+  LoadCard("Cromat3","Nonsense","AtogAtog");
+  LoadCard("Cromat4","Protection","Cromat");
+  LoadCard("Cromat5","Dinos","Cromat");
 
   document.getElementById("P1Ban").textContent = "- - -";
   document.getElementById("P1P1").textContent = "- - -";

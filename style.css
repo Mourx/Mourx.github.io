@@ -1,0 +1,210 @@
+body{
+  background-color: 92A8D1;
+}
+content{
+    margin-top: 170px;
+    text-align: center;
+    font-size: 26pt;
+    font-family: "arial",monospace;
+    font-style: oblique;
+}
+header{
+  color: white;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index:10000;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height 100%;
+  max-height: 150px;
+}
+h1{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  max-height: 150px;
+}
+button{
+  font-size: 1.5vw;
+  color: white;
+  font-family: "elephant";
+  border-radius: 30%;
+  margin:auto;
+  background-color: 34568B;
+  width: 100%;
+}
+.headTable{
+  color: white;
+  text-align: center;
+  background-color: 34568B;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index:10000;
+  width: 100%;
+}
+.buttonTable{
+  font-size: 4.5vw;
+  color: white;
+  text-align: center;
+  background-color: 34568B;
+  font-family: "Impact";
+  font-style: italic;
+}
+.infoTable{
+  font-size: 3.5vw;
+  color: white;
+  text-align: center;
+  background-color: 34568B;
+  font-family: "Impact";
+  width: 100%;
+
+}
+#P1, #P1P1,#P1P2,#P1P3{
+  color: blue;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+    width: 300px;
+}
+#P2, #P2P1,#P2P2,#P2P3{
+  color: green;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+    width: 300px;
+}
+#P1Ban, #P2Ban{
+  color: red;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+    width: 300pt;
+}
+.topdiv{
+  margin:inherit;
+}
+img{
+  margin:auto;
+}
+table{
+  margin: auto;
+  table-layout: auto;
+  text-align: center;
+  border-spacing: 2px;
+}
+table img{
+  width: 100%;
+  height:100%;
+  min-height: 200px;
+  min-width: 143px;
+  border-radius: 4%;
+  border-style:dashed;
+  border-color: purple;
+}
+td{
+  margin: auto;
+  font-size: 1.4vw;
+  font-family: "elephant";
+  padding: 8px;
+  position: relative;
+}
+
+td:hover{
+  box-shadow: 0 0 11px rgba(66,66,66,.6);
+  border-radius: 4%;
+
+}
+.Banned{
+  width: 100%;
+  height: 100%;
+  background: rgba(128,0,0,0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: red;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+  font-size: 2.5vw;
+  border-radius: 4%;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+}
+.PickedP1{
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,128,0.6);
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: blue;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+  font-size: 2.5vw;
+  border-radius: 4%;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+}
+.PickedP2{
+  width: 100%;
+  height: 100%;
+  background: rgba(0,128,0,0.6);
+  position: absolute;
+  border-radius: 4%;
+  top: 0;
+  left: 0;
+  color: green;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+  font-size: 2.5vw;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+}
+.shade{
+  width: 100%;
+  height: 100%;
+  -background: rgba(0,0,0,0.6);
+  position: absolute;
+  border-radius: 4%;
+  top: 0;
+  left: 0;
+  color: black;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+  font-size: 2.5vw;
+  text-shadow:
+    -1px -1px 0 #FFFFFF,
+    1px -1px 0 #FFFFFF,
+    -1px 1px 0 #FFFFFF,
+    1px 1px 0 #FFFFFF;
+}
+
+.fill{
+  height: 100vh;
+  width: 100vw;
+}

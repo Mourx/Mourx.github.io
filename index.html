@@ -5,20 +5,24 @@
 
 
   <content class="fill">
-    <div >
-      Hello <br>
-      Welcome to death.
+    <div>
+      <h1>Hello</h1> <br>
+      Welcome to my website.
     </div>
     <table>
       <tr>
-        <td> <button id="deckSelector">Deck Selector</button></td>
-        <td> <button id="demoPage">Demo Page</button></td>
+        <td> <button id="deckSelector">Commander Decks</button></td>
+        <td> <button id="demoPage">Project Demo Page</button></td>
+        <td> <button id="recipePage">Recipes</button></td>
         <script type="text/javascript">
           document.getElementById("deckSelector").onclick = function (){
-            location.href = "http://mourx.github.io/deckselector.html";
+            location.href = "deckselector.html";
           };
           document.getElementById("demoPage").onclick = function (){
-            location.href = "http:/mourx.github.io/projectPage.html";
+            location.href = "projectPage.html";
+          };
+          document.getElementById("recipePage").onclick = function (){
+            location.href = "recipeList.html";
           };
         </script>
       </tr>

@@ -1,0 +1,136 @@
+
+content{
+    margin-top: 170px;
+    text-align: center;
+    font-size: 26pt;
+    font-family: "arial",monospace;
+    font-style: oblique;
+}
+header{
+  color: white;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  z-index:10000;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height 100%;
+  max-height: 150px;
+}
+h1{
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  max-height: 150px;
+}
+tr{
+  margin:2px;
+}
+.stat_info {
+  background-image: url("/charSheet/Attribute.svg");
+  background-repeat: no-repeat;
+  text-align: center;
+  font-weight: bold;
+  width: 105px;
+  height: 120px;
+}
+.modifier_attr {
+  font-size: 48px;
+}
+
+.val_attr {
+  font-size: 28px;
+}
+
+.attr_title {
+  font-size: 11.5px;
+}
+
+
+.inspiration{
+  background-image: url("/charSheet/Inspiration.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  justify-content: center;
+  width: 190px;
+  height: 55px;
+}
+
+.inspiration_title {
+  padding-left: 25px;
+  text-align: center;
+  font-size: 22px;
+}
+
+.prof_title {
+  padding-left:0;
+  text-align: center;
+  font-size: 16px;
+}
+
+.check_inspiration {
+  text-align: center;
+  font-size: 36px;
+  padding-left: 10px;
+}
+
+.check_prof_bonus {
+  text-align: center;
+  font-size: 32px;
+  padding: 8px;
+}
+
+.proficiency_bonus{
+  background-image: url("/charSheet/Proficiency Bonus.svg");
+  background-repeat: no-repeat;
+  text-align: center;
+  width: 190px;
+  height: 60px;
+}
+
+.skills {
+    background-image: url("/charSheet/Skills.svg");
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 440px;
+    font-size: 8px;
+    padding-left: 8px;
+}
+
+.saves {
+    background-image: url("/charSheet/Saving Throws.svg");
+    background-repeat: no-repeat;
+    width: 180px;
+    height: 170px;
+    font-size: 18px;
+    padding-top: 4px;
+    padding-left: 6px;
+    padding-right: 4px;
+}
+
+.prof_check {
+    background-image: url("/charSheet/Proficiency Checkbox.svg");
+    background-repeat: no-repeat;
+    height: 12px;
+    width: 12px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.prof_check_saves {
+    background-image: url("/charSheet/Proficiency Checkbox.svg");
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+table {
+  font-size: 12px;
+}
+
+.save_font {
+  font-size: 20px;
+}

@@ -14,7 +14,8 @@ div{
   margin-left: 10%;
   margin-right: 10%;
   height: fill;
-  background-color: #B4D0E2;
+  background: rgba(150, 180, 200, 0.88);;
+  background-blend-mode: overlay;
   margin-top: 0;
   font-size: 22px;
 }
@@ -50,19 +51,14 @@ div{
 .topdiv{
   margin:inherit;
 }
-img{
-  margin:auto;
-  width: 50px;
-  height: 50px;
-  text-align: center;
-}
+
 table{
   border-color: black;
   border-style: double;
 }
 table img{
-  width: 100px;
-  height:100px;
+  width: 150px;
+  height:150px;
   border-radius: 4%;
   border-style:dashed;
   border-color: purple;

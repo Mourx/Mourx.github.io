@@ -33,11 +33,19 @@ async function readTextFile(file)
   const url1 = 'https://morx.xyz/decklists/Sram.txt'
   const response = await fetch(url1);
   const data = await response.text();
-  console.log(data);
+  return data;
 }
 
 function Show99(obj){
-  console.log(obj);
+  var data = readTextFile(obj.id+".txt");
+  var table = document.getElementById("listTable");
+  table.innerHTML = "";
+  for(var i = 0;i<99;i++){
+    table.innerHTML+="<tr id=\"listTable"+i+"\"></tr>";
+    console.log(data[i]);
+    LoadCard("listTable"+i,"",data[i]);
+  }
+  console.log(data);
 }
 
 // function StartBanPick(button){

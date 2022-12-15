@@ -30,20 +30,22 @@ function LoadCard(row, deckname, titlecard){
 
 async function readTextFile(file)
 {
-  const url1 = 'https://morx.xyz/decklists/Sram.txt'
+  const url1 = 'https://morx.xyz/decklists/'+file;
   const response = await fetch(url1);
   const data = await response.text();
   return data;
 }
 
-function Show99(obj){
-  var data = readTextFile(obj.id+".txt");
+async function Show99(obj){
+  var data = await readTextFile(obj.id+".txt");
   var table = document.getElementById("listTable");
+  var lines = data.split("\n");
   table.innerHTML = "";
-  for(var i = 0;i<99;i++){
-    table.innerHTML+="<tr id=\"listTable"+i+"\"></tr>";
-    console.log(data[i]);
-    LoadCard("listTable"+i,"",data[i]);
+  for(var i = 0;i<50;i++){
+    if(i!=0) table.innerHTML+="<tr class=\"overlap\" id=\"listTable"+i+"\"></tr>";
+    else  table.innerHTML+="<tr class=\"!overlap\" id=\"listTable"+i+"\"></tr>";
+    console.log(lines[i]);
+    LoadCard("listTable"+i,"",lines[i]);
   }
   console.log(data);
 }
@@ -151,7 +153,5 @@ function Init(){
   LoadCard("Cromat4","Protection","Cromat");
   LoadCard("Cromat5","Dinos","Cromat");
 
-
-  readTextFile("yo");
 
 }

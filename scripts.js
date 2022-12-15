@@ -8,7 +8,7 @@ function ShowText(){
 
 }
 
-function LoadCard(row, deckname, titlecard){
+function LoadCard(row, deckname, titlecard,func){
   var http = new XMLHttpRequest();
   http.onreadystatechange = function(){
     if (this.readyState == 4 && this.status == 200) {
@@ -16,9 +16,9 @@ function LoadCard(row, deckname, titlecard){
       var obj = JSON.parse(txt);
       var data = document.getElementById(row);
       if(obj.hasOwnProperty('image_uris')){
-        data.innerHTML="<img src=" + obj.image_uris.normal + "><div id=\""+data.id+"\" onClick=\"Show99(this)\" class=\"shade\"><span>" + deckname+ "</span></div>";
+        data.innerHTML="<img src=" + obj.image_uris.normal + "><div id=\""+data.id+"\" "+func+" class=\"shade\"><span>" + deckname+ "</span></div>";
       }else{
-        data.innerHTML="<img src=" + obj.card_faces[0].image_uris.normal + "><div id=\""+data.id+"\" onClick=\"Show99(this)\" class=\"shade\"><span>" + deckname + "</span></div>";
+        data.innerHTML="<img src=" + obj.card_faces[0].image_uris.normal + "><div id=\""+data.id+"\""+func+" class=\"shade\"><span>" + deckname + "</span></div>";
       }
     }
   }
@@ -47,9 +47,9 @@ async function Show99(obj){
     table.innerHTML += html;
 
     console.log(lines[i]);
-    LoadCard("listTable"+i,"",lines[i]);
+    LoadCard("listTable"+i,"",lines[i],"");
     i++;
-    LoadCard("listTable"+i,"",lines[i]);
+    LoadCard("listTable"+i,"",lines[i],"");
   }
   console.log(data);
 }
@@ -115,47 +115,47 @@ function Init(){
   bPicking = false;
   bFinished = false;
 
-  LoadCard("White","Auras","Sram, Senior Edificer");
-  LoadCard("Blue","Tap","Aboshan, Cephalid Emporer");
-  LoadCard("Black","Spellslinger","Toshiro Umezawa");
-  LoadCard("Red","Devils","Zurzoth");
-  LoadCard("Green","Stompy","Selvala, Heart of the Wild");
+  LoadCard("White","Auras","Sram, Senior Edificer","onClick=\"Show99(this)\"");
+  LoadCard("Blue","Tap","Aboshan, Cephalid Emporer","onClick=\"Show99(this)\"");
+  LoadCard("Black","Spellslinger","Toshiro Umezawa","onClick=\"Show99(this)\"");
+  LoadCard("Red","Devils","Zurzoth","onClick=\"Show99(this)\"");
+  LoadCard("Green","Stompy","Selvala, Heart of the Wild","onClick=\"Show99(this)\"");
 
-  LoadCard("Azorious","Control","Kwain");
-  LoadCard("Dimir","Mischief","Yuriko");
-  LoadCard("Rakdos","Pain","Tor Wauki, The Younger");
-  LoadCard("Gruul","Artifacts","Meria, Scholar");
-  LoadCard("Selesnya","1/1s","Bess, Soul ");
+  LoadCard("Azorious","Control","Kwain","onClick=\"Show99(this)\"");
+  LoadCard("Dimir","Mischief","Yuriko","onClick=\"Show99(this)\"");
+  LoadCard("Rakdos","Pain","Tor Wauki, The Younger","onClick=\"Show99(this)\"");
+  LoadCard("Gruul","Artifacts","Meria, Scholar","onClick=\"Show99(this)\"");
+  LoadCard("Selesnya","1/1s","Bess, Soul ","onClick=\"Show99(this)\"");
 
-  LoadCard("Orzhov","Lifegain","Karlov of the ghost");
-  LoadCard("Izzet","Wizards","Adeliz");
-  LoadCard("Golgari","Squirrels","Chatterfang");
-  LoadCard("Boros","Gold Golems","General Ferrous");
-  LoadCard("Simic","Frog Mill","Grolnok");
+  LoadCard("Orzhov","Lifegain","Karlov of the ghost","onClick=\"Show99(this)\"");
+  LoadCard("Izzet","Wizards","Adeliz","onClick=\"Show99(this)\"");
+  LoadCard("Golgari","Squirrels","Chatterfang","onClick=\"Show99(this)\"");
+  LoadCard("Boros","Gold Golems","General Ferrous","onClick=\"Show99(this)\"");
+  LoadCard("Simic","Frog Mill","Grolnok","onClick=\"Show99(this)\"");
 
-  LoadCard("Bant","Bant","fish");
-  LoadCard("Esper","Zombies","Varina");
-  LoadCard("Grixis","Chaos Cascade","Abaddon the despoiler");
+  LoadCard("Bant","Bant","fish","onClick=\"Show99(this)\"");
+  LoadCard("Esper","Zombies","Varina","onClick=\"Show99(this)\"");
+  LoadCard("Grixis","Chaos Cascade","Abaddon the despoiler","onClick=\"Show99(this)\"");
   LoadCard("Jund","Counters","Xira, the golden");
-  LoadCard("Naya","Go Wide","Kitt Kanto");
+  LoadCard("Naya","Go Wide","Kitt Kanto","onClick=\"Show99(this)\"");
 
-  LoadCard("Mardu","Legends","Dihada, bender of wills");
-  LoadCard("Temur","Card Snakes","Xyris");
-  LoadCard("Abzan","Keyword Tribal","Kathril");
-  LoadCard("Jeskai","Voltron Eggs","Elsha of the infinite");
-  LoadCard("Sultai","Recursion","Muldrotha the gravetide");
+  LoadCard("Mardu","Legends","Dihada, bender of wills","onClick=\"Show99(this)\"");
+  LoadCard("Temur","Card Snakes","Xyris","onClick=\"Show99(this)\"");
+  LoadCard("Abzan","Keyword Tribal","Kathril","onClick=\"Show99(this)\"");
+  LoadCard("Jeskai","Voltron Eggs","Elsha of the infinite","onClick=\"Show99(this)\"");
+  LoadCard("Sultai","Recursion","Muldrotha the gravetide","onClick=\"Show99(this)\"");
 
-  LoadCard("Rainbow","Legends","Sisay, weatherlight captain");
-  LoadCard("Breya","Artifacts","Breya, etherium shaper");
-  LoadCard("Nono","Colourless","Kozilek the great distortion");
-  LoadCard("Junji","Reanimation","Junji");
-  LoadCard("Onebo","1 Mana Tribal","Valentin, dean");
+  LoadCard("Rainbow","Legends","Sisay, weatherlight captain","onClick=\"Show99(this)\"");
+  LoadCard("Breya","Artifacts","Breya, etherium shaper","onClick=\"Show99(this)\"");
+  LoadCard("Nono","Colourless","Kozilek the great distortion","onClick=\"Show99(this)\"");
+  LoadCard("Junji","Reanimation","Junji","onClick=\"Show99(this)\"");
+  LoadCard("Onebo","1 Mana Tribal","Valentin, dean","onClick=\"Show99(this)\"");
 
-  LoadCard("Cromat1","Mutate","Cromat");
-  LoadCard("Cromat2","Energy","Cromat");
-  LoadCard("Cromat3","Nonsense","AtogAtog");
-  LoadCard("Cromat4","Protection","Cromat");
-  LoadCard("Cromat5","Dinos","Cromat");
+  LoadCard("Cromat1","Mutate","Cromat","onClick=\"Show99(this)\"");
+  LoadCard("Cromat2","Energy","Cromat","onClick=\"Show99(this)\"");
+  LoadCard("Cromat3","Nonsense","AtogAtog","onClick=\"Show99(this)\"");
+  LoadCard("Cromat4","Protection","Cromat","onClick=\"Show99(this)\"");
+  LoadCard("Cromat5","Dinos","Cromat","onClick=\"Show99(this)\"");
 
 
 }

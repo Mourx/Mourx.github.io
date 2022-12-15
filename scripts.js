@@ -40,11 +40,15 @@ async function Show99(obj){
   var data = await readTextFile(obj.id+".txt");
   var table = document.getElementById("listTable");
   var lines = data.split("\n");
-  table.innerHTML = "";
-  for(var i = 0;i<50;i++){
-    if(i!=0) table.innerHTML+="<tr class=\"overlap\" id=\"listTable"+i+"\"></tr>";
-    else  table.innerHTML+="<tr class=\"!overlap\" id=\"listTable"+i+"\"></tr>";
+  for(var i = 0;i<99;i++){
+    var html = "<tr class=\"overlap\" style=\"margin-top:"+(3.5*i)+"%;\"><td id=\"listTable"+i+"\"></td><td id=\"listTable"+(i+1)+"\"></td></tr>"
+    //if(i==0) html = "<tr class=\"!overlap\" ><td id=\"listTable"+i+"\"></td><td id=\"listTable"+(i+1)+"\"></td></tr>"
+
+    table.innerHTML += html;
+
     console.log(lines[i]);
+    LoadCard("listTable"+i,"",lines[i]);
+    i++;
     LoadCard("listTable"+i,"",lines[i]);
   }
   console.log(data);

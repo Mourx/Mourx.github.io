@@ -35,20 +35,20 @@ button{
   width: 100%;
 }
 .sidebar{
-  min-width: 15vw;
-  max-width: 15vw;
+  min-width: 30vw;
+  max-width: 30vw;
   text-align: center;
   vertical-align: top;
 }
+
 .sidebar img{
   border-style: none;
-
+  width: 15vw;
 }
 .overlap{
-  display: block;
-  width: auto;
+  position: absolute;
   left:0px;
-  margin-top: -125%;
+  top: 30px;
 }
 .overlap img{
 }

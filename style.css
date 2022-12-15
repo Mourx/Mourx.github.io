@@ -131,7 +131,7 @@ table img{
 }
 td{
   margin: auto;
-  font-size: 1.4vw;
+  font-size: 1.2vw;
   font-family: "elephant";
   padding: 8px;
   position: relative;
@@ -216,7 +216,7 @@ td:hover{
   justify-content: center;
   display: flex;
   font-size: 30px;
-  font-size: 2.5vw;
+  font-size: 1.4vw;
   text-shadow:
     -1px -1px 0 #FFFFFF,
     1px -1px 0 #FFFFFF,

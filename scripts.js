@@ -15,11 +15,10 @@ function LoadCard(row, deckname, titlecard){
       var txt = this.responseText;
       var obj = JSON.parse(txt);
       var data = document.getElementById(row);
-
       if(obj.hasOwnProperty('image_uris')){
-        data.innerHTML="<img src=" + obj.image_uris.normal + "><div onClick=\"BanPick(this)\" class=\"shade\"><span>" + deckname+ "</span></div>";
+        data.innerHTML="<img src=" + obj.image_uris.normal + "><div id=\""+data.id+"\" onClick=\"Show99(this)\" class=\"shade\"><span>" + deckname+ "</span></div>";
       }else{
-        data.innerHTML="<img src=" + obj.card_faces[0].image_uris.normal + "><div onClick=\"BanPick(this)\" class=\"shade\"><span>" + deckname + "</span></div>";
+        data.innerHTML="<img src=" + obj.card_faces[0].image_uris.normal + "><div id=\""+data.id+"\" onClick=\"Show99(this)\" class=\"shade\"><span>" + deckname + "</span></div>";
       }
     }
   }
@@ -27,6 +26,18 @@ function LoadCard(row, deckname, titlecard){
   http.open("GET","https://api.scryfall.com/cards/named?fuzzy="+titlecard, true);
   http.send();
 
+}
+
+async function readTextFile(file)
+{
+  const url1 = 'https://morx.xyz/decklists/Sram.txt'
+  const response = await fetch(url1);
+  const data = await response.text();
+  console.log(data);
+}
+
+function Show99(obj){
+  console.log(obj);
 }
 
 // function StartBanPick(button){
@@ -132,14 +143,7 @@ function Init(){
   LoadCard("Cromat4","Protection","Cromat");
   LoadCard("Cromat5","Dinos","Cromat");
 
-  document.getElementById("P1Ban").textContent = "- - -";
-  document.getElementById("P1P1").textContent = "- - -";
-  document.getElementById("P1P2").textContent = "- - -";
-  document.getElementById("P1P3").textContent = "- - -";
 
-  document.getElementById("P2Ban").textContent = "- - -";
-  document.getElementById("P2P1").textContent = "- - -";
-  document.getElementById("P2P2").textContent = "- - -";
-  document.getElementById("P2P3").textContent = "- - -";
+  readTextFile("yo");
 
 }

@@ -57,19 +57,21 @@ table{
   border-style: double;
 }
 table img{
-  width: 150px;
-  height:150px;
+  width: 100%;
+  height:100%;
   border-radius: 4%;
   border-style:dashed;
   border-color: purple;
 }
 td{
+  width: 150pt;
   margin: auto;
   font-size: 1.4vw;
   font-family: "elephant";
   padding: 8px;
   position: relative;
   border-style: double;
+  text-align: center;
 }
 
 td:hover{

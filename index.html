@@ -3,37 +3,38 @@
 
   <link rel="stylesheet" href="style.css">
 
+  <body>
+    <content class="fill">
+      <div>
+        <h1>Hello</h1> <br>
+        Welcome to my website.
+      </div>
+      <table>
+        <tr>
+          <td> <input type="image" src="buttonImages/CommanderDecks.png" id="deckSelector"><span class="imageOverlay">Commander Decks</span></input></td>
+          <td> <button id="demoPage">Project Demo Page</button></td>
+          <td> <button id="recipePage">Recipes</button></td>
 
-  <content class="fill">
-    <div>
-      <h1>Hello</h1> <br>
-      Welcome to my website.
-    </div>
-    <table>
-      <tr>
-        <td> <button id="deckSelector">Commander Decks</button></td>
-        <td> <button id="demoPage">Project Demo Page</button></td>
-        <td> <button id="recipePage">Recipes</button></td>
+        </tr>
+        <tr>
+          <td> <button id="londirixLink">Londirix<br> DnD Homebrew</button></td>
+        </tr>
+      </table>
 
-      </tr>
-      <tr>
-        <td> <button id="londirixLink">Londirix<br> DnD Homebrew</button></td>
-      </tr>
-    </table>
-
-    <script type="text/javascript">
-      document.getElementById("deckSelector").onclick = function (){
-        location.href = "deckselector.html";
-      };
-      document.getElementById("demoPage").onclick = function (){
-        location.href = "projectPage.html";
-      };
-      document.getElementById("recipePage").onclick = function (){
-        location.href = "recipeList.html";
-      };
-      document.getElementById("londirixLink").onclick = function (){
-        location.href = "ttrpgresources/Londirix.pdf";
-      };
-    </script>
-  </content>
+      <script type="text/javascript">
+        document.getElementById("deckSelector").onclick = function (){
+          location.href = "deckselector.html";
+        };
+        document.getElementById("demoPage").onclick = function (){
+          location.href = "projectPage.html";
+        };
+        document.getElementById("recipePage").onclick = function (){
+          location.href = "recipeList.html";
+        };
+        document.getElementById("londirixLink").onclick = function (){
+          location.href = "ttrpgresources/Londirix.pdf";
+        };
+      </script>
+    </content>
+  </body>
 </html>

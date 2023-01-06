@@ -8,16 +8,24 @@ h1{
   margin: auto;
   width: 100%;
   height: 100%;
+  text-align: center;
 
 }
 div{
   margin-left: 10%;
   margin-right: 10%;
   height: fill;
-  background: rgba(150, 180, 200, 0.88);;
   background-blend-mode: overlay;
   margin-top: 0;
   font-size: 22px;
+}
+
+.imageOverlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: White;
 }
 
 .headTable{
@@ -30,47 +38,32 @@ div{
   z-index:10000;
   width: 100%;
 }
-.buttonTable{
-  font-size: 4.5vw;
-  color: white;
-  text-align: center;
-  background-color: 34568B;
-  font-family: "Impact";
-  font-style: italic;
-}
-.infoTable{
-  font-size: 3.5vw;
-  color: white;
-  text-align: center;
-  background-color: 34568B;
-  font-family: "Impact";
-  width: 100%;
-
-}
 
 .topdiv{
   margin:inherit;
 }
 
+.recipeImage {
+  width: 200px;
+  height: 200px;
+  max-width: 200px;
+
+}
+
 table{
-  border-color: black;
-  border-style: double;
+
 }
 table img{
   width: 100%;
   height:100%;
-  border-radius: 4%;
-  border-style:dashed;
-  border-color: purple;
+
 }
 td{
   width: 150pt;
   margin: auto;
-  font-size: 1.4vw;
   font-family: "elephant";
   padding: 8px;
   position: relative;
-  border-style: double;
   text-align: center;
 }
 

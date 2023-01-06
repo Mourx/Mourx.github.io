@@ -1,5 +1,6 @@
 body{
-  background-color: #92A8D1;
+  background-image: url('background.jpg');
+
 }
 content{
     margin-top: 170px;
@@ -33,6 +34,12 @@ button{
   margin:auto;
   background-color: #34568B;
   width: 100%;
+}
+.imageOverlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .sidebar{
   min-width: 30vw;

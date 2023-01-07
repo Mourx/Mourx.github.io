@@ -18,6 +18,7 @@ div{
   background-blend-mode: overlay;
   margin-top: 0;
   font-size: 22px;
+  background-color: rgba(150,150,180,0.7);
 }
 
 .imageOverlay {
@@ -77,4 +78,5 @@ td:hover{
 .fill{
   height: 100vh;
   width: 100vw;
+
 }

@@ -81,7 +81,7 @@ Wayfarer's Bauble
 Thran Dynamo
 Eldrazi Mimic
 Scour from Existence
-Solemn Simalucrum
+Solemn Simulacrum
 Karn, the Great Creator
 Azor's Gateway
 Dreamstone Hedron
@@ -95,5 +95,5 @@ Forsaken Monument
 All is Dust
 Not of this World
 Geode Golem
-Burnished Chariot
+Burnished hart
 Deceivor of Form

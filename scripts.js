@@ -153,7 +153,7 @@ function Init(){
 
   LoadCard("Cromat1","Mutate","Cromat","onClick=\"Show99(this)\"");
   LoadCard("Cromat2","Energy","Cromat","onClick=\"Show99(this)\"");
-  LoadCard("Cromat3","Nonsense","AtogAtog","onClick=\"Show99(this)\"");
+  LoadCard("AtogAtog","Nonsense","AtogAtog","onClick=\"Show99(this)\"");
   LoadCard("Cromat4","Protection","Cromat","onClick=\"Show99(this)\"");
   LoadCard("Cromat5","Dinos","Cromat","onClick=\"Show99(this)\"");
 

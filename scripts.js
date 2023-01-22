@@ -121,7 +121,7 @@ function Init(){
   LoadCard("Red","Devils","Zurzoth","onClick=\"Show99(this)\"");
   LoadCard("Green","Stompy","Selvala, Heart of the Wild","onClick=\"Show99(this)\"");
 
-  LoadCard("Azorious","Control","Kwain","onClick=\"Show99(this)\"");
+  LoadCard("Azorius","Control","Kwain","onClick=\"Show99(this)\"");
   LoadCard("Dimir","Mischief","Yuriko","onClick=\"Show99(this)\"");
   LoadCard("Rakdos","Pain","Tor Wauki, The Younger","onClick=\"Show99(this)\"");
   LoadCard("Gruul","Artifacts","Meria, Scholar","onClick=\"Show99(this)\"");

@@ -35,7 +35,7 @@ Island
 Island
 Island
 Consider
-cicular logic
+circular logic
 aetherspouts
 ravenform
 tempest djinn
@@ -55,9 +55,9 @@ willbreaker
 dispel
 invasive surgery
 shield broker
-arcehtype of imagination
+archetype of imagination
 ponder
-llawen, cephalid empress
+llawan, cephalid empress
 polymorphist's jest
 in bolas's clutches
 stolen by the fae
@@ -87,7 +87,7 @@ foil
 eel umbra
 horribly awry
 blustersquall
-didn't say please 
+didn't say please
 cephalid sage
 psychic pickpocket
 opt

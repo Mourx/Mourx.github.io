@@ -145,7 +145,7 @@ function Init(){
   LoadCard("Jeskai","Voltron Eggs","Elsha of the infinite","onClick=\"Show99(this)\"");
   LoadCard("Sultai","Recursion","Muldrotha the gravetide","onClick=\"Show99(this)\"");
 
-  LoadCard("Rainbow","Legends","Sisay, weatherlight captain","onClick=\"Show99(this)\"");
+  LoadCard("Sisay","Legends","Sisay, weatherlight captain","onClick=\"Show99(this)\"");
   LoadCard("Breya","Artifacts","Breya, etherium shaper","onClick=\"Show99(this)\"");
   LoadCard("Nono","Colourless","Kozilek the great distortion","onClick=\"Show99(this)\"");
   LoadCard("Junji","Reanimation","Junji","onClick=\"Show99(this)\"");

@@ -42,7 +42,7 @@ leave // chance
 ajani vengeant
 any, merciless angel
 gisela, blade of goldnight
-impetuous protege
+Sky terror
 inventor's apprentice
 boros keyrune
 expedite
@@ -96,4 +96,4 @@ crash through
 glimmerpoint stag
 make your mark
 fireborn knight
-fling 
+fling

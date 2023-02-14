@@ -18,7 +18,7 @@ div{
   background-blend-mode: overlay;
   margin-top: 0;
   font-size: 22px;
-  background-color: rgba(150,150,180,0.7);
+  background-color: rgba(150,150,180,0.9);
 }
 
 .imageOverlay {

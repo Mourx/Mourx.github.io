@@ -1,99 +1,68 @@
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
-Gone Missing
+Plains
+Plains
+Plains
+Plains
+Plains
+Island
+Island
+Island
+Island
+Island
+Swamp
+Swamp
+Swamp
+Swamp
+Swamp
+Mountain
+Mountain
+Mountain
+Mountain
+Mountain
+Forest
+Forest
+Forest
+Forest
+Forest
+Azorius Guildgate
+Boros Guildgate
+Command tower
+dimir Guildgate
+evolving wilds
+gateway plaza
+golgari Guildgate
+gruul Guildgate
+izzet Guildgate
+orzhov Guildgate
+rakdos Guildgate
+rupture spire
+simic Guildgate
+insidious will
+nicol bolas, the deceiver
+worldly counsel
+battering craghorn
+sprouting vines
+whirlwind denial
+fall of the thran
+cauldron dance
+whispering madness
+song of creation
+siphon insight
+jodah, archmage eternal
+geyadrone dihada
+dihada, binder of wills
+null brooch
+sorcerous spyglass
+failure // comply
+allure of the unknown
+dreamstealer
+nimble obstructionist
+obeka, brute chronologist
+gyruda, doom of depths
+wild evocation
+mirror march
+cultivate
+jace cunning castaway
+sunbird's invocation
+goblin charbelcher
+cultivator's caravan
+refuse // cooperate

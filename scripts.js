@@ -151,6 +151,12 @@ function Init(){
   LoadCard("Junji","Reanimation","Junji","onClick=\"Show99(this)\"");
   LoadCard("Onebo","1 Mana Tribal","Valentin, dean","onClick=\"Show99(this)\"");
 
+  LoadCard("OneboWhite","1 Mana Tribal","Bushi Tenderfoot","onClick=\"Show99(this)\"");
+  LoadCard("OneboBlue","1 Mana Tribal","Errant, Street Artist","onClick=\"Show99(this)\"");
+  LoadCard("OneboBlack","1 Mana Tribal","Ashnod, flesh mechanist","onClick=\"Show99(this)\"");
+  LoadCard("OneboRed","1 Mana Tribal","Rosnakht, heir of Rohgahh","onClick=\"Show99(this)\"");
+  LoadCard("OneboGreen","1 Mana Tribal","oviya Pashiri, sage lifecrafter","onClick=\"Show99(this)\"");
+
   LoadCard("Cromat1","Mutate","Cromat","onClick=\"Show99(this)\"");
   LoadCard("Cromat2","Energy","Cromat","onClick=\"Show99(this)\"");
   LoadCard("AtogAtog","Nonsense","AtogAtog","onClick=\"Show99(this)\"");

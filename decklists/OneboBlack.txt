@@ -35,7 +35,7 @@ omen of the dead
 duress
 drainpipe vermin
 defile
-carrion feeder
+gutterbones
 battlefly swarm
 ashnod's intervention
 tenacious dead
@@ -49,7 +49,7 @@ clay revenant
 the rack
 funeral charm
 pithing needle
-shrieking affliction
+Dread Eternal
 pacification array
 thraben gargoyle
 sol ring

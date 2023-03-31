@@ -44,7 +44,7 @@ era of innovation
 glimmer of genius
 janjeet sentry
 minister of inquiries
-consulate surveillance
+architect of the untamed
 consul's shieldguard
 song of creation
 aetherworks marvel
@@ -59,7 +59,7 @@ aethertorch renegade
 harnessed lightning
 maulfist doorbuster
 thriving turtle
-worldly counsel
+bristling hydra
 eddytrail hawk
 thriving ibex
 whirler virtuoso
@@ -96,4 +96,4 @@ traveler's amulet
 woodweaver's puzzlenot
 jodah's codex
 treasure keeper
-esper charm
+aethersquall ancient

@@ -135,7 +135,7 @@ function Init(){
 
   LoadCard("Bant","Bant","fish","onClick=\"Show99(this)\"");
   LoadCard("Esper","Zombies","Varina","onClick=\"Show99(this)\"");
-  LoadCard("Grixis","Chaos Cascade","Abaddon the despoiler","onClick=\"Show99(this)\"");
+  LoadCard("Grixis","Spellslinger","Kess, dissident mage","onClick=\"Show99(this)\"");
   LoadCard("Jund","Counters","Xira, the golden","onClick=\"Show99(this)\"");
   LoadCard("Naya","Go Wide","Kitt Kanto","onClick=\"Show99(this)\"");
 

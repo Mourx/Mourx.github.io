@@ -133,7 +133,7 @@ function Init(){
   LoadCard("Boros","Gold Golems","General Ferrous","onClick=\"Show99(this)\"");
   LoadCard("Simic","Frog Mill","Grolnok","onClick=\"Show99(this)\"");
 
-  LoadCard("Bant","Bant","fish","onClick=\"Show99(this)\"");
+  LoadCard("Flicker","Bant","Lagrella, the magpie","onClick=\"Show99(this)\"");
   LoadCard("Esper","Zombies","Varina","onClick=\"Show99(this)\"");
   LoadCard("Grixis","Spellslinger","Kess, dissident mage","onClick=\"Show99(this)\"");
   LoadCard("Jund","Counters","Xira, the golden","onClick=\"Show99(this)\"");

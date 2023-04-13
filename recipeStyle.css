@@ -26,7 +26,8 @@ div{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: White;
+  color:	White;
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 .headTable{

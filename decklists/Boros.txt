@@ -60,7 +60,7 @@ fall of the Thran
 aligned hedron network
 adriana, captain of the guard
 sanctum prelate
-go for blood
+invasion of kylem
 bound by moonsilver
 aurelia, the warleader
 banishing light
@@ -69,7 +69,7 @@ baird, argivian recruiter
 obsessive astronomer
 truefire paladin
 cathat commando
-triumph of gerrard
+mirror-shield hoplite
 boros charm
 magmatic chasm
 oketra's monument
@@ -85,7 +85,7 @@ savai thundermane
 thraben inspector
 intangible virtue
 ordrunn veteran
-sheltering light
+Tajic, blade of the legion
 swathcutter giant
 rem karolus, stalwart slayer
 retreat to emeria

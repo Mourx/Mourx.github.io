@@ -36,7 +36,6 @@ orzhov Guildgate
 rakdos Guildgate
 rupture spire
 simic Guildgate
-insidious will
 nicol bolas, the deceiver
 worldly counsel
 battering craghorn
@@ -65,4 +64,5 @@ jace cunning castaway
 sunbird's invocation
 goblin charbelcher
 cultivator's caravan
-refuse // cooperate
+jace's mindseeker
+yargle and multani

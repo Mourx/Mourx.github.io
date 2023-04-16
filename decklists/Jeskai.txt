@@ -54,12 +54,12 @@ wheel of fate
 fight as one
 raugrin crystal
 pyroceratops
-ehterium-horn sorcerer
+wrenn's resolve
 blink of an eye
 play with fire
 nahiri's machinations
 anticipate
-guttersnipe
+volcanic spite
 thrill of possibility
 combat research
 shore up
@@ -72,7 +72,7 @@ desperate ritual
 invasive surgery
 will of the all-hunter
 fading hope
-into the void
+kor halberd
 brainstorm
 whipflare
 split decision
@@ -80,12 +80,12 @@ spell snare
 horribly awry
 coordinated assault
 slip through space
-thraben inspector
+Invasion of Kaladesh
 inspired ultimatum
 pentad prism
 cunning breezedancer
 archaeomancer
-wildfire eternal
+Beamtown Beatstick
 quiet contemplation
 mirror shield
 stormchaser mage

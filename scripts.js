@@ -136,7 +136,7 @@ function Init(){
   LoadCard("Bant","Flicker","Lagrella, the magpie","onClick=\"Show99(this)\"");
   LoadCard("Esper","Zombies","Varina","onClick=\"Show99(this)\"");
   LoadCard("Grixis","Spellslinger","Kess, dissident mage","onClick=\"Show99(this)\"");
-  LoadCard("Jund","Counters","Xira, the golden","onClick=\"Show99(this)\"");
+  LoadCard("Jund","Midrange Value","Slimefoot and Squee","onClick=\"Show99(this)\"");
   LoadCard("Naya","Go Wide","Kitt Kanto","onClick=\"Show99(this)\"");
 
   LoadCard("Mardu","Legends","Dihada, bender of wills","onClick=\"Show99(this)\"");

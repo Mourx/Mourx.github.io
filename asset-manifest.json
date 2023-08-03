@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Mourx.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Mourx.github.io/static/js/main.baa2d6c5.js",
+    "static/js/787.71e672d5.chunk.js": "/Mourx.github.io/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/Mourx.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Mourx.github.io/index.html",
+    "main.073c9b0a.css.map": "/Mourx.github.io/static/css/main.073c9b0a.css.map",
+    "main.baa2d6c5.js.map": "/Mourx.github.io/static/js/main.baa2d6c5.js.map",
+    "787.71e672d5.chunk.js.map": "/Mourx.github.io/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.baa2d6c5.js"
+  ]
+}

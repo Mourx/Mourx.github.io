@@ -1,5 +1,6 @@
 import {
   Box,
+  Button,
   Card,
   CardActions,
   CardContent,
@@ -11,16 +12,15 @@ import React, { useState } from "react";
 interface decklistProps {
   deckname: string;
   previewCard: string;
-  description: string;
+  description?: string;
+  file?: string;
+  functions: {
+    setOpenDialog: any;
+    setDecklist: any;
+  };
 }
 
-export function MagicDeckPreviewCard(
-  props: decklistProps = {
-    deckname: "oof",
-    previewCard: "Gone Missing",
-    description: "Damn I forgot to describe this one",
-  }
-) {
+export function MagicDeckPreviewCard(props: decklistProps) {
   const [previewUrl, setPreviewUrl] = useState("");
   var http = new XMLHttpRequest();
   http.onreadystatechange = function () {
@@ -45,15 +45,23 @@ export function MagicDeckPreviewCard(
   return (
     <Card>
       <CardContent>
-        <Typography sx={{ fontSize: 24 }} color="text.secondary" gutterBottom>
+        <Typography variant="h6" color="text.secondary" gutterBottom>
           {props.deckname}
         </Typography>
         <CardMedia component="img" image={previewUrl} alt={props.deckname} />
         <Typography sx={{ textAlign: "center", fontSize: 18 }} component="div">
           {props.description}
         </Typography>
+        <Button
+          onClick={() => {
+            props.functions.setDecklist(props.file);
+            props.functions.setOpenDialog(true);
+          }}
+        >
+          {" "}
+          View Decklist
+        </Button>
       </CardContent>
-      <CardActions>View Decklist</CardActions>
     </Card>
   );
 }

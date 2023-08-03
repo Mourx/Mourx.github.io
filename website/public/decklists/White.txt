@@ -1,0 +1,67 @@
+33 Plains
+1 Desert of the True
+1 Mesa Enchantress
+1 Danitha Capashen, Paragon
+1 Cartouche of Solidarity
+1 Battle Mastery
+1 Hundred-Handed One
+1 Cathar's Call
+1 Eerie Interlude
+1 Crib Swap
+1 Celestial Flare
+1 Pariah
+1 Beloved Princess
+1 Sage's Reverie
+1 Glimpse the Sun God
+1 Iona's Blessing
+1 Phalanx Leader
+1 Kinjalli's Sunwing
+1 Swords to Plowshares
+1 Blessing
+1 Sentinel's Mark
+1 Felidar Retreat
+1 Spectral Grasp
+1 Bond of Discipline
+1 Angel of Condemnation
+1 Emeria Shepherd
+1 Sigil of the Empty Throne
+1 Ajani's Sunstriker
+1 Brave the Elements
+1 Monk Idealist
+1 Captured by the Consulate
+1 Commanding Presence
+1 Unquestioned Authority
+1 Immolating Glare
+1 Cage of Hands
+1 Vow of Duty
+1 Gideon's Intervention
+1 Kwende, Pride of Femeref
+1 Faith's Reward
+1 Desert's Hold
+1 All that Glitters
+1 Auramancer
+1 Serra Angel
+1 Return to dust
+1 Banishing light
+1 On serra's wings
+1 Blade Banish
+1 Kor spiritdancer
+1 Lone Rider
+1 Transcendent Envoy
+1 Heliod's pilgrim
+1 Open the armory
+1 Grasp of fate
+1 Holy mantle
+1 Stasis snare
+1 Thopter arrest
+1 Cast Out
+1 Demotion
+1 Dictate of heliod
+1 Seal away
+1 Ghostblade eidolon
+1 Dawn of hope
+1 Cathar commando
+1 Sentinel's eyes
+1 Open the vaults
+1 Pacifism
+1 Celestial archon

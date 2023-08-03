@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 
 import "./App.css";
 import {
@@ -38,7 +38,9 @@ function App() {
   const changeOpenMagic = () => {
     setMagic(!openMagic);
   };
-
+  useEffect(() => {
+    document.title = "Morx's Stuff :)";
+  }, []);
   return (
     <BrowserRouter>
       <Box display={"flex"}>

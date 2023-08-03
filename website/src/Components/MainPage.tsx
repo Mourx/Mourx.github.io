@@ -23,14 +23,13 @@ import {
 import ExpandLess from "@mui/icons-material/ExpandLess";
 import ExpandMore from "@mui/icons-material/ExpandMore";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import { CommanderDecklistsPage } from "./Components/CommanderDecklistsPage";
-import { RecipePage } from "./Components/RecipePage";
 import { useNavigate, Link } from "react-router-dom";
-import { link } from "fs";
+import { CommanderDecklistsPage } from "./CommanderDecklistsPage";
+import { RecipePage } from "./RecipePage";
 
 const theme = createTheme({ palette: { mode: "light" } });
 
-function App() {
+export const MainPage: any = () => {
   const [openGames, setOpenGames] = React.useState(false);
   const [openMagic, setMagic] = React.useState(false);
   const changeOpenGames = () => {
@@ -41,6 +40,7 @@ function App() {
     setMagic(!openMagic);
   };
 
+  const navigate = useNavigate();
   return (
     <BrowserRouter>
       <Box display={"flex"}>
@@ -79,9 +79,13 @@ function App() {
               </Typography>
             </Toolbar>
             <List>
-              <ListItemButton to={"/Recipes"} component={Link}>
+              <ListItem
+                onClick={() => {
+                  navigate("/Recipes");
+                }}
+              >
                 Recipes
-              </ListItemButton>
+              </ListItem>
               <ListItemButton onClick={changeOpenGames}>
                 Games
                 {openGames ? <ExpandLess /> : <ExpandMore />}
@@ -99,14 +103,19 @@ function App() {
                 </List>
               </Collapse>
               <ListItemButton onClick={changeOpenMagic}>
-                Magic Decks
+                Magic Deck
                 {openMagic ? <ExpandLess /> : <ExpandMore />}
               </ListItemButton>
               <Collapse in={openMagic}>
                 <List>
-                  <ListItemButton to={"/Magic"} component={Link}>
-                    Commander
-                  </ListItemButton>
+                  {["Commander", "Modern", "The Cube"].map((text, index) => (
+                    <ListItem key={text} disablePadding>
+                      <ListItemButton>
+                        <ListItemIcon></ListItemIcon>
+                        <ListItemText primary={text} />
+                      </ListItemButton>
+                    </ListItem>
+                  ))}
                 </List>
               </Collapse>
             </List>
@@ -115,14 +124,14 @@ function App() {
             <Toolbar />
             <Routes>
               <Route path="/" element={<CommanderDecklistsPage />} />
-              <Route path="/Magic" element={<CommanderDecklistsPage />} />
-              <Route path="/Recipes" element={<RecipePage />} />
+              <Route path="/Magic" element={<RecipePage />} />
+              <Route path="/Recipes" element={<CommanderDecklistsPage />} />
             </Routes>
           </Box>
         </ThemeProvider>
       </Box>
     </BrowserRouter>
   );
-}
+};
 
 export default App;

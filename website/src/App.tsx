@@ -1,14 +1,12 @@
 import React from "react";
-import logo from "./logo.svg";
+
 import "./App.css";
-import { MagicDeckPreviewCard } from "./Components/MagicDeckPreviewCard";
 import {
   AppBar,
   Box,
   Collapse,
   CssBaseline,
   Drawer,
-  Grid,
   List,
   ListItem,
   ListItemButton,
@@ -25,8 +23,8 @@ import ExpandMore from "@mui/icons-material/ExpandMore";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { CommanderDecklistsPage } from "./Components/CommanderDecklistsPage";
 import { RecipePage } from "./Components/RecipePage";
-import { useNavigate, Link } from "react-router-dom";
-import { link } from "fs";
+import { Link } from "react-router-dom";
+import { ModernDecklistsPage } from "./Components/ModernDecklistsPage";
 
 const theme = createTheme({ palette: { mode: "light" } });
 
@@ -104,9 +102,17 @@ function App() {
               </ListItemButton>
               <Collapse in={openMagic}>
                 <List>
-                  <ListItemButton to={"/Magic"} component={Link}>
-                    Commander
-                  </ListItemButton>
+                  <ListItem sx={{ paddingLeft: "2vw" }}>
+                    <ListItemButton to={"/Commander"} component={Link}>
+                      Commander
+                    </ListItemButton>
+                  </ListItem>
+
+                  <ListItem sx={{ paddingLeft: "2vw" }}>
+                    <ListItemButton to={"/Modern"} component={Link}>
+                      Modern
+                    </ListItemButton>
+                  </ListItem>
                 </List>
               </Collapse>
             </List>
@@ -115,7 +121,8 @@ function App() {
             <Toolbar />
             <Routes>
               <Route path="/" element={<CommanderDecklistsPage />} />
-              <Route path="/Magic" element={<CommanderDecklistsPage />} />
+              <Route path="/Commander" element={<CommanderDecklistsPage />} />
+              <Route path="/Modern" element={<ModernDecklistsPage />} />
               <Route path="/Recipes" element={<RecipePage />} />
             </Routes>
           </Box>

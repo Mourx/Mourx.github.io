@@ -11,9 +11,16 @@ import React, { useState } from "react";
 interface decklistProps {
   deckname: string;
   previewCard: string;
+  description: string;
 }
 
-export function MagicDeckPreviewCard(props: decklistProps) {
+export function MagicDeckPreviewCard(
+  props: decklistProps = {
+    deckname: "oof",
+    previewCard: "Gone Missing",
+    description: "Damn I forgot to describe this one",
+  }
+) {
   const [previewUrl, setPreviewUrl] = useState("");
   var http = new XMLHttpRequest();
   http.onreadystatechange = function () {
@@ -42,8 +49,8 @@ export function MagicDeckPreviewCard(props: decklistProps) {
           {props.deckname}
         </Typography>
         <CardMedia component="img" image={previewUrl} alt={props.deckname} />
-        <Typography variant="body2" component="div">
-          A short description about what the deck does
+        <Typography sx={{ textAlign: "center", fontSize: 18 }} component="div">
+          {props.description}
         </Typography>
       </CardContent>
       <CardActions>View Decklist</CardActions>

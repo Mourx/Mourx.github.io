@@ -4,7 +4,7 @@ import { B } from "../B";
 
 export function HistoryPage() {
   return (
-    <Box sx={{ maxWidth: "80vh" }}>
+    <Box>
       <Typography variant="h1">History of Santryl</Typography>{" "}
       <Typography>
         Santryl's history started when the six ancient Gods agreed on a

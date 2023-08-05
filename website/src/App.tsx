@@ -26,8 +26,44 @@ import { Link } from "react-router-dom";
 import { ModernDecklistsPage } from "./Components/Magic/ModernDecklistsPage";
 import { MainPage } from "./Components/MainPage";
 import { HistoryPage } from "./Components/Santryl/HistoryPage";
-import { RulesPage } from "./Components/Dnd/Rules";
+import { DndRulesPage } from "./Components/Dnd/DndRules";
 import { theme } from "./Components/theme";
+import { FaithPage } from "./Components/Santryl/Faith";
+import { BtvRulesPage } from "./Components/Btv/BtvRules";
+import { AubergineMeatballs } from "./Components/Recipes/AubergineMeatballs";
+import { BlackBeanBurgers } from "./Components/Recipes/BlackBeanBurgers";
+import { ButternutSquashPasta } from "./Components/Recipes/ButternutSquashPasta";
+import { CreamyMushroomPasta } from "./Components/Recipes/CreamyMushroomPasta";
+import { DoubleBeanAndRoastedPepperChilli } from "./Components/Recipes/DoubleBeanAndRoastedPepperChilli";
+import { DutchBoerenKoolStamppot } from "./Components/Recipes/DutchBoerenKoolStamppot";
+import { Falafels } from "./Components/Recipes/Falafels";
+import { GreenRisotto } from "./Components/Recipes/GreenRisotto";
+import { HalloumiSpinachCurry } from "./Components/Recipes/HalloumiSpinachCurry";
+import { HarissaPasta } from "./Components/Recipes/HarissaPasta";
+import { HeartyLentilStew } from "./Components/Recipes/HeartyLentilStew";
+import { JewelledMoutzentra } from "./Components/Recipes/JewelledMoutzentra";
+import { KungPaoCauliflower } from "./Components/Recipes/KungPaoCauliflower";
+import { LentilShepherdsPie } from "./Components/Recipes/LentilShepherdsPie";
+import { MapuTofu } from "./Components/Recipes/MapuTofu";
+import { MinnestroneSoup } from "./Components/Recipes/MinnestroneSoup";
+import { NamKhao } from "./Components/Recipes/NamKhao";
+import { PastaBake } from "./Components/Recipes/PastaBake";
+import { PotatoLentilSoup } from "./Components/Recipes/PotatoLentilSoup";
+import { PuffPastryVegetableTart } from "./Components/Recipes/PuffPastryVegetableTart";
+import { Quesadillas } from "./Components/Recipes/Quesadillas";
+import { RedKidneyBeanCurry } from "./Components/Recipes/RedKidneyBeanCurry";
+import { WinterQuinoaSalad } from "./Components/Recipes/WinterQuinoaSalad";
+import { VegetableJambalaya } from "./Components/Recipes/VegetableJambalaya";
+import { VegetableEnchiladas } from "./Components/Recipes/VegetableEnchiladas";
+import { SweetPotatoTortilla } from "./Components/Recipes/SweetPotatoTortilla";
+import { SweetPotatoChilli } from "./Components/Recipes/SweetPotatoChilli";
+import { VeganKofta } from "./Components/Recipes/VeganKofta";
+import { SweetTofu } from "./Components/Recipes/SweetTofu";
+import { SpringPilau } from "./Components/Recipes/SpringPilau";
+import { SpinachPaneerPulao } from "./Components/Recipes/SpinachPaneerPulao";
+import { SausagePotatoKaleSoup } from "./Components/Recipes/SausagePotatoKaleSoup";
+import { Samosas } from "./Components/Recipes/Samosas";
+import { RedLentilCurry } from "./Components/Recipes/RedLentilCurry";
 
 function App() {
   const [openGames, setOpenGames] = React.useState(false);
@@ -298,7 +334,7 @@ function App() {
               </Collapse>
             </List>
           </Drawer>
-          <Box component="main" sx={{ flexGrow: 1, p: 3 }}>
+          <Box component="main" sx={{ flexGrow: 1, p: 2 }}>
             <Toolbar />
             <Routes>
               <Route path="/" element={<MainPage />} />
@@ -309,11 +345,117 @@ function App() {
               />
               <Route path="/Magic/Modern" element={<ModernDecklistsPage />} />
 
-              <Route path="/Recipes" element={<RecipePage />} />
-
               <Route path="/Santryl/History" element={<HistoryPage />} />
+              <Route path="/Santryl/Faith" element={<FaithPage />} />
 
-              <Route path="/Dnd/Rules" element={<RulesPage />} />
+              <Route path="/Dnd/Rules" element={<DndRulesPage />} />
+
+              <Route path="/Btv/Rules" element={<BtvRulesPage />} />
+
+              <Route path="/Recipes" element={<RecipePage />} />
+              <Route
+                path="/Recipes/AubergineMeatballs"
+                element={<AubergineMeatballs />}
+              />
+              <Route
+                path="/Recipes/BlackBeanBurgers"
+                element={<BlackBeanBurgers />}
+              />
+              <Route
+                path="/Recipes/ButternutSquashPasta"
+                element={<ButternutSquashPasta />}
+              />
+              <Route
+                path="/Recipes/CreamyMushroomPasta"
+                element={<CreamyMushroomPasta />}
+              />
+              <Route
+                path="/Recipes/DoubleBeanAndRoastedPepperChilli"
+                element={<DoubleBeanAndRoastedPepperChilli />}
+              />
+              <Route
+                path="/Recipes/DutchBoerenKoolStamppot"
+                element={<DutchBoerenKoolStamppot />}
+              />
+              <Route path="/Recipes/Falafels" element={<Falafels />} />
+              <Route path="/Recipes/GreenRisotto" element={<GreenRisotto />} />
+              <Route
+                path="/Recipes/HalloumiSpinachCurry"
+                element={<HalloumiSpinachCurry />}
+              />
+              <Route path="/Recipes/HarissaPasta" element={<HarissaPasta />} />
+              <Route
+                path="/Recipes/HeartyLentilStew"
+                element={<HeartyLentilStew />}
+              />
+              <Route
+                path="/Recipes/JewelledMoutzentra"
+                element={<JewelledMoutzentra />}
+              />
+              <Route
+                path="/Recipes/KungPaoCauliflower"
+                element={<KungPaoCauliflower />}
+              />
+              <Route
+                path="/Recipes/LentilShepherdsPie"
+                element={<LentilShepherdsPie />}
+              />
+              <Route path="/Recipes/MapuTofu" element={<MapuTofu />} />
+              <Route
+                path="/Recipes/MinnestroneSoup"
+                element={<MinnestroneSoup />}
+              />
+              <Route path="/Recipes/NamKhao" element={<NamKhao />} />
+              <Route path="/Recipes/PastaBake" element={<PastaBake />} />
+              <Route
+                path="/Recipes/PotatoLentilSoup"
+                element={<PotatoLentilSoup />}
+              />
+              <Route
+                path="/Recipes/PuffPastryVegetableTart"
+                element={<PuffPastryVegetableTart />}
+              />
+              <Route path="/Recipes/Quesadillas" element={<Quesadillas />} />
+              <Route
+                path="/Recipes/RedKidneyBeanCurry"
+                element={<RedKidneyBeanCurry />}
+              />
+              <Route
+                path="/Recipes/RedLentilCurry"
+                element={<RedLentilCurry />}
+              />
+              <Route path="/Recipes/Samosas" element={<Samosas />} />
+              <Route
+                path="/Recipes/SausagePotatoKaleSoup"
+                element={<SausagePotatoKaleSoup />}
+              />
+              <Route
+                path="/Recipes/SpinachPaneerPulao"
+                element={<SpinachPaneerPulao />}
+              />
+              <Route path="/Recipes/SpringPilau" element={<SpringPilau />} />
+              <Route
+                path="/Recipes/SweetPotatoChilli"
+                element={<SweetPotatoChilli />}
+              />
+              <Route
+                path="/Recipes/SweetPotatoTortilla"
+                element={<SweetPotatoTortilla />}
+              />
+              <Route path="/Recipes/SweetTofu" element={<SweetTofu />} />
+              <Route path="/Recipes/VeganKofta" element={<VeganKofta />} />
+              <Route
+                path="/Recipes/VegetableEnchiladas"
+                element={<VegetableEnchiladas />}
+              />
+              <Route
+                path="/Recipes/VegetableJambalaya"
+                element={<VegetableJambalaya />}
+              />
+              <Route
+                path="/Recipes/WinterQuinoaSalad"
+                element={<WinterQuinoaSalad />}
+              />
             </Routes>
           </Box>
         </ThemeProvider>

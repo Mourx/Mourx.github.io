@@ -2,9 +2,9 @@ import { Box, Typography } from "@mui/material";
 import React from "react";
 import { B } from "../B";
 
-export function RulesPage() {
+export function DndRulesPage() {
   return (
-    <Box sx={{ maxWidth: "50%" }}>
+    <Box>
       <Typography variant="h1">Rule Differences</Typography>
 
       <Typography variant="h2">Combat Actions</Typography>

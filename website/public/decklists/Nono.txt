@@ -1,99 +1,86 @@
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Wastes
-Reliquary Tower
-War Room
-Dread Statuary
-Urza's Mine
-Urza's Power Plant
-Urza's Tower
-Cradle of the Accursed
-Isolated Watchtower
-Forge of Heroes
-Grasping Dunes
-Shrine of the Forsaked Gods
-Mystifying Maze
-Eldrazi Temple
-Sunscorched Desert
-Detection Tower
-Spawning Bed
-Sea Gate Wreckage
-Evolving Wilds
-Zhalfirin Void
-Endless Sands
-Rogue's Passage
-Mage-Ring Network
-Hostile Desert
-Matter Reshaper
-Reality Smasher
-Prowler's Helm
-Unstable Obelisk
-Haunted Cloak
-Thought-Knot Seer
-Titan's Presence
-Endbringer
-Chariot of Victory
-Kozilek's Pathfinder
-It That Betrays
-Aartisan of Kozilek
-Hedron Archive
-Darksteel Ingot
-Conduit of Ruin
-Gruesome Slaughter
-Filigree Familiar
-Ugin, the Ineffable
-Mind Stone
-Expedition Map
-Thought Vessel
-Seer's Lantern
-Nullstone Gargoyle
-Fireshrieker
-Ulamog's Crusher
-Soul of New Phyrexia
-Warping Wail
-Gilded Lotus
-Helm of the Host
-Whispersilk Cloak
-Oblivion Stone
-Palladium Myr
-Bane of Bala Ged
-Everflowing Chalice
-Darksteel Sentinel
-Walker of the Wastes
-Breaker of Armies
-Metalwork Colossus
-Spatial Contortion
-Eternal Scourge
-Mindslaver
-Jhoira's Familiar
-Wayfarer's Bauble
-Thran Dynamo
-Eldrazi Mimic
-Scour from Existence
-Solemn Simulacrum
-Karn, the Great Creator
-Azor's Gateway
-Dreamstone Hedron
-Introduction to Annihilation
-Myr Battlesphere
-Sol Ring
-Kozilek's Channeler
-Platinum Angel
-Oblivion Sower
-Forsaken Monument
-All is Dust
-Not of this World
-Geode Golem
-Burnished hart
-Deceivor of Form
+14 Wastes
+1 Reliquary Tower
+1 War Room
+1 Dread Statuary
+1 Urza's Mine
+1 Urza's Power Plant
+1 Urza's Tower
+1 Cradle of the Accursed
+1 Isolated Watchtower
+1 Forge of Heroes
+1 Grasping Dunes
+1 Shrine of the Forsaked Gods
+1 Mystifying Maze
+1 Eldrazi Temple
+1 Sunscorched Desert
+1 Detection Tower
+1 Spawning Bed
+1 Sea Gate Wreckage
+1 Evolving Wilds
+1 Zhalfirin Void
+1 Endless Sands
+1 Rogue's Passage
+1 Mage-Ring Network
+1 Hostile Desert
+1 Matter Reshaper
+1 Reality Smasher
+1 Prowler's Helm
+1 Unstable Obelisk
+1 Haunted Cloak
+1 Thought-Knot Seer
+1 Titan's Presence
+1 Endbringer
+1 Chariot of Victory
+1 Kozilek's Pathfinder
+1 It That Betrays
+1 Aartisan of Kozilek
+1 Hedron Archive
+1 Darksteel Ingot
+1 Conduit of Ruin
+1 Gruesome Slaughter
+1 Filigree Familiar
+1 Ugin, the Ineffable
+1 Mind Stone
+1 Expedition Map
+1 Thought Vessel
+1 Seer's Lantern
+1 Nullstone Gargoyle
+1 Fireshrieker
+1 Ulamog's Crusher
+1 Soul of New Phyrexia
+1 Warping Wail
+1 Gilded Lotus
+1 Helm of the Host
+1 Whispersilk Cloak
+1 Oblivion Stone
+1 Palladium Myr
+1 Bane of Bala Ged
+1 Everflowing Chalice
+1 Darksteel Sentinel
+1 Walker of the Wastes
+1 Breaker of Armies
+1 Metalwork Colossus
+1 Spatial Contortion
+1 Eternal Scourge
+1 Mindslaver
+1 Jhoira's Familiar
+1 Wayfarer's Bauble
+1 Thran Dynamo
+1 Eldrazi Mimic
+1 Scour from Existence
+1 Solemn Simulacrum
+1 Karn, the Great Creator
+1 Azor's Gateway
+1 Dreamstone Hedron
+1 Introduction to Annihilation
+1 Myr Battlesphere
+1 Sol Ring
+1 Kozilek's Channeler
+1 Platinum Angel
+1 Oblivion Sower
+1 Forsaken Monument
+1 All is Dust
+1 Not of this World
+1 Geode Golem
+1 Burnished hart
+1 Deceivor of Form

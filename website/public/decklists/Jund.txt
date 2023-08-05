@@ -1,99 +1,74 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Rakdos guildgate
-racers' ring
-cinder barrens
-bloodfell caves
-evolving wilds
-foul orchard
-rogue's passage
-golgari guildgate
-gruul guildgate
-rugged highlands
-jungle hollow
-heartless hidetsugu
-gamekeeper
-manalith
-assassin's trophy
-dark bargain
-elvish mystic
-thantis, the warweaver
-sonorous howlbonder
-hull breach
-animation module
-the scorpion god
-hapatra, vizier of poisons
-savage twister
-obelisk spider
-Xira, the golden sting
-grumgully, the generous
-destined // lead
-decimator beetle
-manticore eternal
-rulik mons, warren chief
-bloodbraid elf
-quest for the gravelord
-rakdos locket
-life of the party
-altar's reap
-fulminator mage
-llanowar elves
-darigaaz reincarnated
-read the bones
-dismember
-sower of discord
-trumpet blast
-prey upon
-search for tomorrow
-funeral charm
-swarm guildmage
-bontu's last reckoning
-canker abomination
-goblin anarchomancer
-dissension in the ranks
-ultimate price
-grave upheaval
-ruin raider
-thorn of the black rose
-firemantle mage
-deadly designs
-maelstrom pulse
-dragonlair spider
-garna, the bloodflame
-hamletback goliath
-alloy myr
-gorm the great
-marchesa's decree
-smother
-virtus the veiled
-sylvan scrying
-gruul locket
-district guide
-hellkite tyrant
-nature's claim
+9 Swamp
+9 Mountain
+10 Forest
+1 Rakdos guildgate
+1 racers' ring
+1 cinder barrens
+1 bloodfell caves
+1 evolving wilds
+1 foul orchard
+1 rogue's passage
+1 golgari guildgate
+1 gruul guildgate
+1 rugged highlands
+1 jungle hollow
+1 heartless hidetsugu
+1 gamekeeper
+1 manalith
+1 assassin's trophy
+1 dark bargain
+1 elvish mystic
+1 thantis, the warweaver
+1 sonorous howlbonder
+1 hull breach
+1 animation module
+1 the scorpion god
+1 hapatra, vizier of poisons
+1 savage twister
+1 obelisk spider
+1 Xira, the golden sting
+1 grumgully, the generous
+1 destined // lead
+1 decimator beetle
+1 manticore eternal
+1 rulik mons, warren chief
+1 bloodbraid elf
+1 quest for the gravelord
+1 rakdos locket
+1 life of the party
+1 altar's reap
+1 fulminator mage
+1 llanowar elves
+1 darigaaz reincarnated
+1 read the bones
+1 dismember
+1 sower of discord
+1 trumpet blast
+1 prey upon
+1 search for tomorrow
+1 funeral charm
+1 swarm guildmage
+1 bontu's last reckoning
+1 canker abomination
+1 goblin anarchomancer
+1 dissension in the ranks
+1 ultimate price
+1 grave upheaval
+1 ruin raider
+1 thorn of the black rose
+1 firemantle mage
+1 deadly designs
+1 maelstrom pulse
+1 dragonlair spider
+1 garna, the bloodflame
+1 hamletback goliath
+1 alloy myr
+1 gorm the great
+1 marchesa's decree
+1 smother
+1 virtus the veiled
+1 sylvan scrying
+1 gruul locket
+1 district guide
+1 hellkite tyrant
+1 nature's claim

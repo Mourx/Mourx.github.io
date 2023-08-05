@@ -11,7 +11,6 @@ export function Decklist(props: decklistProps) {
   const [previewUrl, setPreviewUrl] = useState("");
 
   async function ProcessDecklist(): Promise<string[]> {
-    let txt = "../decklists/White.txt";
     console.log(data);
     let decklist: string[] = [];
     let lines = data.split("\n");
@@ -43,6 +42,12 @@ export function Decklist(props: decklistProps) {
     );
   });
 
+  useEffect(() => {
+    if (list[0]) {
+      console.log(list);
+      setImageUrl(list[0]);
+    }
+  }, [list]);
   function setImageUrl(str: string): any {
     let parts = str.split(" ");
     let newrl = "";
@@ -78,13 +83,20 @@ export function Decklist(props: decklistProps) {
       <Grid
         container
         display="grid"
-        sx={{ gridTemplateColumns: { md: "1fr 1fr" } }}
+        sx={{
+          direction: "column",
+          justifyContent: "center",
+          alignItems: "center",
+          gridTemplateColumns: { md: "1fr 1fr" },
+        }}
       >
         <Grid
           item
-          xs={12}
           display="grid"
-          sx={{ gridTemplateColumns: { md: "1fr 1fr" } }}
+          sx={{
+            height: "fit-content",
+            gridTemplateColumns: { md: "1fr 1fr 1fr" },
+          }}
         >
           {list.map((text, index) => (
             <ListItem
@@ -94,11 +106,11 @@ export function Decklist(props: decklistProps) {
                 setImageUrl(text);
               }}
             >
-              {text}
+              <Typography>{text}</Typography>
             </ListItem>
           ))}
         </Grid>
-        <Grid item xs={12}>
+        <Grid item>
           <img
             src={previewUrl}
             style={{

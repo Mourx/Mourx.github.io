@@ -1,99 +1,76 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Hostile Hostel
-Access Tunnel
-Barren moor
-desert of the glorified
-blast zone
-westvale abbey
-vorpal sword
-Shambling ghast
-Disciple of the vault
-omen of the dead
-duress
-drainpipe vermin
-defile
-gutterbones
-battlefly swarm
-ashnod's intervention
-tenacious dead
-ruthless ripper
-harsh scrutiny
-blackmail
-nihil spellbomb
-inventor's goggles
-prying blade
-clay revenant
-the rack
-funeral charm
-pithing needle
-Dread wanderer
-pacification array
-thraben gargoyle
-sol ring
-prosthetic injector
-heap doll
-consulate dreadnought
-goblin firebomb
-dross skullbomb
-leather ARmor
-smolder initiate
-dockside chef
-ecstatic awakener
-forsworn paladin
-concealing curtains
-cauldron familiar
-persistent specimen
-unwilling ingredient
-vicious conquistador
-bronze cudgels
-sphere of annihilation
-eaten alive
-bloodchief's thirst
-death wind
-innocent blood
-skullclamp
-village rites
-dark salvation
-skeleton key
-sparring construct
-vampiric rites
-witch's oven
-bloodsoaked champion
-cult conscript
-thieves' guild enforcer
-will-o'-the-wisp
-thrull parasite
-knight of the ebon legion
-typhoid rats
-night market lookout
-raven's crime
-tragic slip
-eyetwitch
-gang up
-thoughtpicker witch
-nested shambler
-battle at the bridge
-necrotic wound
+24 Swamp
+1 Hostile Hostel
+1 Access Tunnel
+1 Barren moor
+1 desert of the glorified
+1 blast zone
+1 westvale abbey
+1 vorpal sword
+1 Shambling ghast
+1 Disciple of the vault
+1 omen of the dead
+1 duress
+1 drainpipe vermin
+1 defile
+1 gutterbones
+1 battlefly swarm
+1 ashnod's intervention
+1 tenacious dead
+1 ruthless ripper
+1 harsh scrutiny
+1 blackmail
+1 nihil spellbomb
+1 inventor's goggles
+1 prying blade
+1 clay revenant
+1 the rack
+1 funeral charm
+1 pithing needle
+1 Dread wanderer
+1 pacification array
+1 thraben gargoyle
+1 sol ring
+1 prosthetic injector
+1 heap doll
+1 consulate dreadnought
+1 goblin firebomb
+1 dross skullbomb
+1 leather ARmor
+1 smolder initiate
+1 dockside chef
+1 ecstatic awakener
+1 forsworn paladin
+1 concealing curtains
+1 cauldron familiar
+1 persistent specimen
+1 unwilling ingredient
+1 vicious conquistador
+1 bronze cudgels
+1 sphere of annihilation
+1 eaten alive
+1 bloodchief's thirst
+1 death wind
+1 innocent blood
+1 skullclamp
+1 village rites
+1 dark salvation
+1 skeleton key
+1 sparring construct
+1 vampiric rites
+1 witch's oven
+1 bloodsoaked champion
+1 cult conscript
+1 thieves' guild enforcer
+1 will-o'-the-wisp
+1 thrull parasite
+1 knight of the ebon legion
+1 typhoid rats
+1 night market lookout
+1 raven's crime
+1 tragic slip
+1 eyetwitch
+1 gang up
+1 thoughtpicker witch
+1 nested shambler
+1 battle at the bridge
+1 necrotic wound

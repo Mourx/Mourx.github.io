@@ -1,99 +1,79 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Island
-Island
-Island
-Island
-Island
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Forest
-Forest
-Forest
-Forest
-Forest
-Selesnya Guildgate
-Evolving Wilds
-Rakdos Guildgate
-Command Tower
-Izzet Guildgate
-Geothermal bog
-tangled islet
-sacred peaks
-sunlit marsh
-contaminated aquifer
-gruul Guildgate
-rupture Spire
-golgari Guildgate
-azorious Guildgate
-black dragon Gate
-gateway plaza
-phyrexian ingester
-zagoth mamba
-gustcloak savior
-puncing shoreshark
-exert influence
-song of creation
-regal leosaur
-shadow prophecy
-borderland explorer
-inscribed tablet
-artillery blast
-herd migration
-insatiable hemophage
-ojutai's Command
-cavern whisperer
-dreamtail hedron
-vulpikeet
-parcelbeast
-trumpeting gnarr
-roilmage's trick
-radiant epicure
-evasive action
-auger spree
-radiant flames
-dazzling beauty
-kaleidoscorch
-tangle asp
-woodland wanderer
-cubwarden
-shield of the righteous
-migratory greathorn
-briar patch
-everquill phoenix
-glinting creeper
-huntmaster liger
-essence symbiote
-glowstone recluse
-aetherplasm
-genesis ultimatum
-fire // ice
-final death
-mysterious egg
-porcuparrot
-majestic auricorn
-doom blade
-dream fighter
-laccolith rig
-illuna, apex of wishes
-bring to light
-necropanther
-pollywog symbiote
-lore drakkis
-painful truths
-chittering harvester
-auspicious starrix
-gatecreeper vine
-coiling oracle
-Arlinn Kord
+5 Plains
+5 Island
+5 Swamp
+5 Mountain
+5 Forest
+1 Selesnya Guildgate
+1 Evolving Wilds
+1 Rakdos Guildgate
+1 Command Tower
+1 Izzet Guildgate
+1 Geothermal bog
+1 tangled islet
+1 sacred peaks
+1 sunlit marsh
+1 contaminated aquifer
+1 gruul Guildgate
+1 rupture Spire
+1 golgari Guildgate
+1 azorious Guildgate
+1 black dragon Gate
+1 gateway plaza
+1 phyrexian ingester
+1 zagoth mamba
+1 gustcloak savior
+1 puncing shoreshark
+1 exert influence
+1 song of creation
+1 regal leosaur
+1 shadow prophecy
+1 borderland explorer
+1 inscribed tablet
+1 artillery blast
+1 herd migration
+1 insatiable hemophage
+1 ojutai's Command
+1 cavern whisperer
+1 dreamtail hedron
+1 vulpikeet
+1 parcelbeast
+1 trumpeting gnarr
+1 roilmage's trick
+1 radiant epicure
+1 evasive action
+1 auger spree
+1 radiant flames
+1 dazzling beauty
+1 kaleidoscorch
+1 tangle asp
+1 woodland wanderer
+1 cubwarden
+1 shield of the righteous
+1 migratory greathorn
+1 briar patch
+1 everquill phoenix
+1 glinting creeper
+1 huntmaster liger
+1 essence symbiote
+1 glowstone recluse
+1 aetherplasm
+1 genesis ultimatum
+1 fire // ice
+1 final death
+1 mysterious egg
+1 porcuparrot
+1 majestic auricorn
+1 doom blade
+1 dream fighter
+1 laccolith rig
+1 illuna, apex of wishes
+1 bring to light
+1 necropanther
+1 pollywog symbiote
+1 lore drakkis
+1 painful truths
+1 chittering harvester
+1 auspicious starrix
+1 gatecreeper vine
+1 coiling oracle
+1 Arlinn Kord

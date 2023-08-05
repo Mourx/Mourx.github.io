@@ -1,99 +1,63 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Reliquary Tower
-serra angel
-aven mindcensor
-palace jailer
-teferi time raveler
-dismiss
-scatter to the winds
-spectral grasp
-hollowhenge spirit
-treasure cruise
-spell snare
-rise from the tides
-nimble obstructionist
-single combat
-negate
-peregerine drake
-fact or fiction
-peace talks
-damping sphere
-evra, halcyon witness
-ojutai monument
-wakening sun's avatar
-baird, steward of argive
-mana leak
-skywise teachigns
-unsubstantiate
-ojutai's command
-secrets of the key
-felidar sovereign
-teferi, who slows the sunset
-think twice
-blink of an eye
-shark typhoon
-narset's reversal
-dream fracture
-jace's ingenuity
-rout
-void shatter
-hydrolash
-piracy charm
-in bolas's clutches
-opportunity
-naiad of hidden coves
-witching well
-stenn, paranoid partisan
-silumgar sorcerer
-snap
-pull from the deep
-azorius locket
-gideon of the trials
-ghostly prison
-galestrike
-dispel
-foil
-dovin, hand of control
-hallowed burial
-hieorglyphic illumination
-glimmer of genius
-oreskos explorer
-gadwick, the wizened
-faith's fetters
+18 Plains
+18 Island
+1 Reliquary Tower
+1 serra angel
+1 aven mindcensor
+1 palace jailer
+1 teferi time raveler
+1 dismiss
+1 scatter to the winds
+1 spectral grasp
+1 hollowhenge spirit
+1 treasure cruise
+1 spell snare
+1 rise from the tides
+1 nimble obstructionist
+1 single combat
+1 negate
+1 peregerine drake
+1 fact or fiction
+1 peace talks
+1 damping sphere
+1 evra, halcyon witness
+1 ojutai monument
+1 wakening sun's avatar
+1 baird, steward of argive
+1 mana leak
+1 skywise teachigns
+1 unsubstantiate
+1 ojutai's command
+1 secrets of the key
+1 felidar sovereign
+1 teferi, who slows the sunset
+1 think twice
+1 blink of an eye
+1 shark typhoon
+1 narset's reversal
+1 dream fracture
+1 jace's ingenuity
+1 rout
+1 void shatter
+1 hydrolash
+1 piracy charm
+1 in bolas's clutches
+1 opportunity
+1 naiad of hidden coves
+1 witching well
+1 stenn, paranoid partisan
+1 silumgar sorcerer
+1 snap
+1 pull from the deep
+1 azorius locket
+1 gideon of the trials
+1 ghostly prison
+1 galestrike
+1 dispel
+1 foil
+1 dovin, hand of control
+1 hallowed burial
+1 hieorglyphic illumination
+1 glimmer of genius
+1 oreskos explorer
+1 gadwick, the wizened
+1 faith's fetters

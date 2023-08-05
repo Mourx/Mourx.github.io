@@ -1,99 +1,71 @@
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Zoetic Cavern
-Dwarven Mine
-Looming Spires
-Forgotten Cave
-Desert of the Fervent
-Witty Roastmaster
-Mayhem Patrol
-Sword of the Animist
-Storm's wrath
-Dualcaster Mage
-Act of Treason
-Indomitable Creativity
-Idol of Oblivion
-Reverberate
-Shivan Devastator
-Jaya's Immolating Inferno
-Godo, Bandit Warlord
-Fury Storm
-Rolling Thunder
-Burnout
-Besmirch
-Weatherlight Compleated
-Faithless Looting
-Tibalt, Rakish Instigator
-Raze the Effigy
-Flame Slash
-Pia and Kiran Nalaar
-Helm of the Host
-Chaos Warp
-Trove of Temptation
-Raid Bombardment
-Brimstone Vandal
-Bedlam Reveler
-Chained Brute
-Spiteful Prankster
-Sin Prodder
-Embermaw Hellion
-Impact Tremors
-Abrade
-Devilish Valet
-Hellrider
-Comet Storm
-Bag of Holding
-Psychosis Crawler
-Reiterate
-Glorybringer
-Festival Crasher
-Magmatic Chasm
-Charmbreaker Devils
-Pyroblast
-Roast
-Wheel of fate
-red elemental blast
-wrap in flames
-torch fiend
-wrangle
-clash of titans
-magus of the Wheel
-ensnaring bridge
-tormenting voice
-lava coil
-dance with Devils
-malevolent whispers
-wild richochet
-combat celebrant
-innner struggle
-cathartic renuion
-gibbering fiend
-throne of the god-pharaoh
-grenzo, havoc raiser
+29 Mountain
+1 Zoetic Cavern
+1 Dwarven Mine
+1 Looming Spires
+1 Forgotten Cave
+1 Desert of the Fervent
+1 Witty Roastmaster
+1 Mayhem Patrol
+1 Sword of the Animist
+1 Storm's wrath
+1 Dualcaster Mage
+1 Act of Treason
+1 Indomitable Creativity
+1 Idol of Oblivion
+1 Reverberate
+1 Shivan Devastator
+1 Jaya's Immolating Inferno
+1 Godo, Bandit Warlord
+1 Fury Storm
+1 Rolling Thunder
+1 Burnout
+1 Besmirch
+1 Weatherlight Compleated
+1 Faithless Looting
+1 Tibalt, Rakish Instigator
+1 Raze the Effigy
+1 Flame Slash
+1 Pia and Kiran Nalaar
+1 Helm of the Host
+1 Chaos Warp
+1 Trove of Temptation
+1 Raid Bombardment
+1 Brimstone Vandal
+1 Bedlam Reveler
+1 Chained Brute
+1 Spiteful Prankster
+1 Sin Prodder
+1 Embermaw Hellion
+1 Impact Tremors
+1 Abrade
+1 Devilish Valet
+1 Hellrider
+1 Comet Storm
+1 Bag of Holding
+1 Psychosis Crawler
+1 Reiterate
+1 Glorybringer
+1 Festival Crasher
+1 Magmatic Chasm
+1 Charmbreaker Devils
+1 Pyroblast
+1 Roast
+1 Wheel of fate
+1 red elemental blast
+1 wrap in flames
+1 torch fiend
+1 wrangle
+1 clash of titans
+1 magus of the Wheel
+1 ensnaring bridge
+1 tormenting voice
+1 lava coil
+1 dance with Devils
+1 malevolent whispers
+1 wild richochet
+1 combat celebrant
+1 innner struggle
+1 cathartic renuion
+1 gibbering fiend
+1 throne of the god-pharaoh
+1 grenzo, havoc raiser

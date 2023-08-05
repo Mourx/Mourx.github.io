@@ -1,99 +1,78 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Barren Moor
-Tranquil Thicket
-Desert of the Glorified
-Desert of the Indomitable
-Westvale Abbey
-Svogthos, the restless tomb
-blast zone
-hostile hostel
-grim backwoods
-access tunnel
-darkmoss bridge
-evolving wilds
-jungle hollow
-nature's claim
-gang up
-ghastly demise
-tragic slip
-bone shards
-killing glare
-dark betrayal
-battle at the bridge
-necrotic wound
-spark harvest
-mutual destruction
-sinister concoction
-sphere of annihilation
-eaten alive
-bloodchief's thirst
-death wind
-innocent blood
-scale up
-skull clamp
-pithing needle
-village rites
-shrieking affliction
-dark salvation
-the crowd goes wild
-skeleton key
-bond of agony
-vampiric rites
-witch's oven
-skeletal scrying
-quest for the gravelord
-pacification array
-misinformation
-elephant grass
-serene sunset
-fog
-tukatongue thallid
-rustvine cultivator
-thieves' guild enforcer
-oviya pashiri, sage lifecrafter
-will-o'-the-wisp
-thrull parasite
-knight of the ebon legion
-deathbonnet sprout
-smolder initiate
-dockside chef
-ecstatic awakener
-scute mob
-chainweb aracnir
-ravenous squirrel
-forsworn paladin
-aboreal grazer
-fderal hydra
-concealing curtains
-cauldron familiar
-persistent specimen
-unwilling ingredient
-vicious conquistador
-dig up
-sol ring
-traverse the ulvenwald
-abundant growth
-night market lookout
-raven's crime
-typhoid rats
+22 Swamp
+1 Barren Moor
+1 Tranquil Thicket
+1 Desert of the Glorified
+1 Desert of the Indomitable
+1 Westvale Abbey
+1 Svogthos, the restless tomb
+1 blast zone
+1 hostile hostel
+1 grim backwoods
+1 access tunnel
+1 darkmoss bridge
+1 evolving wilds
+1 jungle hollow
+1 nature's claim
+1 gang up
+1 ghastly demise
+1 tragic slip
+1 bone shards
+1 killing glare
+1 dark betrayal
+1 battle at the bridge
+1 necrotic wound
+1 spark harvest
+1 mutual destruction
+1 sinister concoction
+1 sphere of annihilation
+1 eaten alive
+1 bloodchief's thirst
+1 death wind
+1 innocent blood
+1 scale up
+1 skull clamp
+1 pithing needle
+1 village rites
+1 shrieking affliction
+1 dark salvation
+1 the crowd goes wild
+1 skeleton key
+1 bond of agony
+1 vampiric rites
+1 witch's oven
+1 skeletal scrying
+1 quest for the gravelord
+1 pacification array
+1 misinformation
+1 elephant grass
+1 serene sunset
+1 fog
+1 tukatongue thallid
+1 rustvine cultivator
+1 thieves' guild enforcer
+1 oviya pashiri, sage lifecrafter
+1 will-o'-the-wisp
+1 thrull parasite
+1 knight of the ebon legion
+1 deathbonnet sprout
+1 smolder initiate
+1 dockside chef
+1 ecstatic awakener
+1 scute mob
+1 chainweb aracnir
+1 ravenous squirrel
+1 forsworn paladin
+1 aboreal grazer
+1 fderal hydra
+1 concealing curtains
+1 cauldron familiar
+1 persistent specimen
+1 unwilling ingredient
+1 vicious conquistador
+1 dig up
+1 sol ring
+1 traverse the ulvenwald
+1 abundant growth
+1 night market lookout
+1 raven's crime
+1 typhoid rats

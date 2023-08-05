@@ -1,4 +1,3 @@
-
 4 Fanatical Firebrand
 4 Foundry Street Denizen
 4 Goblin Bushwhacker
@@ -7,13 +6,9 @@
 4 Goblin Piledriver
 4 Legion Warboss
 4 Mogg War Marshal
-
 4 Lightning Bolt
-
-
 15 Mountain
 3 Forgotten Cave
-
 3 Goblin Grenade
 3 Devastating Summons
 

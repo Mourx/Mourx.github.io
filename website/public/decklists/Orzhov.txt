@@ -1,99 +1,67 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Bile Blight
-Nightmare's Thirst
-Harsh Sustenance
-Triskadekaphobia
-Ghostly Prison
-On Serra's Wings
-sangromancer
-extinguish the light
-angelic chorus
-tymaret, chosen from death
-tenacity
-cliffhaven vampire
-oketra's Monument
-fountain of renewal
-orzhov advokist
-nyx-fleece ram
-mortify
-sunset revelry
-baird, steward of argive
-vizier of the scorpion
-pontiff of Blight
-pious evangelical
-play of the game
-leonin vanguard
-triumph of gerrard
-walk the plank
-daxos blessed by the sun
-filigree Familiar
-elas il-kor, sadistic pilgrim
-regna the redeemer
-marchesa's decree
-solemn offering
-zulaport cutthroat
-gray merchant of asphodel
-bontu's Monument
-krav, the unredeemed
-paladin of atonement
-ob nixilis reignited
-damn
-tree of perdition
-silverstrike
-spectral grasp
-orzhov signet
-skeletal scrying
-bubbling cauldron
-bastion of remembrance
-lich's mastery
-call to the feast
-vampire sovereign
-unburial rites
-take up arms
-vampire hexmage
-abzan battle priest
-accursed witch
-diabolic tutor
-chainer's torment
-renewed faith
-sorin, vengeful bloodlord
-vampiric rites
-ever after
-greed
-swords to plowshares
-orzhov charm
-knights of the black rose
-blood artist
+17 Plains
+17 Swamp
+1 Bile Blight
+1 Nightmare's Thirst
+1 Harsh Sustenance
+1 Triskadekaphobia
+1 Ghostly Prison
+1 On Serra's Wings
+1 sangromancer
+1 extinguish the light
+1 angelic chorus
+1 tymaret, chosen from death
+1 tenacity
+1 cliffhaven vampire
+1 oketra's Monument
+1 fountain of renewal
+1 orzhov advokist
+1 nyx-fleece ram
+1 mortify
+1 sunset revelry
+1 baird, steward of argive
+1 vizier of the scorpion
+1 pontiff of Blight
+1 pious evangelical
+1 play of the game
+1 leonin vanguard
+1 triumph of gerrard
+1 walk the plank
+1 daxos blessed by the sun
+1 filigree Familiar
+1 elas il-kor, sadistic pilgrim
+1 regna the redeemer
+1 marchesa's decree
+1 solemn offering
+1 zulaport cutthroat
+1 gray merchant of asphodel
+1 bontu's Monument
+1 krav, the unredeemed
+1 paladin of atonement
+1 ob nixilis reignited
+1 damn
+1 tree of perdition
+1 silverstrike
+1 spectral grasp
+1 orzhov signet
+1 skeletal scrying
+1 bubbling cauldron
+1 bastion of remembrance
+1 lich's mastery
+1 call to the feast
+1 vampire sovereign
+1 unburial rites
+1 take up arms
+1 vampire hexmage
+1 abzan battle priest
+1 accursed witch
+1 diabolic tutor
+1 chainer's torment
+1 renewed faith
+1 sorin, vengeful bloodlord
+1 vampiric rites
+1 ever after
+1 greed
+1 Swords to plowshares
+1 Orzhov Charm
+1 Knights of the Black rose
+1 Blood Artist

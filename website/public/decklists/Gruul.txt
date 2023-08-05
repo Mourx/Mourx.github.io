@@ -1,99 +1,71 @@
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-lair of the hydra
-evolving wilds
-grapeshot
-shield of the realm
-bloodbraid elf
-llanowar elves
-ornithopter
-cathar's shield
-fleetfeather sandals
-ochre jelly
-spidersilk net
-elvish mystic
-awakening of vitu-ghazi
-dowsing dagger
-grow from the ashes
-gruul war chant
-champion of the flame
-filigree familiar
-mistcutter hydra
-domesticaed hydra
-blossoming defense
-blaze
-goblin anarchomancer
-plated crusher
-explorer's scope
-hungering hydra
-blinkmoth urn
-capricopian
-valduk, keeper of the flame
-collision // colossus
-cathartic reunion
-guttural response
-nature's wrath
-fight with fire
-rosethorn halberd
-savage ventmaw
-hedron blade
-tormenting voice
-mishra's self-replicator
-norin the wary
-pithing needle
-ratchet bomb
-cindervines
-prodigious growth
-flame slash
-armory automaton
-ghostfire blade
-Firweaver's puzzleknot
-wings of hubris
-self-assembler
-hellkite igniter
-fires of yavimaya
-bone saw
-feral hydra
-kazuul's toll collector
-mirage mirror
-vance's blasting cannons
-ichor wellspring
-haunted cloak
-deathforge shaman
-stonecoil serpent
-faithless looting
-genesis chamber
-prophetic prism
-berserk
-meteor golem
-sandstone oracle
-vanquisher's axe
-hoarding dragon
+15 Mountain
+15 Forest
+1 lair of the hydra
+1 evolving wilds
+1 grapeshot
+1 shield of the realm
+1 bloodbraid elf
+1 llanowar elves
+1 ornithopter
+1 cathar's shield
+1 fleetfeather sandals
+1 ochre jelly
+1 spidersilk net
+1 elvish mystic
+1 awakening of vitu-ghazi
+1 dowsing dagger
+1 grow from the ashes
+1 gruul war chant
+1 champion of the flame
+1 filigree familiar
+1 mistcutter hydra
+1 domesticaed hydra
+1 blossoming defense
+1 blaze
+1 goblin anarchomancer
+1 plated crusher
+1 explorer's scope
+1 hungering hydra
+1 blinkmoth urn
+1 capricopian
+1 valduk, keeper of the flame
+1 collision // colossus
+1 cathartic reunion
+1 guttural response
+1 nature's wrath
+1 fight with fire
+1 rosethorn halberd
+1 savage ventmaw
+1 hedron blade
+1 tormenting voice
+1 mishra's self-replicator
+1 norin the wary
+1 pithing needle
+1 ratchet bomb
+1 cindervines
+1 prodigious growth
+1 flame slash
+1 armory automaton
+1 ghostfire blade
+1 Firweaver's puzzleknot
+1 wings of hubris
+1 self-assembler
+1 hellkite igniter
+1 fires of yavimaya
+1 bone saw
+1 feral hydra
+1 kazuul's toll collector
+1 mirage mirror
+1 vance's blasting cannons
+1 ichor wellspring
+1 haunted cloak
+1 deathforge shaman
+1 stonecoil serpent
+1 faithless looting
+1 genesis chamber
+1 prophetic prism
+1 berserk
+1 meteor golem
+1 sandstone oracle
+1 vanquisher's axe
+1 hoarding dragon

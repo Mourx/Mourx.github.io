@@ -1,99 +1,61 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-carrier thrall
-golgari locket
-torgaar, famine incarnate
-phyrexian vivisector
-seed guardian
-echoing courage
-gutterbones
-whisper, blood liturgist
-dreadmalkin
-tear asunder
-feed the swarm
-dark bargain
-golgari keyrune
-bastion of remembrance
-diabolic tutor
-llanowar elves
-bake into a pie
-yavimaya sapherd
-song of freyalise
-saproling migration
-tukatongue thallid
-maelstrom pulse
-elvish mystic
-magnifying glass
-quest for the gravelord
-sifter of skulls
-Squirrel nest
-nihil spellbomb
-rite of belzenlok
-verdant command
-read the bones
-champion of stray souls
-bag of devouring
-spore swarm
-eaten alive
-cut down
-byway courier
-night's whisper
-phyrexian altar
-nemata, primeval warden
-murder
-zulaport cutthroat
-warteye witch
-brood monitor
-kindred dominance
-bile blight
-catacomb sifter
-settle the score
-magus of the abyss
-pitiless plunderer
-curse of disturbance
-killer service
-altar's reap
-sign in blood
-cult conscript
-urborg repossesion
-bankrupt in blood
-blisterpod
-ob nixilis's cruelty
+20 Swamp
+20 Forest
+1 carrier thrall
+1 golgari locket
+1 torgaar, famine incarnate
+1 phyrexian vivisector
+1 seed guardian
+1 echoing courage
+1 gutterbones
+1 whisper, blood liturgist
+1 dreadmalkin
+1 tear asunder
+1 feed the swarm
+1 dark bargain
+1 golgari keyrune
+1 bastion of remembrance
+1 diabolic tutor
+1 llanowar elves
+1 bake into a pie
+1 yavimaya sapherd
+1 song of freyalise
+1 saproling migration
+1 tukatongue thallid
+1 maelstrom pulse
+1 elvish mystic
+1 magnifying glass
+1 quest for the gravelord
+1 sifter of skulls
+1 Squirrel nest
+1 nihil spellbomb
+1 rite of belzenlok
+1 verdant command
+1 read the bones
+1 champion of stray souls
+1 bag of devouring
+1 spore swarm
+1 eaten alive
+1 cut down
+1 byway courier
+1 night's whisper
+1 phyrexian altar
+1 nemata, primeval warden
+1 murder
+1 zulaport cutthroat
+1 warteye witch
+1 brood monitor
+1 kindred dominance
+1 bile blight
+1 catacomb sifter
+1 settle the score
+1 magus of the abyss
+1 pitiless plunderer
+1 curse of disturbance
+1 killer service
+1 altar's reap
+1 sign in blood
+1 cult conscript
+1 urborg repossesion
+1 bankrupt in blood
+1 blisterpod
+1 ob nixilis's cruelty

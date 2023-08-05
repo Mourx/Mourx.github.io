@@ -1,99 +1,84 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Swamp
-Swamp
-Swamp
-Swamp
-meandering river
-scoured barrens
-forsaken sanctuary
-mutavault
-barren moor
-tranquil cove
-new benalia
-azorious Guildgate
-arcane sanctum
-orzhov basilica
-sejiri refuge
-evolving wilds
-memorial to glory
-azorious chancery
-concealed courtyard
-command Tower
-dimir Guildgate
-desert of the mindful
-dismal backwater
-drowned catacomb
-death baron
-shambling goblin
-behind the scenes
-by invitation only
-mortify
-kalitas, traitor of ghet
-wayward servant
-trial // error
-corpse augur
-accursed horde
-never // return
-drunau corpse trawler
-bladestitched skaab
-victim of night
-binding mummy
-murderous cut
-esper charm
-hero's downfall
-anguished unmaking
-gnawing zombie
-graf harvest
-ratadrabik or urborg
-cut down
-elas il-kor, sadistic pilgrim
-liliana, untouched by death
-organ hoarder
-fleshbag marauder
-phyrexian vivisector
-peace talks
-gravedigger
-infernal grasp
-morkrut behemoth
-vedalken ghoul
-altar's reap
-carrion feeder
-zealous persecution
-unraveling mummy
-vanquisher's banner
-adorned pouncer
-hour of eternity
-gravecrawler
-ammit eternal
-diregraf Colossus
-dreamstealer
-from under the floorboards
-noosegraf mob
-god-pharaoh's gift
-gisa's bidding
-vela the night clad
-grim physician
-lotleth giant
-fan bearer
-falcon abomination
-lilian's elite
-startle
-foulmire knight
-stitchwing skaab
-flip the switch
-stir the sands
-larder zombie
-infectious horror
+7 Plains
+7 Island
+4 Swamp
+1 meandering river
+1 scoured barrens
+1 forsaken sanctuary
+1 mutavault
+1 barren moor
+1 tranquil cove
+1 new benalia
+1 azorious Guildgate
+1 arcane sanctum
+1 orzhov basilica
+1 sejiri refuge
+1 evolving wilds
+1 memorial to glory
+1 azorious chancery
+1 concealed courtyard
+1 command Tower
+1 dimir Guildgate
+1 desert of the mindful
+1 dismal backwater
+1 drowned catacomb
+1 death baron
+1 shambling goblin
+1 behind the scenes
+1 by invitation only
+1 mortify
+1 kalitas, traitor of ghet
+1 wayward servant
+1 trial // error
+1 corpse augur
+1 accursed horde
+1 never // return
+1 drunau corpse trawler
+1 bladestitched skaab
+1 victim of night
+1 binding mummy
+1 murderous cut
+1 esper charm
+1 hero's downfall
+1 anguished unmaking
+1 gnawing zombie
+1 graf harvest
+1 ratadrabik or urborg
+1 cut down
+1 elas il-kor, sadistic pilgrim
+1 liliana, untouched by death
+1 organ hoarder
+1 fleshbag marauder
+1 phyrexian vivisector
+1 peace talks
+1 gravedigger
+1 infernal grasp
+1 morkrut behemoth
+1 vedalken ghoul
+1 altar's reap
+1 carrion feeder
+1 zealous persecution
+1 unraveling mummy
+1 vanquisher's banner
+1 adorned pouncer
+1 hour of eternity
+1 gravecrawler
+1 ammit eternal
+1 diregraf Colossus
+1 dreamstealer
+1 from under the floorboards
+1 noosegraf mob
+1 god-pharaoh's gift
+1 gisa's bidding
+1 vela the night clad
+1 grim physician
+1 lotleth giant
+1 fan bearer
+1 falcon abomination
+1 lilian's elite
+1 startle
+1 foulmire knight
+1 stitchwing skaab
+1 flip the switch
+1 stir the sands
+1 larder zombie
+1 infectious horror

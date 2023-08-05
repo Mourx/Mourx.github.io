@@ -1,99 +1,86 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-temple of silence
-mikokoro, center of the sea
-temple of triumph
-geier reach sanitarium
-bojuka bog
-boros garrison
-evolving wilds
-terramorphic expanse
-reliquary tower
-battlefield forge
-rakdos carnarium
-temple of malice
-caves of koilos
-dragonskull summit
-mobilizen district
-nomad outpost
-tyrite sanctum
-smoldering marsh
-orzhov basilica
-command tower
-shivan gorge
-foreboding ruins
-shizo, death's storehouse
-kambal, consul of allocation
-arvad the cursed
-adriana, captain of the guard
-gisel, the broken blade
-bruna, the fading light
-ruinous ultimatum
-offspring's revenge
-teysa, envoy of ghosts
-archangel avacyn
-urza's ruinous blast
-read the bones
-teshar, ancestor's apostle
-thrill of possibility
-commander's sphere
-jazal goldmane
-zeriam, golden wind
-mortify
-primevals' glorious rebirth
-bell borca, spectral sergeant
-josu vess, lich knight
-arcane signet
-captain lannery storm
-neheb, dreadhorde champion
-drana and linvala
-moira, urborg haunt
-kari zev, skyship raider
-zetalpa, primal dawn
-fellwar stone
-bladewing, deathless tyrant
-anafenza, kin-tree spirit
-hero's blade
-hedron archive
-bontu's monument
-oketra's monument
-hazoret's monument
-garna, the bloodflame
-night's whisper
-cadric, soul kindler
-odric, lunarch marshal
-generous gift
-blackblade reforged
-alesha, who smiles at death
-faithless looting
-the circle of loyalty
-heroes' podium
-shanid, sleepers' scourge
-bedevil
-the reaver cleaver
-gerrard's hourglass pendant
-hero's downfall
-ambition's cost
-kothophed, soul hoarder
-the peregrine dynamo
-drana, liberator of malakir
-traxos, scourge of kroog
-etali, primal storm
-wear // tear
-kaya's wrath
-day of destiny
-krenko, tin street kingpin
+6 Plains
+5 Swamp
+5 Mountain
+1 temple of silence
+1 mikokoro, center of the sea
+1 temple of triumph
+1 geier reach sanitarium
+1 bojuka bog
+1 boros garrison
+1 evolving wilds
+1 terramorphic expanse
+1 reliquary tower
+1 battlefield forge
+1 rakdos carnarium
+1 temple of malice
+1 caves of koilos
+1 dragonskull summit
+1 mobilizen district
+1 nomad outpost
+1 tyrite sanctum
+1 smoldering marsh
+1 orzhov basilica
+1 command tower
+1 shivan gorge
+1 foreboding ruins
+1 shizo, death's storehouse
+1 kambal, consul of allocation
+1 arvad the cursed
+1 adriana, captain of the guard
+1 gisel, the broken blade
+1 bruna, the fading light
+1 ruinous ultimatum
+1 offspring's revenge
+1 teysa, envoy of ghosts
+1 archangel avacyn
+1 urza's ruinous blast
+1 read the bones
+1 teshar, ancestor's apostle
+1 thrill of possibility
+1 commander's sphere
+1 jazal goldmane
+1 zeriam, golden wind
+1 mortify
+1 primevals' glorious rebirth
+1 bell borca, spectral sergeant
+1 josu vess, lich knight
+1 arcane signet
+1 captain lannery storm
+1 neheb, dreadhorde champion
+1 drana and linvala
+1 moira, urborg haunt
+1 kari zev, skyship raider
+1 zetalpa, primal dawn
+1 fellwar stone
+1 bladewing, deathless tyrant
+1 anafenza, kin-tree spirit
+1 hero's blade
+1 hedron archive
+1 bontu's monument
+1 oketra's monument
+1 hazoret's monument
+1 garna, the bloodflame
+1 night's whisper
+1 cadric, soul kindler
+1 odric, lunarch marshal
+1 generous gift
+1 blackblade reforged
+1 alesha, who smiles at death
+1 faithless looting
+1 the circle of loyalty
+1 heroes' podium
+1 shanid, sleepers' scourge
+1 bedevil
+1 the reaver cleaver
+1 gerrard's hourglass pendant
+1 hero's downfall
+1 ambition's cost
+1 kothophed, soul hoarder
+1 the peregrine dynamo
+1 drana, liberator of malakir
+1 traxos, scourge of kroog
+1 etali, primal storm
+1 wear // tear
+1 kaya's wrath
+1 day of destiny
+1 krenko, tin street kingpin

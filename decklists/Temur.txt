@@ -1,99 +1,75 @@
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-woodland stream
-thornwood falls
-rugged highlands
-memorial to genius
-desert of the mindful
-desert of the indomitable
-desert of the fervent
-command tower
-simic guildgate
-swiftware cliffs
-izzet guildgate
-highland lake
-gruul guildgate
-evolving wilds
-prophetic prism
-opt
-mana leak
-keep safe
-frost lynx
-aether tradewinds
-search for tomorrow
-rampant growth
-prey upon
-nature's claim
-llanowar elves
-elvish mystic
-dissenter's deliverance
-khorvath's fury
-moment's peace
-mindcrank
-ketria crystal
-howling golem
-turn to frog
-tetsuko umezawa, fugitive
-reality shift
-navigator's ruin
-invasive surgery
-trumpet blast
-devouring hellion
-conflagrate
-book devourer
-sylvan scrying
-overrun
-irresistable prey
-explosive vegetation
-district guide
-psychosis crawler
-fevered visions
-rose room treasurer
-scepter of celebration
-eldritch evolution
-bounty of might
-neoform
-coiling oracle
-bloodbraid elf
-song of creation
-genesis ultimatum
-admiral's order
-kami of the crescent moon
-combine guildmage
-verdent command
-crash the party
-burgeoning
-slinn voda, the rising deep
-inevitable betrayal
-curator of mysteries
-bident of thassa
-phyrexian ingestor
-sage of ancient lore
-regal force
-magus of the wheel
-ghirapur orrery
+9 Island
+9 Mountain
+9 Forest
+1 woodland stream
+1 thornwood falls
+1 rugged highlands
+1 memorial to genius
+1 desert of the mindful
+1 desert of the indomitable
+1 desert of the fervent
+1 command tower
+1 simic guildgate
+1 swiftware cliffs
+1 izzet guildgate
+1 highland lake
+1 gruul guildgate
+1 evolving wilds
+1 prophetic prism
+1 opt
+1 mana leak
+1 keep safe
+1 frost lynx
+1 aether tradewinds
+1 search for tomorrow
+1 rampant growth
+1 prey upon
+1 nature's claim
+1 llanowar elves
+1 elvish mystic
+1 dissenter's deliverance
+1 khorvath's fury
+1 moment's peace
+1 mindcrank
+1 ketria crystal
+1 howling golem
+1 turn to frog
+1 tetsuko umezawa, fugitive
+1 reality shift
+1 navigator's ruin
+1 invasive surgery
+1 trumpet blast
+1 devouring hellion
+1 conflagrate
+1 book devourer
+1 sylvan scrying
+1 overrun
+1 irresistable prey
+1 explosive vegetation
+1 district guide
+1 psychosis crawler
+1 fevered visions
+1 rose room treasurer
+1 scepter of celebration
+1 eldritch evolution
+1 bounty of might
+1 neoform
+1 coiling oracle
+1 bloodbraid elf
+1 song of creation
+1 genesis ultimatum
+1 admiral's order
+1 kami of the crescent moon
+1 combine guildmage
+1 verdent command
+1 crash the party
+1 burgeoning
+1 slinn voda, the rising deep
+1 inevitable betrayal
+1 curator of mysteries
+1 bident of thassa
+1 phyrexian ingestor
+1 sage of ancient lore
+1 regal force
+1 magus of the wheel
+1 ghirapur orrery

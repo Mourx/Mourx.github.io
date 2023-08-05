@@ -1,99 +1,73 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-tranquil cove
-evolving wilds
-meandering river
-izzet guildgate
-stone quarry
-swiftwater cliffs
-wind-scarred crag
-azorius guildgate
-boros guildgate
-highland lake
-prophetic prism
-stave off
-swift reckoning
-sentinel of the pearl trident
-witching well
-gods willing
-conundrum sphinx
-narset of the ancient ways
-gitaxian probe
-rolling thunder
-doublecast
-predict
-encircling fissure
-wheel of fate
-fight as one
-raugrin crystal
-pyroceratops
-wrenn's resolve
-blink of an eye
-play with fire
-nahiri's machinations
-anticipate
-volcanic spite
-thrill of possibility
-combat research
-shore up
-timely interference
-curator's ward
-opt
-traveler's amulet
-consider
-desperate ritual
-invasive surgery
-will of the all-hunter
-fading hope
-kor halberd
-brainstorm
-whipflare
-split decision
-spell snare
-horribly awry
-coordinated assault
-slip through space
-Invasion of Kaladesh
-inspired ultimatum
-pentad prism
-cunning breezedancer
-archaeomancer
-Beamtown Beatstick
-quiet contemplation
-mirror shield
-stormchaser mage
-vance's blasting cannons
-shelter
-skelton key
-marchesa's smuggler
-portent
-battle mastery
-azorius cluestone
-aether tunnel
+9 Plains
+10 Island
+10 Mountain
+1 tranquil cove
+1 evolving wilds
+1 meandering river
+1 izzet guildgate
+1 stone quarry
+1 swiftwater cliffs
+1 wind-scarred crag
+1 azorius guildgate
+1 boros guildgate
+1 highland lake
+1 prophetic prism
+1 stave off
+1 swift reckoning
+1 sentinel of the pearl trident
+1 witching well
+1 gods willing
+1 conundrum sphinx
+1 narset of the ancient ways
+1 gitaxian probe
+1 rolling thunder
+1 doublecast
+1 predict
+1 encircling fissure
+1 wheel of fate
+1 fight as one
+1 raugrin crystal
+1 pyroceratops
+1 wrenn's resolve
+1 blink of an eye
+1 play with fire
+1 nahiri's machinations
+1 anticipate
+1 volcanic spite
+1 thrill of possibility
+1 combat research
+1 shore up
+1 timely interference
+1 curator's ward
+1 opt
+1 traveler's amulet
+1 consider
+1 desperate ritual
+1 invasive surgery
+1 will of the all-hunter
+1 fading hope
+1 kor halberd
+1 brainstorm
+1 whipflare
+1 split decision
+1 spell snare
+1 horribly awry
+1 coordinated assault
+1 slip through space
+1 Invasion of Kaladesh
+1 inspired ultimatum
+1 pentad prism
+1 cunning breezedancer
+1 archaeomancer
+1 Beamtown Beatstick
+1 quiet contemplation
+1 mirror shield
+1 stormchaser mage
+1 vance's blasting cannons
+1 shelter
+1 skelton key
+1 marchesa's smuggler
+1 portent
+1 battle mastery
+1 azorius cluestone
+1 aether tunnel

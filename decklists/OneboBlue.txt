@@ -1,99 +1,76 @@
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-tolaria west
-Aegis Turtle
-brainstorm
-breakthrough
-caller of gales
-ceremonious rejection
-chain to memory
-clutch of currents
-curious obsession
-dive down
-fleeting distraction
-floodhound
-gitaxian probe
-gudul lurker
-invasive surgery
-ivory tower
-nix
-opt
-ornithopter
-piracy charm
-pithing needle
-proven combatant
-read the runes
-relic of progenitus
-salvage drone
-select for inspection
-shore keeper
-silent departure
-siren stormtamer
-sleep of the Dead
-spell pierce
-spell snare
-so tiny
-stern dismissal
-syncopate
-thraben gargoyle
-thriving Turtle
-visions of beyond
-void snare
-weakstone's subjugation
-aspirant's ascent
-careful study
-cloak of feathers
-cobbled lancer
-consider
-crawling barrens
-disrupt
-dizzy spell
-giant's amulet
-hard cover
-hypnotic siren
-jace's phantasm
-lantern bearer // lanterns' lift
-leap
-multiple choice
-occult epiphany
-preordain
-repeal
-rookie mistake
-sapphire charm
-serum visions
-shadow rift
-shell Shield
-shore up
-slagwurm Armor
-slip through space
-spectral sailor
-triton tactics
-twisted image
-unstable mutation
-walking bulwark
-whispers of the muse
-witching well
-wizard class
-dispel
+24 Island
+1 tolaria west
+1 Aegis Turtle
+1 brainstorm
+1 breakthrough
+1 caller of gales
+1 ceremonious rejection
+1 chain to memory
+1 clutch of currents
+1 curious obsession
+1 dive down
+1 fleeting distraction
+1 floodhound
+1 gitaxian probe
+1 gudul lurker
+1 invasive surgery
+1 ivory tower
+1 nix
+1 opt
+1 ornithopter
+1 piracy charm
+1 pithing needle
+1 proven combatant
+1 read the runes
+1 relic of progenitus
+1 salvage drone
+1 select for inspection
+1 shore keeper
+1 silent departure
+1 siren stormtamer
+1 sleep of the Dead
+1 spell pierce
+1 spell snare
+1 so tiny
+1 stern dismissal
+1 syncopate
+1 thraben gargoyle
+1 thriving Turtle
+1 visions of beyond
+1 void snare
+1 weakstone's subjugation
+1 aspirant's ascent
+1 careful study
+1 cloak of feathers
+1 cobbled lancer
+1 consider
+1 crawling barrens
+1 disrupt
+1 dizzy spell
+1 giant's amulet
+1 hard cover
+1 hypnotic siren
+1 jace's phantasm
+1 lantern bearer // lanterns' lift
+1 leap
+1 multiple choice
+1 occult epiphany
+1 preordain
+1 repeal
+1 rookie mistake
+1 sapphire charm
+1 serum visions
+1 shadow rift
+1 shell Shield
+1 shore up
+1 slagwurm Armor
+1 slip through space
+1 spectral sailor
+1 triton tactics
+1 twisted image
+1 unstable mutation
+1 walking bulwark
+1 whispers of the muse
+1 witching well
+1 wizard class
+1 dispel

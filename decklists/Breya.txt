@@ -1,99 +1,98 @@
-Plains
-Island
-Island
-Mountain
-Vivid marsh
-exotic orchard
-mystic monastery
-orzhov basilica
-goldmire bridge
-crumbling necropolis
-azorious chancery
-port town
-terramorphic expanse
-ash barrens
-canyon slough
-boros garrison
-vivid creek
-izzet boilerworks
-seat of the synod
-evolving wilds
-rakdos carnarium
-creeping tar pit
-command Tower
-vivid meadow
-mistvault bridge
-drossforge bridge
-arcane sanctum
-dimir aqueduct
-buried ruin
-path of ancestry
-drowned catacomb
-prairie stream
-vivid crag
-concealed courtyard
-darksteel citadel
-aetherflux reservoir
-mortify
-metalwork colossus
-fumigate
-beacon of unrest
-ichor wellspring
-azorious signet
-sphinx summoner
-orzhov signet
-treasure map
-infernal grasp
-dimir signet
-sydri galvanic genius
-ethersworn adjudicator
-painful truths
-izzet signet
-sharuum the hegemon
-scion of draco
-utter end
-tezzeret, artifice master
-terminus
-sen triplets
-oblivion ring
-thopter foundry
-worn powerstone
-faith's reward
-shimmer myr
-herald of anguish
-jhoira, ageless innovator
-filigree angel
-pentad prism
-commander's sphere
-baleful strix
-mind stone
-descend upon the sinful
-scrap trawler
-fellwar stone
-marionette master
-open the vaults
-narset of the ancient ways
-phyrexian rebirth
-planar outburst
-nevinyrral's disk
-nihil spellbomb
-ruinous ultimatum
-arcane signet
-combustible gearhulk
-myr retriever
-dack fayden
-bolas's citadel
-trash for treasure
-sword of the meek
-akroma's vengeance
-mycosynth wellspring
-daretti, scrap savant
-hallowed burial
-brainstorm
-daretti, ingenious iconoclast
-parhelion II
-cranial plating
-swiftfoot boots
-padeem, consul of innovation
-master of etherium
-ashnod's altar
+1 Plains
+2 Island
+1 Mountain
+1 Vivid marsh
+1 exotic orchard
+1 mystic monastery
+1 orzhov basilica
+1 goldmire bridge
+1 crumbling necropolis
+1 azorious chancery
+1 port town
+1 terramorphic expanse
+1 ash barrens
+1 canyon slough
+1 boros garrison
+1 vivid creek
+1 izzet boilerworks
+1 seat of the synod
+1 evolving wilds
+1 rakdos carnarium
+1 creeping tar pit
+1 command Tower
+1 vivid meadow
+1 mistvault bridge
+1 drossforge bridge
+1 arcane sanctum
+1 dimir aqueduct
+1 buried ruin
+1 path of ancestry
+1 drowned catacomb
+1 prairie stream
+1 vivid crag
+1 concealed courtyard
+1 darksteel citadel
+1 aetherflux reservoir
+1 mortify
+1 metalwork colossus
+1 fumigate
+1 beacon of unrest
+1 ichor wellspring
+1 azorious signet
+1 sphinx summoner
+1 orzhov signet
+1 treasure map
+1 infernal grasp
+1 dimir signet
+1 sydri galvanic genius
+1 ethersworn adjudicator
+1 painful truths
+1 izzet signet
+1 sharuum the hegemon
+1 scion of draco
+1 utter end
+1 tezzeret, artifice master
+1 terminus
+1 sen triplets
+1 oblivion ring
+1 thopter foundry
+1 worn powerstone
+1 faith's reward
+1 shimmer myr
+1 herald of anguish
+1 jhoira, ageless innovator
+1 filigree angel
+1 pentad prism
+1 commander's sphere
+1 baleful strix
+1 mind stone
+1 descend upon the sinful
+1 scrap trawler
+1 fellwar stone
+1 marionette master
+1 open the vaults
+1 narset of the ancient ways
+1 phyrexian rebirth
+1 planar outburst
+1 nevinyrral's disk
+1 nihil spellbomb
+1 ruinous ultimatum
+1 arcane signet
+1 combustible gearhulk
+1 myr retriever
+1 dack fayden
+1 bolas's citadel
+1 trash for treasure
+1 sword of the meek
+1 akroma's vengeance
+1 mycosynth wellspring
+1 daretti, scrap savant
+1 hallowed burial
+1 brainstorm
+1 daretti, ingenious iconoclast
+1 parhelion II
+1 cranial plating
+1 swiftfoot boots
+1 padeem, consul of innovation
+1 master of etherium
+1 ashnod's altar

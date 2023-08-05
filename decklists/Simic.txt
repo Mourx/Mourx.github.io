@@ -1,99 +1,74 @@
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-memorial to genius
-desert of the mindful
-rogue's passage
-hinterland harbor
-evolving wilds
-memorial to unity
-lumbering falls
-deep analysis
-wonder
-weight of memory
-stunt double
-merfolk trickster
-the mirari conjecture
-roar of the wurm
-nightveil sprite
-aberrant researcher
-wood sage
-trygon predator
-spring // mind
-silumgar sorcerer
-forgotten ancient
-reason // believe
-vivien, monsters' advocate
-nissa, vital force
-carnage tyrant
-voracious greatshark
-abundant growth
-moment's peace
-explosive vegetation
-froghemoth
-commander's sphere
-galloping lizrog
-eureka moment
-awakening zone
-croaking counterpart
-tatyova, benthic druid
-simic charm
-nimbus swimmer
-opportunity
-dampening pulse
-gamekeeper
-gaea's blessing
-frogify
-altered ego
-spore frog
-murkfiend liege
-verdant command
-undercover operative
-slogurk, the overslime
-overrun
-jade avenger
-regal behemoth
-pulse of murasa
-fellwar stone
-spectral searchlight
-lay claim
-curse of verbocity
-steal artifact
-weaver of currents
-beast within
-pelakka wurm
-keeper of keys
-crawling sensation
-kiora, behemoth beckoner
-lashweed lurker
-lead the stampede
-turn to frog
-plated crusher
-bloated toad
-coiling oracle
-urban evolution
-slinn voda, the rising deep
+13 Island
+14 Forest
+1 memorial to genius
+1 desert of the mindful
+1 rogue's passage
+1 hinterland harbor
+1 evolving wilds
+1 memorial to unity
+1 lumbering falls
+1 deep analysis
+1 wonder
+1 weight of memory
+1 stunt double
+1 merfolk trickster
+1 the mirari conjecture
+1 roar of the wurm
+1 nightveil sprite
+1 aberrant researcher
+1 wood sage
+1 trygon predator
+1 spring // mind
+1 silumgar sorcerer
+1 forgotten ancient
+1 reason // believe
+1 vivien, monsters' advocate
+1 nissa, vital force
+1 carnage tyrant
+1 voracious greatshark
+1 abundant growth
+1 moment's peace
+1 explosive vegetation
+1 froghemoth
+1 commander's sphere
+1 galloping lizrog
+1 eureka moment
+1 awakening zone
+1 croaking counterpart
+1 tatyova, benthic druid
+1 simic charm
+1 nimbus swimmer
+1 opportunity
+1 dampening pulse
+1 gamekeeper
+1 gaea's blessing
+1 frogify
+1 altered ego
+1 spore frog
+1 murkfiend liege
+1 verdant command
+1 undercover operative
+1 slogurk, the overslime
+1 overrun
+1 jade avenger
+1 regal behemoth
+1 pulse of murasa
+1 fellwar stone
+1 spectral searchlight
+1 lay claim
+1 curse of verbocity
+1 steal artifact
+1 weaver of currents
+1 beast within
+1 pelakka wurm
+1 keeper of keys
+1 crawling sensation
+1 kiora, behemoth beckoner
+1 lashweed lurker
+1 lead the stampede
+1 turn to frog
+1 plated crusher
+1 bloated toad
+1 coiling oracle
+1 urban evolution
+1 slinn voda, the rising deep

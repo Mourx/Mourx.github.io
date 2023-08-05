@@ -1,99 +1,64 @@
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Consider
-circular logic
-aetherspouts
-ravenform
-tempest djinn
-kumena's awakening
-borrowing 100,000 arrows
-engulf the shore
-into the roil
-cephalid pathmage
-negate
-fumble
-sinister sabotage
-inevitable betrayal
-blink of an eye
-high tide
-body double
-willbreaker
-dispel
-invasive surgery
-shield broker
-archetype of imagination
-ponder
-llawan, cephalid empress
-polymorphist's jest
-in bolas's clutches
-stolen by the fae
-inundate
-unsubstantiate
-shark typhoon
-temporal distortion
-stifle
-mana vapors
-opportunity
-theft of dreams
-disdainful stroke
-floodgate
-cephalid looter
-essence scatter
-cephalid broker
-flood
-verity circle
-deluge
-aetherize
-snap
-tolarian terror
-energy tap
-broken concentration
-elder deep-fiend
-foil
-eel umbra
-horribly awry
-blustersquall
-didn't say please
-cephalid sage
-psychic pickpocket
-opt
-aboshan's desire
-cephalid retainer
-faerie artisan's
-treasure cruise
-resculpt
-callous oppressor
+36 Island
+1 Consider
+1 circular logic
+1 aetherspouts
+1 ravenform
+1 tempest djinn
+1 kumena's awakening
+1 borrowing 100,000 arrows
+1 engulf the shore
+1 into the roil
+1 cephalid pathmage
+1 negate
+1 fumble
+1 sinister sabotage
+1 inevitable betrayal
+1 blink of an eye
+1 high tide
+1 body double
+1 willbreaker
+1 dispel
+1 invasive surgery
+1 shield broker
+1 archetype of imagination
+1 ponder
+1 llawan, cephalid empress
+1 polymorphist's jest
+1 in bolas's clutches
+1 stolen by the fae
+1 inundate
+1 unsubstantiate
+1 shark typhoon
+1 temporal distortion
+1 stifle
+1 mana vapors
+1 opportunity
+1 theft of dreams
+1 disdainful stroke
+1 floodgate
+1 cephalid looter
+1 essence scatter
+1 cephalid broker
+1 flood
+1 verity circle
+1 deluge
+1 aetherize
+1 snap
+1 tolarian terror
+1 energy tap
+1 broken concentration
+1 elder deep-fiend
+1 foil
+1 eel umbra
+1 horribly awry
+1 blustersquall
+1 didn't say please
+1 cephalid sage
+1 psychic pickpocket
+1 opt
+1 aboshan's desire
+1 cephalid retainer
+1 faerie artisan's
+1 treasure cruise
+1 resculpt
+1 callous oppressor

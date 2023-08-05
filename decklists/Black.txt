@@ -1,99 +1,69 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Cabal stronghold
-barren moor
-castle locthwain
-hive of the eye tyrant
-malakir mire
-mage-ring network
-suffer the past
-annihilate
-night's whisper
-cast down
-bubbling muck
-cloud key
-darkness
-greed
-ultimate price
-ob nixilis reignited
-unlikely aid
-altar's reap
-blood pact
-ad nauseam
-final parting
-Slaughter
-bloodline culling
-to the slaughter
-dark bargain
-pharika's libation
-sangromancer
-funeral charm
-cling to dust
-custodi lich
-murder
-languish
-tendrils of agony
-price of fame
-ashnod's intervention
-dismember
-easy prey
-spoils of blood
-mastermind's acquisition
-geth's verdict
-bile Blight
-bontu's last reckoning
-bloodgift demon
-Hostile negotiations
-gonti, lord of luxury
-hero's downfall
-tendrils of corruption
-tainted strike
-cut down
-butcher of malakir
-erebos's intervention
-tragic slip
-archfiend of despair
-cremate
-cabal ritual
-profane tutor
-torment of hailfire
-dark banishing
-sedgemoor witch
-defile
-victim of night
-murderous cut
-sphinx-bone wand
-sentinel tower
-helm of awakening
-dark ritual
-magus of the coffers
-harvester of souls
+31 Swamp
+1 Cabal stronghold
+1 barren moor
+1 castle locthwain
+1 hive of the eye tyrant
+1 malakir mire
+1 mage-ring network
+1 suffer the past
+1 annihilate
+1 night's whisper
+1 cast down
+1 bubbling muck
+1 cloud key
+1 darkness
+1 greed
+1 ultimate price
+1 ob nixilis reignited
+1 unlikely aid
+1 altar's reap
+1 blood pact
+1 ad nauseam
+1 final parting
+1 Slaughter
+1 bloodline culling
+1 to the slaughter
+1 dark bargain
+1 pharika's libation
+1 sangromancer
+1 funeral charm
+1 cling to dust
+1 custodi lich
+1 murder
+1 languish
+1 tendrils of agony
+1 price of fame
+1 ashnod's intervention
+1 dismember
+1 easy prey
+1 spoils of blood
+1 mastermind's acquisition
+1 geth's verdict
+1 bile Blight
+1 bontu's last reckoning
+1 bloodgift demon
+1 Hostile negotiations
+1 gonti, lord of luxury
+1 hero's downfall
+1 tendrils of corruption
+1 tainted strike
+1 cut down
+1 butcher of malakir
+1 erebos's intervention
+1 tragic slip
+1 archfiend of despair
+1 cremate
+1 cabal ritual
+1 profane tutor
+1 torment of hailfire
+1 dark banishing
+1 sedgemoor witch
+1 defile
+1 victim of night
+1 murderous cut
+1 sphinx-bone wand
+1 sentinel tower
+1 helm of awakening
+1 dark ritual
+1 magus of the coffers
+1 harvester of souls

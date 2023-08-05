@@ -1,99 +1,65 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Crib Swap
-Raise The Alarm
-integrity // intervention
-boros reckoner
-leave // chance
-flame-kin zealot
-any, merciless angel
-gisela, blade of goldnight
-Sky terror
-inventor's apprentice
-boros keyrune
-expedite
-besmirch
-akroan hoplite
-viashino firstblade
-captain's claws
-resolute blademaster
-rampaging monument
-flameblade angel
-bygone bishop
-master splicer
-protector of the crown
-fall of the Thran
-aligned hedron network
-adriana, captain of the guard
-sanctum prelate
-invasion of kylem
-bound by moonsilver
-aurelia, the warleader
-banishing light
-torri d'avenant, fury rider
-baird, argivian recruiter
-obsessive astronomer
-truefire paladin
-cathat commando
-mirror-shield hoplite
-boros charm
-magmatic chasm
-oketra's monument
-jor kadeen, the prevailer
-sunhome guildmage
-akiri, line-slinger
-swiftblade vindicator
-tiana, ship's caretaker
-inner struggle
-flame Slash
-fortress cyclops
-savai thundermane
-thraben inspector
-intangible virtue
-ordrunn veteran
-Tajic, blade of the legion
-swathcutter giant
-rem karolus, stalwart slayer
-retreat to emeria
-weapons trainer
-unstable Obelisk
-hero of goma fada
-crash through
-glimmerpoint stag
-make your mark
-fireborn knight
-fling
+18 Plains
+18 Mountain
+1 Crib Swap
+1 Raise The Alarm
+1 integrity // intervention
+1 boros reckoner
+1 leave // chance
+1 flame-kin zealot
+1 any, merciless angel
+1 gisela, blade of goldnight
+1 Sky terror
+1 inventor's apprentice
+1 boros keyrune
+1 expedite
+1 besmirch
+1 akroan hoplite
+1 viashino firstblade
+1 captain's claws
+1 resolute blademaster
+1 rampaging monument
+1 flameblade angel
+1 bygone bishop
+1 master splicer
+1 protector of the crown
+1 fall of the Thran
+1 aligned hedron network
+1 adriana, captain of the guard
+1 sanctum prelate
+1 invasion of kylem
+1 bound by moonsilver
+1 aurelia, the warleader
+1 banishing light
+1 torri d'avenant, fury rider
+1 baird, argivian recruiter
+1 obsessive astronomer
+1 truefire paladin
+1 cathat commando
+1 mirror-shield hoplite
+1 boros charm
+1 magmatic chasm
+1 oketra's monument
+1 jor kadeen, the prevailer
+1 sunhome guildmage
+1 akiri, line-slinger
+1 swiftblade vindicator
+1 tiana, ship's caretaker
+1 inner struggle
+1 flame Slash
+1 fortress cyclops
+1 savai thundermane
+1 thraben inspector
+1 intangible virtue
+1 ordrunn veteran
+1 Tajic, blade of the legion
+1 swathcutter giant
+1 rem karolus, stalwart slayer
+1 retreat to emeria
+1 weapons trainer
+1 unstable Obelisk
+1 hero of goma fada
+1 crash through
+1 glimmerpoint stag
+1 make your mark
+1 fireborn knight
+1 fling

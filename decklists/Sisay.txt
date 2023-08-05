@@ -1,99 +1,96 @@
-Plains
-Plains
-Island
-Swamp
-Swamp
-Mountain
-Forest
-Forest
-rupture spire
-gateway plaza
-zagoth triome
-ketria triome
-prairie stream
-cascading cataracts
-spire garden
-watery grave
-opulent palace
-port town
-terramorphic expanse
-plaza of heroes
-sea of clouds
-godless shrine
-evolving wilds
-mystic monastery
-bountiful promenade
-command tower
-morphic pool
-nomad outpost
-orzhov guildgate
-gruul guildgate
-rakdos guildgate
-boros guildgate
-azorius guildgate
-dimir guildgate
-simic guildgate
-izzet guildgate
-selesnya guildgate
-golgari guildgate
-maze's end
-kenrith, the returned king
-dire tactics
-kodama's reach
-lavinia, azorius renegade
-bruse tarl, boorish herder
-anafenza, the foremost
-ashiok, nightmare weaver
-shanna, sisay's legacy
-sigarda, heron's grace
-odric, lunarch marshal
-wilderness reclamation
-faeburrow elder
-chromatic lantern
-eerie ultimatum
-saffi eriksdotter
-commander's sphere
-farseek
-teshar, ancestor's apostle
-gaddock teeg
-board the weatherlight
-kamahl's druidic vow
-karn's temporal sundering
-jedit ojanen, mercenary
-niv-mizzet reborn
-journey to eternity
-gerrard, weatherlight hero
-the underworld cookbook
-blackblade reforged
-raff capashen, ship's mage
-kunoros, hound of athreos
-wrath of god
-harrow
-arvad the cursed
-general kudro of drannith
-shalai, voice of plenty
-dragonlord ojutai
-drannith magistrate
-helm of the host
-asmoranomardicadaistinaculdacar
-ratadrabik of urborg
-dakkon, shadow slayer
-swords to plowshares
-path to exile
-fires of invention
-kambal, consul of allocation
-yawgmoth's vile offering
-circuitous route
-bring to light
-wayfarer's bauble
-mox amber
-urza's ruinous blast
-fumigate
-counterspell
-kethis, the hidden hand
-cultivate
-weatherlight
-primevals' glorious rebirth
-jodah the unifier
-garth one-eye
-shadrix silverquill
+2 Plains
+1 Island
+2 Swamp
+1 Mountain
+2 Forest
+1 rupture spire
+1 gateway plaza
+1 zagoth triome
+1 ketria triome
+1 prairie stream
+1 cascading cataracts
+1 spire garden
+1 watery grave
+1 opulent palace
+1 port town
+1 terramorphic expanse
+1 plaza of heroes
+1 sea of clouds
+1 godless shrine
+1 evolving wilds
+1 mystic monastery
+1 bountiful promenade
+1 command tower
+1 morphic pool
+1 nomad outpost
+1 orzhov guildgate
+1 gruul guildgate
+1 rakdos guildgate
+1 boros guildgate
+1 azorius guildgate
+1 dimir guildgate
+1 simic guildgate
+1 izzet guildgate
+1 selesnya guildgate
+1 golgari guildgate
+1 maze's end
+1 kenrith, the returned king
+1 dire tactics
+1 kodama's reach
+1 lavinia, azorius renegade
+1 bruse tarl, boorish herder
+1 anafenza, the foremost
+1 ashiok, nightmare weaver
+1 shanna, sisay's legacy
+1 sigarda, heron's grace
+1 odric, lunarch marshal
+1 wilderness reclamation
+1 faeburrow elder
+1 chromatic lantern
+1 eerie ultimatum
+1 saffi eriksdotter
+1 commander's sphere
+1 farseek
+1 teshar, ancestor's apostle
+1 gaddock teeg
+1 board the weatherlight
+1 kamahl's druidic vow
+1 karn's temporal sundering
+1 jedit ojanen, mercenary
+1 niv-mizzet reborn
+1 journey to eternity
+1 gerrard, weatherlight hero
+1 the underworld cookbook
+1 blackblade reforged
+1 raff capashen, ship's mage
+1 kunoros, hound of athreos
+1 wrath of god
+1 harrow
+1 arvad the cursed
+1 general kudro of drannith
+1 shalai, voice of plenty
+1 dragonlord ojutai
+1 drannith magistrate
+1 helm of the host
+1 asmoranomardicadaistinaculdacar
+1 ratadrabik of urborg
+1 dakkon, shadow slayer
+1 swords to plowshares
+1 path to exile
+1 fires of invention
+1 kambal, consul of allocation
+1 yawgmoth's vile offering
+1 circuitous route
+1 bring to light
+1 wayfarer's bauble
+1 mox amber
+1 urza's ruinous blast
+1 fumigate
+1 counterspell
+1 kethis, the hidden hand
+1 cultivate
+1 weatherlight
+1 primevals' glorious rebirth
+1 jodah the unifier
+1 garth one-eye
+1 shadrix silverquill

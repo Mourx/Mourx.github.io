@@ -1,99 +1,76 @@
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Rograkh, Son of Rohgahh
-Bomat Courier
-Lightning Berserker
-Insolent Neonate
-Fire Shrine Keeper
-Akroan Crusader
-Cacophony Scamp
-Dragonmaster Outcast
-Exuberant Fuseling
-Fireblade Charger
-Foundry Street Denizen
-Goblin Bushwhacker
-Goblin Grappler
-Goblin Soothsayer
-Goldhound
-Intimidator Initiate
-Monastery Swiftspear
-Satyr Hoplite
-Spikeshot Elder
-Vindictive Flamestoker
-Weaponize the Monsters
-Barrage of Expendables
-Cartouche of Zeal
-Hammerhand
-Mob Mentality
-Street Spasm
-Lightning Axe
-Infuriate
-Heightened Reflexes
-Flowstone Infusion
-Expedite
-Built to Smash
-Barge In
-Banners Raised
-Brute Force
-Crowd's Favor
-Dynacharge
-Fall of the Titans
-Fever Charm
-Fighting Chance
-Hearth Charm
-Last-Ditch Effort
-March of Reckless Joy
-Panic
-Raze the Effigy
-Rouse the Mob
-Rush of Adrenaline
-Titan's Strength
-Weapon Surge
-Castle Embereth
-Dwarven Mine
-Dwarven Ruins
-Ghitu Encampment
-Sandstone Needle
-Smoldering Spires
-Spark of Creativity
-Fireball
-Renegade Tactics
-Reckless Charge
-Faithless Looting
-Crash Through
-Assault Strobe
-Blinding Flare
-Flame Slash
-Ground Rift
-Infernal Plunge
-Landslide
-Mishra's Command
-Mugging
-Seething Anger
-Spite of Mogis
-Thud
-Warlord's Fury
-Wave of Indifference
-Scorched Earth
+24 Mountain
+1 Rograkh, Son of Rohgahh
+1 Bomat Courier
+1 Lightning Berserker
+1 Insolent Neonate
+1 Fire Shrine Keeper
+1 Akroan Crusader
+1 Cacophony Scamp
+1 Dragonmaster Outcast
+1 Exuberant Fuseling
+1 Fireblade Charger
+1 Foundry Street Denizen
+1 Goblin Bushwhacker
+1 Goblin Grappler
+1 Goblin Soothsayer
+1 Goldhound
+1 Intimidator Initiate
+1 Monastery Swiftspear
+1 Satyr Hoplite
+1 Spikeshot Elder
+1 Vindictive Flamestoker
+1 Weaponize the Monsters
+1 Barrage of Expendables
+1 Cartouche of Zeal
+1 Hammerhand
+1 Mob Mentality
+1 Street Spasm
+1 Lightning Axe
+1 Infuriate
+1 Heightened Reflexes
+1 Flowstone Infusion
+1 Expedite
+1 Built to Smash
+1 Barge In
+1 Banners Raised
+1 Brute Force
+1 Crowd's Favor
+1 Dynacharge
+1 Fall of the Titans
+1 Fever Charm
+1 Fighting Chance
+1 Hearth Charm
+1 Last-Ditch Effort
+1 March of Reckless Joy
+1 Panic
+1 Raze the Effigy
+1 Rouse the Mob
+1 Rush of Adrenaline
+1 Titan's Strength
+1 Weapon Surge
+1 Castle Embereth
+1 Dwarven Mine
+1 Dwarven Ruins
+1 Ghitu Encampment
+1 Sandstone Needle
+1 Smoldering Spires
+1 Spark of Creativity
+1 Fireball
+1 Renegade Tactics
+1 Reckless Charge
+1 Faithless Looting
+1 Crash Through
+1 Assault Strobe
+1 Blinding Flare
+1 Flame Slash
+1 Ground Rift
+1 Infernal Plunge
+1 Landslide
+1 Mishra's Command
+1 Mugging
+1 Seething Anger
+1 Spite of Mogis
+1 Thud
+1 Warlord's Fury
+1 Wave of Indifference
+1 Scorched Earth

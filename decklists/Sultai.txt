@@ -1,99 +1,85 @@
-Island
-Island
-Island
-Island
-Island
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-memorial to genius
-ghost quarter
-blighted woodland
-desert of the mindful
-glacial chasm
-desert of the glorified
-throne of the high city
-memorial to unity
-command tower
-desert of the indomitable
-creeping tar pit
-terramorphic expanse
-vivid marsh
-barren moor
-ifnir deadlands
-evolving wilds
-hinterland harbor
-temple of the false god
-exotic orchard
-painful truths
-taigam's scheming
-pack rat
-lightning greaves
-balustrade spy
-sinister concoction
-eternity vessel
-phyrexian arena
-ratchet bomb
-birds of paradise
-lay claim
-wayfarer's bauble
-epiphany at the drownyard
-emergent ultimatum
-coiling oracle
-trading post
-renegade map
-splitting slime
-terastodon
-thrashing brontodon
-molderhulk
-traveler's amulet
-hero's downfall
-tree of perdition
-army of the damned
-nihil spellbomb
-nyx weaver
-rashmi, eternities crafter
-executioner's capsule
-deathreap ritual
-tempest caller
-coastal breach
-reckless scholar
-avatar of woe
-obsessive skinner
-altar of dementia
-silumgar's command
-connive // concoct
-grow from the ashes
-laboratory maniac
-in bolas's clutches
-whispersilk cloak
-rootcoil creeper
-sakura-tribe elder
-kitesail freebooter
-monstrous war-leech
-apocalypse demon
-lotus blossom
-weaver of currents
-hangarback walker
-ancient excavation
-gurmag drowner
-vampiric rites
-learn from the past
-deathbringer regent
-sultai skullkeeper
-uurg, spawn of turg
-ob nixilis reignited
-devastation tide
-urbog lhurgoyf
-final parting
-loxodon warhammer
-ravenous chupacabra
+5 Island
+6 Swamp
+6 Forest
+1 memorial to genius
+1 ghost quarter
+1 blighted woodland
+1 desert of the mindful
+1 glacial chasm
+1 desert of the glorified
+1 throne of the high city
+1 memorial to unity
+1 command tower
+1 desert of the indomitable
+1 creeping tar pit
+1 terramorphic expanse
+1 vivid marsh
+1 barren moor
+1 ifnir deadlands
+1 evolving wilds
+1 hinterland harbor
+1 temple of the false god
+1 exotic orchard
+1 painful truths
+1 taigam's scheming
+1 pack rat
+1 lightning greaves
+1 balustrade spy
+1 sinister concoction
+1 eternity vessel
+1 phyrexian arena
+1 ratchet bomb
+1 birds of paradise
+1 lay claim
+1 wayfarer's bauble
+1 epiphany at the drownyard
+1 emergent ultimatum
+1 coiling oracle
+1 trading post
+1 renegade map
+1 splitting slime
+1 terastodon
+1 thrashing brontodon
+1 molderhulk
+1 traveler's amulet
+1 hero's downfall
+1 tree of perdition
+1 army of the damned
+1 nihil spellbomb
+1 nyx weaver
+1 rashmi, eternities crafter
+1 executioner's capsule
+1 deathreap ritual
+1 tempest caller
+1 coastal breach
+1 reckless scholar
+1 avatar of woe
+1 obsessive skinner
+1 altar of dementia
+1 silumgar's command
+1 connive // concoct
+1 grow from the ashes
+1 laboratory maniac
+1 in bolas's clutches
+1 whispersilk cloak
+1 rootcoil creeper
+1 sakura-tribe elder
+1 kitesail freebooter
+1 monstrous war-leech
+1 apocalypse demon
+1 lotus blossom
+1 weaver of currents
+1 hangarback walker
+1 ancient excavation
+1 gurmag drowner
+1 vampiric rites
+1 learn from the past
+1 deathbringer regent
+1 sultai skullkeeper
+1 uurg, spawn of turg
+1 ob nixilis reignited
+1 devastation tide
+1 urbog lhurgoyf
+1 final parting
+1 loxodon warhammer
+1 ravenous chupacabra

@@ -1,99 +1,67 @@
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Swamp
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-creeping dread
-murderous redcap
-grenzo, havoc raider
-smash to smithereens
-marchesa's decree
-blackmail
-delirium skeins
-gibbering fiend
-smallpox
-rakdos charm
-syphon mind
-Squee, the immortal
-gonti, lord of luxury
-plaguecrafter
-curse of shaken faith
-nyxathid
-davriel, rogue shadowmage
-ensnaring bridge
-never // return
-unlicensed disintegration
-lightning skelemental
-diabolic tutor
-judith, the scourge diva
-underworld dreams
-necrogen mists
-neheb, the worthy
-custodi lich
-angrath's rampage
-phage the untouchable
-rankle and torbran
-vampire hexmage
-asylum visitor
-the eldest reborn
-ratchet bomb
-the rack
-shrieking affliction
-war's toll
-heartless hidetsugu
-pia and kiran nalaar
-arterial flow
-silent arbiter
-terminate
-bile blight
-the flame of keld
-fate unraveler
-sulfurous blast
-thunderbreak regent
-feed the swarm
-demonic pact
-dark bargain
-bontu's last reckoning
-murderous rider
-grapeshot
-last one standing
-macabre mockery
-carnage gladiator
-scald
-asmoranomardicadaistinaculdacar
-the raven man
-garna, bloodfist of keld
-cut down
-invasion of azgol
-deathgrip
-the underworld cookbook
-waste not
+17 Swamp
+17 Mountain
+1 creeping dread
+1 murderous redcap
+1 grenzo, havoc raider
+1 smash to smithereens
+1 marchesa's decree
+1 blackmail
+1 delirium skeins
+1 gibbering fiend
+1 smallpox
+1 rakdos charm
+1 syphon mind
+1 Squee, the immortal
+1 gonti, lord of luxury
+1 plaguecrafter
+1 curse of shaken faith
+1 nyxathid
+1 davriel, rogue shadowmage
+1 ensnaring bridge
+1 never // return
+1 unlicensed disintegration
+1 lightning skelemental
+1 diabolic tutor
+1 judith, the scourge diva
+1 underworld dreams
+1 necrogen mists
+1 neheb, the worthy
+1 custodi lich
+1 angrath's rampage
+1 phage the untouchable
+1 rankle and torbran
+1 vampire hexmage
+1 asylum visitor
+1 the eldest reborn
+1 ratchet bomb
+1 the rack
+1 shrieking affliction
+1 war's toll
+1 heartless hidetsugu
+1 pia and kiran nalaar
+1 arterial flow
+1 silent arbiter
+1 terminate
+1 bile blight
+1 the flame of keld
+1 fate unraveler
+1 sulfurous blast
+1 thunderbreak regent
+1 feed the swarm
+1 demonic pact
+1 dark bargain
+1 bontu's last reckoning
+1 murderous rider
+1 grapeshot
+1 last one standing
+1 macabre mockery
+1 carnage gladiator
+1 scald
+1 asmoranomardicadaistinaculdacar
+1 the raven man
+1 garna, bloodfist of keld
+1 cut down
+1 invasion of azgol
+1 deathgrip
+1 the underworld cookbook
+1 waste not

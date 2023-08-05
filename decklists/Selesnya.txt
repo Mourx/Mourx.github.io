@@ -1,99 +1,68 @@
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Plains
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-curse of predation
-brood monitor
-doomed traveler
-sacred cat
-recruiter of the guard
-unbreakable formation
-deeproot
-shielded by faith
-adanto vanguard
-llanowar elves
-squirrel nest
-spore swarm
-botanical brawler
-one dozen eyes
-migration path
-might of the masses
-manaplasm
-elegant edgecrafters
-visionary augmenter
-topplegeist
-sheltering light
-resolute reinforcements
-palace jailer
-make a stand
-jubilant mascot
-intangible virtue
-grateful apparition
-commanding Presence
-verdent command
-sylvan offering
-unfliching courage
-queen allenal of ruadach
-oakhame ranger
-flower // flourish
-armadillo cloak
-appeal // Authority
-thopter assembly
-myr battlesphere
-captain's claws
-glare of subdual
-raise the alarm
-omen of the sun
-garrison cat
-benevolent bodyguard
-throne of the god-pharaoh
-panharmonicon
-thalia's lieutenant
-legion's landing
-elspeth, sun's nemesis
-king darien XLVIII
-leonin vanguard
-ambitious farmhand
-bronzehide lion
-beast within
-triumph of gerrard
-inspiring unicorn
-swords to Plowshares
-assure // assemble
-loyal unicorn
-haazda marshal
-overrun
-sheltering light
-shanna, sisay's legacy
-banishing light
-marshal's anthem
-wild pair
+17 Plains
+16 Forest
+1 curse of predation
+1 brood monitor
+1 doomed traveler
+1 sacred cat
+1 recruiter of the guard
+1 unbreakable formation
+1 deeproot
+1 shielded by faith
+1 adanto vanguard
+1 llanowar elves
+1 squirrel nest
+1 spore swarm
+1 botanical brawler
+1 one dozen eyes
+1 migration path
+1 might of the masses
+1 manaplasm
+1 elegant edgecrafters
+1 visionary augmenter
+1 topplegeist
+1 sheltering light
+1 resolute reinforcements
+1 palace jailer
+1 make a stand
+1 jubilant mascot
+1 intangible virtue
+1 grateful apparition
+1 commanding Presence
+1 verdent command
+1 sylvan offering
+1 unfliching courage
+1 queen allenal of ruadach
+1 oakhame ranger
+1 flower // flourish
+1 armadillo cloak
+1 appeal // Authority
+1 thopter assembly
+1 myr battlesphere
+1 captain's claws
+1 glare of subdual
+1 raise the alarm
+1 omen of the sun
+1 garrison cat
+1 benevolent bodyguard
+1 throne of the god-pharaoh
+1 panharmonicon
+1 thalia's lieutenant
+1 legion's landing
+1 elspeth, sun's nemesis
+1 king darien XLVIII
+1 leonin vanguard
+1 ambitious farmhand
+1 bronzehide lion
+1 beast within
+1 triumph of gerrard
+1 inspiring unicorn
+1 swords to Plowshares
+1 assure // assemble
+1 loyal unicorn
+1 haazda marshal
+1 overrun
+1 sheltering light
+1 shanna, sisay's legacy
+1 banishing light
+1 marshal's anthem
+1 wild pair

@@ -1,99 +1,65 @@
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Island
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-Mountain
-thermo-alchemist
-glimmer of genius
-opt
-opportunity
-spellheart chimera
-arcane infusion
-volcanic vision
-okaun, eye of chaos
-grapeshot
-firefist adept
-aether tradewinds
-convolute
-treasure cruise
-zndrsplt, eye of wisdom
-mana leak
-keep safe
-brain in a jar
-negate
-archaeomancer
-beacon bolt
-rolling thunder
-ghitu lavarunner
-jace's ingenuity
-crackling drake
-rise from the tides
-fact or fiction
-dismiss
-izzet chronarch
-empty the warrens
-mercurial chemister
-finale of promise
-blink of an eye
-wizard's retort
-merfolk trickster
-didn't say please
-enigma drake
-dream fracture
-omenspeaker
-charmbreaker devils
-niv-mizzet, the firemind
-geistblast
-naru meha, master wizard
-anticipate
-dispel
-izzet locket
-goblin electromancer
-battlefield thaumaturge
-step through
-murmuring mystic
-azami, lady of scrolls
-naban, dean of iteration
-spellseeker
-galecaster colossus
-panharmonicon
-merchant of secrets
-aether channeler
-balmor, battlemage captain
-nin, the pain artist
-nivix guildmage
-izzet chemister
-wizard's lightning
-reduce // rubble
-commit // memory
+18 Island
+18 Mountain
+1 thermo-alchemist
+1 glimmer of genius
+1 opt
+1 opportunity
+1 spellheart chimera
+1 arcane infusion
+1 volcanic vision
+1 okaun, eye of chaos
+1 grapeshot
+1 firefist adept
+1 aether tradewinds
+1 convolute
+1 treasure cruise
+1 zndrsplt, eye of wisdom
+1 mana leak
+1 keep safe
+1 brain in a jar
+1 negate
+1 archaeomancer
+1 beacon bolt
+1 rolling thunder
+1 ghitu lavarunner
+1 jace's ingenuity
+1 crackling drake
+1 rise from the tides
+1 fact or fiction
+1 dismiss
+1 izzet chronarch
+1 empty the warrens
+1 mercurial chemister
+1 finale of promise
+1 blink of an eye
+1 wizard's retort
+1 merfolk trickster
+1 didn't say please
+1 enigma drake
+1 dream fracture
+1 omenspeaker
+1 charmbreaker devils
+1 niv-mizzet, the firemind
+1 geistblast
+1 naru meha, master wizard
+1 anticipate
+1 dispel
+1 izzet locket
+1 goblin electromancer
+1 battlefield thaumaturge
+1 step through
+1 murmuring mystic
+1 azami, lady of scrolls
+1 naban, dean of iteration
+1 spellseeker
+1 galecaster colossus
+1 panharmonicon
+1 merchant of secrets
+1 aether channeler
+1 balmor, battlemage captain
+1 nin, the pain artist
+1 nivix guildmage
+1 izzet chemister
+1 wizard's lightning
+1 reduce // rubble
+1 commit // memory

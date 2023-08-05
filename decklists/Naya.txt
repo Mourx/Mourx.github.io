@@ -1,99 +1,89 @@
-Plains
-Plains
-Plains
-Mountain
-Mountain
-Mountain
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-CAbaretti courtyard
-rugged prairie
-slayers' stronghold
-command tower
-temple of triumph
-cinder glade
-myriad landscape
-thriving grove
-naya panorama
-mossfire valley
-exotic orchard
-ash barrens
-jungle shrine
-sungrass prairie
-thriving bluff
-sheltered thicket
-castle embereth
-game trail
-path of ancestry
-raging ravine
-windbrisk heights
-canopy vista
-fortified village
-castle ardenvale
-thriving heath
-intrepid adversary
-sylvan anthem
-wolfbriar elemental
-march of the machines
-nevinyrral's disk
-thunderfoot baloth
-sakura-tribe elder
-arcane signet
-chitterspitter
-cultivate
-trostani discordant
-path to exile
-fell the mighty
-commander's sphere
-outpost siege
-artifact mutation
-assemble the legion
-vigor
-naya charm
-gideon, ally of zendikar
-torsten, founder of benalia
-rumour gatherer
-marital coup
-response // resurgence
-champion of lambholt
-boss's chauffeur
-kazuul, tyrant of the cliffs
-boros charm
-grand crescendo
-avenger of zendikar
-xantid swarm
-intangible virtue
-harmonize
-sandwurm convergence
-CAbaretti charm
-fellwar stone
-verdant force
-dragonlair spider
-beastmaster ascension
-camaraderie
-chef's kiss
-finale of glory
-call the coppercoats
-phabine, boss's confidant
-divine visitation
-dire fleet daredevil
-beast within
-seedborn muse
-prosperous partnership
-grand warlord radha
-goblin anarchomancer
-indulge // excess
-duelist's heritage
-CAbaretti confluence
-gahiji, honored one
-entreat the angels
-master of ceremonies
-jetmir, nexus of revels
-deafening clarion
-wood elves
-shamanic revelation
+3 Plains
+3 Mountain
+7 Forest
+1 Cabaretti courtyard
+1 rugged prairie
+1 slayers' stronghold
+1 command tower
+1 temple of triumph
+1 cinder glade
+1 myriad landscape
+1 thriving grove
+1 naya panorama
+1 mossfire valley
+1 exotic orchard
+1 ash barrens
+1 jungle shrine
+1 sungrass prairie
+1 thriving bluff
+1 sheltered thicket
+1 castle embereth
+1 game trail
+1 path of ancestry
+1 raging ravine
+1 windbrisk heights
+1 canopy vista
+1 fortified village
+1 castle ardenvale
+1 thriving heath
+1 intrepid adversary
+1 sylvan anthem
+1 wolfbriar elemental
+1 march of the machines
+1 nevinyrral's disk
+1 thunderfoot baloth
+1 sakura-tribe elder
+1 arcane signet
+1 chitterspitter
+1 cultivate
+1 trostani discordant
+1 path to exile
+1 fell the mighty
+1 commander's sphere
+1 outpost siege
+1 artifact mutation
+1 assemble the legion
+1 vigor
+1 naya charm
+1 gideon, ally of zendikar
+1 torsten, founder of benalia
+1 rumour gatherer
+1 marital coup
+1 response // resurgence
+1 champion of lambholt
+1 boss's chauffeur
+1 kazuul, tyrant of the cliffs
+1 boros charm
+1 grand crescendo
+1 avenger of zendikar
+1 xantid swarm
+1 intangible virtue
+1 harmonize
+1 sandwurm convergence
+1 CAbaretti charm
+1 fellwar stone
+1 verdant force
+1 dragonlair spider
+1 beastmaster ascension
+1 camaraderie
+1 chef's kiss
+1 finale of glory
+1 call the coppercoats
+1 phabine, boss's confidant
+1 divine visitation
+1 dire fleet daredevil
+1 beast within
+1 seedborn muse
+1 prosperous partnership
+1 grand warlord radha
+1 goblin anarchomancer
+1 indulge // excess
+1 duelist's heritage
+1 CAbaretti confluence
+1 gahiji, honored one
+1 entreat the angels
+1 master of ceremonies
+1 jetmir, nexus of revels
+1 deafening clarion
+1 wood elves
+1 shamanic revelation

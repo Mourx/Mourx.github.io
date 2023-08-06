@@ -58,7 +58,6 @@ export function MagicDeckPreviewCard(props: decklistProps) {
             props.functions.setOpenDialog(true);
           }}
         >
-          {" "}
           View Decklist
         </Button>
       </CardContent>

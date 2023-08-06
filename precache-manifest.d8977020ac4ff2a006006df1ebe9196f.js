@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a8103e9c997df9c34a9c",
+    "revision": "2ee527007455494b1514",
     "url": "/mourx/mourx.github.io/static/css/main.4c32aae7.chunk.css"
   },
   {
-    "revision": "a8103e9c997df9c34a9c",
-    "url": "/mourx/mourx.github.io/static/js/main.9527af7b.chunk.js"
+    "revision": "2ee527007455494b1514",
+    "url": "/mourx/mourx.github.io/static/js/main.bb990097.chunk.js"
   },
   {
     "revision": "7d94c43ac1450f2ab8f8",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/mourx/mourx.github.io/static/js/3.21881ff4.chunk.js"
   },
   {
-    "revision": "292f5b4bbdbd0df665ad61b0e1fef0bd",
+    "revision": "db702d8445edf222a26319ec69bc2bfc",
     "url": "/mourx/mourx.github.io/index.html"
   }
 ];

@@ -43,7 +43,7 @@ export function MagicDeckPreviewCard(props: decklistProps) {
   http.send();
 
   return (
-    <Card>
+    <Card sx={{ backgroundColor: "#cdcdcd", padding: "8" }} elevation={2}>
       <CardContent>
         <Typography variant="h6" color="text.secondary" gutterBottom>
           {props.deckname}

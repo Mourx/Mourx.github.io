@@ -9,7 +9,7 @@ interface ModernDecksProps {
 
 export function ModernDecks(props: ModernDecksProps) {
   return (
-    <Grid container sx={{ overflow: "scroll" }}>
+    <Grid container>
       <Grid
         item
         xs={12}

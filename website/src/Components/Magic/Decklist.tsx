@@ -79,7 +79,7 @@ export function Decklist(props: decklistProps) {
   }
 
   return (
-    <Box>
+    <Box sx={{ padding: "8" }}>
       <Grid
         container
         display="grid"
@@ -88,6 +88,7 @@ export function Decklist(props: decklistProps) {
           justifyContent: "center",
           alignItems: "center",
           gridTemplateColumns: { md: "1fr 1fr" },
+          backgroundColor: "#cdcdcd",
         }}
       >
         <Grid

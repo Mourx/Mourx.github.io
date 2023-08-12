@@ -18,9 +18,15 @@ export function ModernDecklistsPage() {
           setOpenDialog={setDialogOpen}
         ></ModernDecks>
       </Grid>
-      <Dialog open={dialogOpen} fullWidth maxWidth="lg">
+      <Dialog
+        sx={{ backgroundColor: "#cdcdcd" }}
+        open={dialogOpen}
+        fullWidth
+        maxWidth="lg"
+      >
         <Decklist decklist={decklist}></Decklist>
         <Button
+          sx={{ backgroundColor: "#dddddd" }}
           onClick={() => {
             setDialogOpen(false);
           }}

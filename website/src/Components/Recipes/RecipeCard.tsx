@@ -22,7 +22,7 @@ interface recipeProps {
 
 export function RecipeCard(props: recipeProps) {
   return (
-    <Card>
+    <Card sx={{ backgroundColor: "#cdcdcd", padding: "8" }} elevation={2}>
       <CardContent>
         <Typography variant="h6" color="text.secondary" gutterBottom>
           {props.recipeName}

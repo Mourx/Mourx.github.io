@@ -9,7 +9,7 @@ interface CommanderDecksProps {
 
 export function CommanderDecks(props: CommanderDecksProps) {
   return (
-    <Grid container sx={{ overflow: "scroll" }}>
+    <Grid container>
       <Grid
         item
         xs={12}

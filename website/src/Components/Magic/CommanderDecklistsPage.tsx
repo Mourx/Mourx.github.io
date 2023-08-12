@@ -18,9 +18,15 @@ export function CommanderDecklistsPage() {
           setOpenDialog={setDialogOpen}
         ></CommanderDecks>
       </Grid>
-      <Dialog open={dialogOpen} fullWidth maxWidth="lg">
+      <Dialog
+        sx={{ backgroundColor: "#cdcdcd" }}
+        open={dialogOpen}
+        fullWidth
+        maxWidth="lg"
+      >
         <Decklist decklist={decklist}></Decklist>
         <Button
+          sx={{ backgroundColor: "#dddddd" }}
           onClick={() => {
             setDialogOpen(false);
           }}

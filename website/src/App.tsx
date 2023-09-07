@@ -143,16 +143,16 @@ function App() {
                 </ListItemButton>
                 <Collapse in={openGames}>
                   <List>
-                    {["Forty Frogs", "Shapez"].map((text, index) => (
-                      <ListItem key={text} disablePadding>
-                        <ListItemButton>
-                          <ListItemIcon></ListItemIcon>
-                          <ListItemText>
-                            <Typography>{text}</Typography>
-                          </ListItemText>
-                        </ListItemButton>
-                      </ListItem>
-                    ))}
+                    <ListItem>
+                      <ListItemButton href="https://mourx.itch.io/forty-frogs">
+                        <Typography>Forty Frogs </Typography>
+                      </ListItemButton>
+                    </ListItem>
+                    <ListItem>
+                      <ListItemButton href="https://mourx.itch.io/shpz">
+                        <Typography>Shpz </Typography>
+                      </ListItemButton>
+                    </ListItem>
                   </List>
                 </Collapse>
 
@@ -163,11 +163,14 @@ function App() {
                 </ListItemButton>
                 <Collapse in={openTTRPG}>
                   <List>
-                    <ListItem sx={{ paddingLeft: "1vw" }}>
-                      <ListItemButton onClick={changeSantryl}>
+                    {/* <ListItem
+                      sx={{ paddingLeft: "1vw" }}
+                      onClick={changeSantryl}
+                    >
+                      <ListItemButton>
                         <Typography>Santryl</Typography>
-                        {openSantryl ? <ExpandLess /> : <ExpandMore />}
-                      </ListItemButton>
+                        {/* {openSantryl ? <ExpandLess /> : <ExpandMore />} */}
+                    {/* </ListItemButton>
                     </ListItem>
                     <Collapse in={openSantryl}>
                       <List>
@@ -228,15 +231,15 @@ function App() {
                           </ListItemButton>
                         </ListItem>
                       </List>
-                    </Collapse>
+                    </Collapse> } */}
 
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeDnd}>
-                      <ListItemButton>
+                      <ListItemButton to={"/Dnd/DndRules"} component={Link}>
                         <Typography>D&D 5e Homebrew</Typography>
-                        {openDnd ? <ExpandLess /> : <ExpandMore />}
+                        {/* {openDnd ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>
-                    <Collapse in={openDnd}>
+                    {/* <Collapse in={openDnd}>
                       <List>
                         <ListItem sx={{ paddingLeft: "2vw" }}>
                           <ListItemButton to={"/Dnd/Rules"} component={Link}>
@@ -287,15 +290,15 @@ function App() {
                           </ListItemButton>
                         </ListItem>
                       </List>
-                    </Collapse>
+                    </Collapse> */}
 
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
-                      <ListItemButton>
+                      <ListItemButton to={"/Btv/Rules"} component={Link}>
                         <Typography>Beyond The Veil</Typography>
-                        {openBtv ? <ExpandLess /> : <ExpandMore />}
+                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>
-                    <Collapse in={openBtv}>
+                    {/* <Collapse in={openBtv}>
                       <List>
                         <ListItem sx={{ paddingLeft: "2vw" }}>
                           <ListItemButton to={"/Btv/Rules"} component={Link}>
@@ -303,7 +306,7 @@ function App() {
                           </ListItemButton>
                         </ListItem>
                       </List>
-                    </Collapse>
+                    </Collapse> */}
                   </List>
                 </Collapse>
 
@@ -343,7 +346,7 @@ function App() {
                 <Route path="/Santryl/History" element={<HistoryPage />} />
                 <Route path="/Santryl/Faith" element={<FaithPage />} />
 
-                <Route path="/Dnd/Rules" element={<DndRulesPage />} />
+                <Route path="/Dnd/DndRules" element={<DndRulesPage />} />
 
                 <Route path="/Btv/Rules" element={<BtvRulesPage />} />
 

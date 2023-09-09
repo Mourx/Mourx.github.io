@@ -41,8 +41,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Green Stompy"}
-          previewCard="Selvala, heart of the wilds"
+          deckname={"Green Oozey"}
+          previewCard="Aeve, progenitor ooze"
           file="Green"
           functions={props}
         ></MagicDeckPreviewCard>

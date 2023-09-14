@@ -1,65 +1,65 @@
 33 Forest
 1 Desert Of the Indomitable
 1 Temple of the False God
-1 Oviya Pashiri, Sage Lifecrafter
+1 garruk's uprising
 1 Forgotten Ancient
-1 Territorial Allosaurus
-1 Snake Umbra
-1 Snapping Sailback
+1 bramble familiar
+1 utopia sprawl
+1 echoing courage
 1 Search for Tomorrow
-1 Scaled Behemoth
-1 Walker of the grove
+1 miming slime
+1 hardened scales
 1 prowling serpopard
-1 breaker of Armies
+1 irresistable prey
 1 slice in twain
 1 elvish mystic
 1 veteran explorer
-1 grunn, the lonely king
-1 colossification
-1 humble naturalist
+1 leyline of abundance
+1 nature's will
+1 return from the wilds
 1 Silvos, rogue elemental
 1 thwart the enemy
 1 regal Behemoth
 1 lead the stampede
 1 nissa's pilgrimage
 1 hedron Archive
-1 keeper of fables
+1 inexorable blob
 1 explore
 1 emerald dragon
 1 verdant force
 1 beast within
 1 avoid fate
-1 boar Umbra
+1 mutagenic growth
 1 vigor
 1 selvala's stampede
 1 grow from the ashes
 1 bane of bala Ged
 1 llanowar elves
-1 sixth sense
+1 brawn
 1 renata, called to the hunt
-1 titanoth rex
+1 inspiring call
 1 explosive vegetation
 1 titania's command
 1 bramble sovereign
 1 defiler of vigor
-1 nature's way
+1 seed of hope
 1 yedora, grave gardener
 1 bind
 1 burnished hart
 1 scavenging ooze
-1 ranging raptors
+1 jiang yanggu, wildcrafter
 1 lifeforce
 1 sylvan anthem
-1 sifter wurm
+1 invigorate
 1 overrun
 1 bramblecrush
-1 shefnet monitor
+1 selvala, heart of the wilds
 1 yorvo, lord of garenbrig
 1 arasta of the endless web
 1 verdant command
 1 manglehorn
 1 plated Crusher
-1 eldritch evolution
+1 manaplasm
 1 caged sun
 1 rampant growth
 1 wayward swordtooth

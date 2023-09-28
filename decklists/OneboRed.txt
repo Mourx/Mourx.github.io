@@ -54,7 +54,7 @@
 1 Ghitu Encampment
 1 Sandstone Needle
 1 Smoldering Spires
-1 Spark of Creativity
+1 outmaneuver
 1 Fireball
 1 Renegade Tactics
 1 Reckless Charge
@@ -65,7 +65,7 @@
 1 Flame Slash
 1 Ground Rift
 1 Infernal Plunge
-1 Landslide
+1 dragon mantle
 1 Mishra's Command
 1 Mugging
 1 Seething Anger
@@ -73,4 +73,4 @@
 1 Thud
 1 Warlord's Fury
 1 Wave of Indifference
-1 Scorched Earth
+1 goblin guide

@@ -234,8 +234,12 @@ function App() {
                     </Collapse> } */}
 
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeDnd}>
-                      <ListItemButton to={"/Dnd/DndRules"} component={Link}>
-                        <Typography>D&D 5e Homebrew</Typography>
+                      <ListItemButton>
+                        <Typography>
+                          <a href="/Santryl.pdf" target="_blank">
+                            DnD 5e Homebrew - Santryl
+                          </a>
+                        </Typography>
                         {/* {openDnd ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>
@@ -293,8 +297,13 @@ function App() {
                     </Collapse> */}
 
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
-                      <ListItemButton to={"/Btv/Rules"} component={Link}>
-                        <Typography>Beyond The Veil</Typography>
+                      <ListItemButton>
+                        <Typography>
+                          <a href="/Beyond The Veil.pdf" target="_blank">
+                            Beyond The Veil
+                          </a>
+                        </Typography>
+
                         {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>

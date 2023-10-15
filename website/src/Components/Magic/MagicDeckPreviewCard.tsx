@@ -52,14 +52,14 @@ export function MagicDeckPreviewCard(props: decklistProps) {
         <Typography sx={{ textAlign: "center", fontSize: 18 }} component="div">
           {props.description}
         </Typography>
-        <Button
+        {/* <Button
           onClick={() => {
             props.functions.setDecklist(props.file);
             props.functions.setOpenDialog(true);
           }}
         >
           View Decklist
-        </Button>
+        </Button> */}
       </CardContent>
     </Card>
   );

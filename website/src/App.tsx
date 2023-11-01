@@ -307,6 +307,17 @@ function App() {
                         {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>
+                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
+                      <ListItemButton>
+                        <Typography>
+                          <a href="/SantrylComplete.png" target="_blank">
+                            Santryl Map
+                          </a>
+                        </Typography>
+
+                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
+                      </ListItemButton>
+                    </ListItem>
                     {/* <Collapse in={openBtv}>
                       <List>
                         <ListItem sx={{ paddingLeft: "2vw" }}>

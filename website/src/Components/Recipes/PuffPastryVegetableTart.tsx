@@ -57,12 +57,12 @@ export function PuffPastryVegetableTart() {
         </br>
         Mix the vegetables together in the bowl, adding a splash of oil. Pile a
         little of the mixture on each pesto-smeared tart and top with two olives
-        (if using).
+        .
         <br>
           <br></br>
         </br>
         Break up the mozzarella and place little bits on top of each tart - this
-        will make it gooey like a pizza. Grate over some Parmesan (if using).
+        will make it gooey like a pizza. Grate over some Parmesan .
         <br>
           <br></br>
         </br>

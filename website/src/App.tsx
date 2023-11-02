@@ -310,6 +310,17 @@ function App() {
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
                       <ListItemButton>
                         <Typography>
+                          <a href="/BtvCharacterSheet.pdf" target="_blank">
+                            Beyond The Veil Character Sheet
+                          </a>
+                        </Typography>
+
+                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
+                      </ListItemButton>
+                    </ListItem>
+                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
+                      <ListItemButton>
+                        <Typography>
                           <a href="/SantrylComplete.png" target="_blank">
                             Santryl Map
                           </a>

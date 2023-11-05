@@ -17,15 +17,15 @@ export function CommanderDecks(props: CommanderDecksProps) {
         sx={{ gridTemplateColumns: { md: "1fr 1fr 1fr 1fr 1fr" } }}
       >
         <MagicDeckPreviewCard
-          deckname={"Squid Game"}
-          previewCard="Aboshan, Cephalid Emperor"
-          file="Blue"
+          deckname={"Aetherflux Good Card"}
+          previewCard="Breya, etherium shaper"
+          file="Breya"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Oozoo"}
-          previewCard="Aeve, progenitor ooze"
-          file="Green"
+          deckname={"The Classic"}
+          previewCard="Drana, Kalastria Bloodchief"
+          file="Junji"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
@@ -35,22 +35,28 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Zacamalimity"}
-          previewCard="Zacama Primal Calamity"
-          file="Naya"
+          deckname={"WIP: Narset"}
+          previewCard="Narset, Enlightened Master"
+          file="Abbaddon"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Compost"}
-          previewCard="Muldrotha the gravetide"
-          file="Sultai"
+          deckname={"WIP: Sen Triplets"}
+          previewCard="Sen Triples"
+          file="Abbaddon"
           functions={props}
         ></MagicDeckPreviewCard>
 
         <MagicDeckPreviewCard
-          deckname={"The Classic"}
-          previewCard="Drana, Kalastria Bloodchief"
-          file="Junji"
+          deckname={"Squid Game"}
+          previewCard="Aboshan, Cephalid Emperor"
+          file="Blue"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"WIP: Oozoo"}
+          previewCard="Aeve, progenitor ooze"
+          file="Green"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
@@ -60,11 +66,18 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Aetherflux Good Card"}
-          previewCard="Breya, etherium shaper"
-          file="Breya"
+          deckname={"Compost"}
+          previewCard="Muldrotha the gravetide"
+          file="Sultai"
           functions={props}
         ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Zacamalimity"}
+          previewCard="Zacama Primal Calamity"
+          file="Naya"
+          functions={props}
+        ></MagicDeckPreviewCard>
+
         <MagicDeckPreviewCard
           deckname={"Just Wait 'til I get 10 Mana"}
           previewCard="Kozilek the great distortion"

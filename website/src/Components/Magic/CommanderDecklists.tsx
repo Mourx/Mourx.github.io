@@ -35,13 +35,13 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"WIP: Narset"}
+          deckname={"CLEARANCE SALE 100% OFF"}
           previewCard="Narset, Enlightened Master"
           file="Abbaddon"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"WIP: Sen Triplets"}
+          deckname={"Yoinkers"}
           previewCard="Sen Triples"
           file="Abbaddon"
           functions={props}
@@ -54,8 +54,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"WIP: Oozoo"}
-          previewCard="Aeve, progenitor ooze"
+          deckname={"Demons!!"}
+          previewCard="Belakor, the dark master"
           file="Green"
           functions={props}
         ></MagicDeckPreviewCard>
@@ -66,8 +66,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Compost"}
-          previewCard="Muldrotha the gravetide"
+          deckname={"Big Frogie"}
+          previewCard="Grolnok, the Omnivore"
           file="Sultai"
           functions={props}
         ></MagicDeckPreviewCard>

@@ -17,42 +17,36 @@ export function CommanderDecks(props: CommanderDecksProps) {
         sx={{ gridTemplateColumns: { md: "1fr 1fr 1fr 1fr 1fr" } }}
       >
         <MagicDeckPreviewCard
-          deckname={"Aetherflux Good Card"}
-          previewCard="Breya, etherium shaper"
-          file="Breya"
+          deckname={"Thalia <3"}
+          previewCard="Thalia, Guardian of Thraben"
+          file="White"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"The Classic"}
-          previewCard="Drana, Kalastria Bloodchief"
+          deckname={"Squid Game"}
+          previewCard="Llawen, Cephalid Empress"
+          file="Blue"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Reanimator"}
+          previewCard="Braids, Arisen Nightmare"
           file="Junji"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Marcheasy"}
-          previewCard="Marchesa the Black Rose"
-          file="Abbaddon"
+          deckname={"1 Mana Tribal"}
+          previewCard="Rosnakht, Heir of Rohgahh"
+          file="Hazezon"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"CLEARANCE SALE 100% OFF"}
-          previewCard="Narset, Enlightened Master"
-          file="Abbaddon"
-          functions={props}
-        ></MagicDeckPreviewCard>
-        <MagicDeckPreviewCard
-          deckname={"Yoinkers"}
-          previewCard="Sen Triples"
-          file="Abbaddon"
+          deckname={"Just some green stuff"}
+          previewCard="Oviya Pashiri"
+          file="Hazezon"
           functions={props}
         ></MagicDeckPreviewCard>
 
-        <MagicDeckPreviewCard
-          deckname={"Squid Game"}
-          previewCard="Aboshan, Cephalid Emperor"
-          file="Blue"
-          functions={props}
-        ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
           deckname={"Demons!!"}
           previewCard="Belakor, the dark master"
@@ -60,9 +54,40 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Best Boy Tribal"}
-          previewCard="Cromat"
-          file="Sisay"
+          deckname={"Zombinis"}
+          previewCard="Varina Lich Queen"
+          file="Green"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Zacamalimity"}
+          previewCard="Zacama Primal Calamity"
+          file="Naya"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Thalia <3 Frogie"}
+          previewCard="Thalia and the Gitrog Monster"
+          file="Naya"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Long May She Reign"}
+          previewCard="Queen Marchesa"
+          file="Naya"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Combo"}
+          previewCard="Slimefoot and Squee"
+          file="Naya"
+          functions={props}
+        ></MagicDeckPreviewCard>
+
+        <MagicDeckPreviewCard
+          deckname={"Enchantments"}
+          previewCard="Daxos the Returned"
+          file="Naya"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
@@ -72,22 +97,28 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Zacamalimity"}
-          previewCard="Zacama Primal Calamity"
-          file="Naya"
+          deckname={"Faeries"}
+          previewCard="Talion, Kindly Lord"
+          file="Sultai"
           functions={props}
         ></MagicDeckPreviewCard>
 
         <MagicDeckPreviewCard
-          deckname={"Just Wait 'til I get 10 Mana"}
-          previewCard="Kozilek the great distortion"
-          file="Nono"
+          deckname={"Aetherflux Good Card"}
+          previewCard="Breya, Etherium shaper"
+          file="Breya"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"1 Mana Tribal"}
-          previewCard="Rosnakht, Heir of Rohgahh"
-          file="Hazezon"
+          deckname={"Best Boy Tribal"}
+          previewCard="Cromat"
+          file="Sisay"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Just Wait 'til I get 10 Mana"}
+          previewCard="Kozilek the great distortion"
+          file="Nono"
           functions={props}
         ></MagicDeckPreviewCard>
       </Grid>

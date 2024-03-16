@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function NamKhao() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Nam Khao</Typography>
 
       <Typography>
@@ -30,6 +30,6 @@ export function NamKhao() {
         <br></br>
         Serve in lettuce wraps.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

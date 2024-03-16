@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function VegetableJambalaya() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Vegetable Jambalaya</Typography>
 
       <Typography>
@@ -36,6 +36,6 @@ export function VegetableJambalaya() {
         heat. Leave to stand for 5 minutes or until the vegetables are warmed
         through.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

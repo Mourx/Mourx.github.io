@@ -41,8 +41,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Just some green stuff"}
-          previewCard="Oviya Pashiri"
+          deckname={"Lotta Lands"}
+          previewCard="Jolrael, Empress of Beasts"
           file="Hazezon"
           functions={props}
         ></MagicDeckPreviewCard>
@@ -72,14 +72,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Long May She Reign"}
-          previewCard="Queen Marchesa"
-          file="Naya"
-          functions={props}
-        ></MagicDeckPreviewCard>
-        <MagicDeckPreviewCard
-          deckname={"Combo"}
-          previewCard="Slimefoot and Squee"
+          deckname={"Artifact Swarm"}
+          previewCard="Meria, Scholar of Antiquity"
           file="Naya"
           functions={props}
         ></MagicDeckPreviewCard>
@@ -110,7 +104,7 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Best Boy Tribal"}
+          deckname={"I love Cromat I have like 5"}
           previewCard="Cromat"
           file="Sisay"
           functions={props}

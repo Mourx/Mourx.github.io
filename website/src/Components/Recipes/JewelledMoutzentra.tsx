@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function JewelledMoutzentra() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Jewelled Moutzentra</Typography>
 
       <Typography>
@@ -43,6 +43,6 @@ export function JewelledMoutzentra() {
         seasoning, and plate up. <br></br>
         Garnish with the dressed fruits and nuts and serve.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

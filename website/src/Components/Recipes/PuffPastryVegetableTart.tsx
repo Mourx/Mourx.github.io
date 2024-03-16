@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function PuffPastryVegetableTart() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Puff Pastry Vegetable Tart</Typography>
 
       <Typography>
@@ -53,6 +53,6 @@ export function PuffPastryVegetableTart() {
         reserved basil leaves and serve with a nice salad for lunch.
         <br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

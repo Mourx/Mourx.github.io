@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function SweetTofu() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Sweet Tofu</Typography>
 
       <Typography>
@@ -69,6 +69,6 @@ export function SweetTofu() {
         Transfer to a plate and sprinkle the pumpkin seeds over top. Serve as a
         side dish for rice.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

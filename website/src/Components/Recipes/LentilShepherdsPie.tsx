@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function LentilShepherdsPie() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Lentil Shepherds Pie</Typography>
 
       <Typography>
@@ -129,6 +129,6 @@ export function LentilShepherdsPie() {
         Store any leftovers in an airtight container in the fridge for up to 4
         days.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

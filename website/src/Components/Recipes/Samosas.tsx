@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function Samosas() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Samosas</Typography>
 
       <Typography>
@@ -95,6 +95,6 @@ export function Samosas() {
         Finally, sprinkle the samosa with sesame seeds and serve with vegan
         raita, guacamole, or any dip of your choice. Enjoy!<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

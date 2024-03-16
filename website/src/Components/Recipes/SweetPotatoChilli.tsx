@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function SweetPotatoChilli() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Sweet Potato Chilli</Typography>
 
       <Typography>
@@ -33,6 +33,6 @@ export function SweetPotatoChilli() {
         tender.<br></br>
         Season to perfection, then crumble over the feta to serve.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function KungPaoCauliflower() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Kung Pao Cauliflower</Typography>
 
       <Typography>
@@ -76,6 +76,6 @@ export function KungPaoCauliflower() {
         the sauce mix and bring to a boil to thicken, toss in the cauliflower
         and serve immediately over rice.
       </Typography>
-    </Box>
+    </Card>
   );
 }

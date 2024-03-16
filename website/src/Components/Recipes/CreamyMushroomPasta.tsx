@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function CreamyMushroomPasta() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Creamy Mushroom Pasta</Typography>
 
       <Typography>
@@ -34,6 +34,6 @@ export function CreamyMushroomPasta() {
         enough of the reserved water to loosen. Stir through the parsley, divide
         into bowls and top with extra cheese, if you like.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

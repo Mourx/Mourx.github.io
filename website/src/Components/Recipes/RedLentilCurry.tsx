@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function RedLentilCurry() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Red Lentil Curry</Typography>
 
       <Typography>
@@ -67,6 +67,6 @@ export function RedLentilCurry() {
           <br></br>
         </br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

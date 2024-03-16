@@ -163,181 +163,53 @@ function App() {
                 </ListItemButton>
                 <Collapse in={openTTRPG}>
                   <List>
-                    {/* <ListItem
-                      sx={{ paddingLeft: "1vw" }}
-                      onClick={changeSantryl}
-                    >
-                      <ListItemButton>
-                        <Typography>Santryl</Typography>
-                        {/* {openSantryl ? <ExpandLess /> : <ExpandMore />} */}
-                    {/* </ListItemButton>
-                    </ListItem>
-                    <Collapse in={openSantryl}>
-                      <List>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/History"}
-                            component={Link}
-                          >
-                            <Typography>History</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/Faith"}
-                            component={Link}
-                          >
-                            <Typography> Faith and Religion</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/Gallia"}
-                            component={Link}
-                          >
-                            <Typography>Gallia</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/UnvariantEmpire"}
-                            component={Link}
-                          >
-                            <Typography>Unvariant Empire</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/CroakingConclave"}
-                            component={Link}
-                          >
-                            <Typography>Croaking Conclave</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/HighMount"}
-                            component={Link}
-                          >
-                            <Typography>High Mount</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton
-                            to={"/Santryl/TheGoblins"}
-                            component={Link}
-                          >
-                            <Typography>The Goblins</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                      </List>
-                    </Collapse> } */}
-
                     <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeDnd}>
                       <ListItemButton>
                         <Typography>
-                          <a href="/Santryl.pdf" target="_blank">
+                          <ListItemButton href="/Santryl.pdf" target="_blank">
                             DnD 5e Homebrew - Santryl
-                          </a>
+                          </ListItemButton>
                         </Typography>
                         {/* {openDnd ? <ExpandLess /> : <ExpandMore />} */}
                       </ListItemButton>
                     </ListItem>
-                    {/* <Collapse in={openDnd}>
-                      <List>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Rules"} component={Link}>
-                            <Typography>Rule Differences</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
+
+                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
+                      <ListItemButton>
+                        <Typography>
                           <ListItemButton
-                            to={"/Dnd/Backgrounds"}
-                            component={Link}
+                            href="/Beyond The Veil.pdf"
+                            target="_blank"
                           >
-                            <Typography>Backgrounds</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Race"} component={Link}>
-                            <Typography>Race</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Feats"} component={Link}>
-                            <Typography>Feats</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Classes"} component={Link}>
-                            <Typography>Classes</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Spells"} component={Link}>
-                            <Typography>Spells</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Factions"} component={Link}>
-                            <Typography>Factions</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Treasure"} component={Link}>
-                            <Typography>Treasure</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Dnd/Bestiary"} component={Link}>
-                            <Typography>Bestiary</Typography>
-                          </ListItemButton>
-                        </ListItem>
-                      </List>
-                    </Collapse> */}
-
-                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
-                      <ListItemButton>
-                        <Typography>
-                          <a href="/Beyond The Veil.pdf" target="_blank">
                             Beyond The Veil
-                          </a>
-                        </Typography>
-
-                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
-                      </ListItemButton>
-                    </ListItem>
-                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
-                      <ListItemButton>
-                        <Typography>
-                          <a href="/BtvCharacterSheet.pdf" target="_blank">
-                            Beyond The Veil Character Sheet
-                          </a>
-                        </Typography>
-
-                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
-                      </ListItemButton>
-                    </ListItem>
-                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
-                      <ListItemButton>
-                        <Typography>
-                          <a href="/SantrylComplete.png" target="_blank">
-                            Santryl Map
-                          </a>
-                        </Typography>
-
-                        {/* {openBtv ? <ExpandLess /> : <ExpandMore />} */}
-                      </ListItemButton>
-                    </ListItem>
-                    {/* <Collapse in={openBtv}>
-                      <List>
-                        <ListItem sx={{ paddingLeft: "2vw" }}>
-                          <ListItemButton to={"/Btv/Rules"} component={Link}>
-                            <Typography>Basic Rules</Typography>
                           </ListItemButton>
-                        </ListItem>
-                      </List>
-                    </Collapse> */}
+                        </Typography>
+                      </ListItemButton>
+                    </ListItem>
+                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
+                      <ListItemButton>
+                        <Typography>
+                          <ListItemButton
+                            href="/BtvCharacterSheet.pdf"
+                            target="_blank"
+                          >
+                            Beyond The Veil Character Sheet
+                          </ListItemButton>
+                        </Typography>
+                      </ListItemButton>
+                    </ListItem>
+                    <ListItem sx={{ paddingLeft: "1vw" }} onClick={changeBtv}>
+                      <ListItemButton>
+                        <Typography>
+                          <ListItemButton
+                            href="/SantrylComplete.png"
+                            target="_blank"
+                          >
+                            Santryl Map
+                          </ListItemButton>
+                        </Typography>
+                      </ListItemButton>
+                    </ListItem>
                   </List>
                 </Collapse>
 

@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function HarissaPasta() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Harissa Pasta</Typography>
 
       <Typography>
@@ -29,6 +29,6 @@ export function HarissaPasta() {
         Drain the pasta and mix with the rest of the ingredients.<br></br>
         Top with parsley and serve.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

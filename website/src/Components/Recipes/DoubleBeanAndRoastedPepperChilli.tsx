@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function DoubleBeanAndRoastedPepperChilli() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">
         Double Bean And Roasted Pepper Chilli
       </Typography>
@@ -38,6 +38,6 @@ export function DoubleBeanAndRoastedPepperChilli() {
         two pans when you add the beans and peppers.) Once bubbling and the
         beans are hot, season to taste and serve.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

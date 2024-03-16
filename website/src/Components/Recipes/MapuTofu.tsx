@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function MapuTofu() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Mapu Tofu</Typography>
 
       <Typography>
@@ -45,6 +45,6 @@ export function MapuTofu() {
         Transfer to a low bowl or platter.<br></br>
         Sprinkle with scallions.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

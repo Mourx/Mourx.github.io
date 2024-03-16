@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function SpringPilau() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Spring Pilau</Typography>
 
       <Typography>
@@ -48,6 +48,6 @@ export function SpringPilau() {
         your hands - then transfer to a serving dish and serve with wedges of
         lemon on the side.
       </Typography>
-    </Box>
+    </Card>
   );
 }

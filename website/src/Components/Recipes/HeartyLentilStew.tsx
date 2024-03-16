@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function HeartyLentilStew() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Hearty Lentil Stew</Typography>
 
       <Typography>
@@ -34,6 +34,6 @@ export function HeartyLentilStew() {
         keep in the fridge for two to three days. Reheat in a pan until hot.
         <br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

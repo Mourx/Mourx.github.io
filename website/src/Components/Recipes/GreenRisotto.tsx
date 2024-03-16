@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function GreenRisotto() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Green Risotto</Typography>
 
       <Typography>
@@ -52,6 +52,6 @@ export function GreenRisotto() {
         Serve sprinkled with pine nuts and the remaining 1/4 cup cheese.
         <br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

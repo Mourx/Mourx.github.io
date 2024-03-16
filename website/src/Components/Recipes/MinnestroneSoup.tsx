@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function MinnestroneSoup() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Minnestrone Soup</Typography>
 
       <Typography>
@@ -29,6 +29,6 @@ export function MinnestroneSoup() {
         cabbage for the final 2 mins. Season to taste and serve with crusty
         bread.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

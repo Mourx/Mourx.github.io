@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function VeganKofta() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Vegan Kofta</Typography>
 
       <Typography>
@@ -62,6 +62,6 @@ export function VeganKofta() {
         Serve immediately with the tzatziki sauce, flatbread and veggies if
         desired.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

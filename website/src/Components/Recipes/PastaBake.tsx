@@ -1,8 +1,8 @@
-import { Box, Typography } from "@mui/material";
+import { Box, Card, Typography } from "@mui/material";
 import React from "react";
 export function PastaBake() {
   return (
-    <Box>
+    <Card sx={{ backgroundColor: "#bbbbbb" }}>
       <Typography variant="h1">Pasta Bake</Typography>
 
       <Typography>
@@ -42,6 +42,6 @@ export function PastaBake() {
         Stir through the mozzarella and pesto, top with Parmesan and return to
         the oven for another 10 minutes, until the cheese has melted.<br></br>
       </Typography>
-    </Box>
+    </Card>
   );
 }

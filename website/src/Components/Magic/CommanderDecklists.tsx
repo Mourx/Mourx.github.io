@@ -29,8 +29,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Reanimator"}
-          previewCard="Braids, Arisen Nightmare"
+          deckname={"Drana"}
+          previewCard="Drana, Kalastria Bloodchief"
           file="Junji"
           functions={props}
         ></MagicDeckPreviewCard>
@@ -48,33 +48,27 @@ export function CommanderDecks(props: CommanderDecksProps) {
         ></MagicDeckPreviewCard>
 
         <MagicDeckPreviewCard
-          deckname={"Demons!!"}
-          previewCard="Belakor, the dark master"
-          file="Green"
-          functions={props}
-        ></MagicDeckPreviewCard>
-        <MagicDeckPreviewCard
-          deckname={"Zombinis"}
+          deckname={"Zombinis (No Shuffling)"}
           previewCard="Varina Lich Queen"
           file="Green"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Zacamalimity"}
+          deckname={"Zacamalimity (No Shuffling)"}
           previewCard="Zacama Primal Calamity"
           file="Naya"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Thalia <3 Frogie"}
-          previewCard="Thalia and the Gitrog Monster"
+          deckname={"Artifact Swarm (No Shuffling)"}
+          previewCard="Meria, Scholar of Antiquity"
           file="Naya"
           functions={props}
         ></MagicDeckPreviewCard>
         <MagicDeckPreviewCard
-          deckname={"Artifact Swarm"}
-          previewCard="Meria, Scholar of Antiquity"
-          file="Naya"
+          deckname={"Faeries (No Shuffling)"}
+          previewCard="Talion, Kindly Lord"
+          file="Sultai"
           functions={props}
         ></MagicDeckPreviewCard>
 
@@ -84,19 +78,13 @@ export function CommanderDecks(props: CommanderDecksProps) {
           file="Naya"
           functions={props}
         ></MagicDeckPreviewCard>
+
         <MagicDeckPreviewCard
           deckname={"Big Frogie"}
           previewCard="Grolnok, the Omnivore"
           file="Sultai"
           functions={props}
         ></MagicDeckPreviewCard>
-        <MagicDeckPreviewCard
-          deckname={"Faeries"}
-          previewCard="Talion, Kindly Lord"
-          file="Sultai"
-          functions={props}
-        ></MagicDeckPreviewCard>
-
         <MagicDeckPreviewCard
           deckname={"Aetherflux Good Card"}
           previewCard="Breya, Etherium shaper"
@@ -106,6 +94,12 @@ export function CommanderDecks(props: CommanderDecksProps) {
         <MagicDeckPreviewCard
           deckname={"I love Cromat I have like 5"}
           previewCard="Cromat"
+          file="Sisay"
+          functions={props}
+        ></MagicDeckPreviewCard>
+        <MagicDeckPreviewCard
+          deckname={"Legendary Deck"}
+          previewCard="Sisay, Weatherlight Captain"
           file="Sisay"
           functions={props}
         ></MagicDeckPreviewCard>

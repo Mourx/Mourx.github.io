@@ -1,84 +1,80 @@
-7 Plains
-7 Island
-4 Swamp
-1 meandering river
-1 scoured barrens
-1 forsaken sanctuary
-1 mutavault
-1 barren moor
-1 tranquil cove
-1 new benalia
-1 azorious Guildgate
-1 arcane sanctum
-1 orzhov basilica
-1 sejiri refuge
-1 evolving wilds
-1 memorial to glory
-1 azorious chancery
-1 concealed courtyard
-1 command Tower
-1 dimir Guildgate
-1 desert of the mindful
-1 dismal backwater
-1 drowned catacomb
-1 death baron
-1 shambling goblin
-1 behind the scenes
-1 by invitation only
-1 mortify
-1 kalitas, traitor of ghet
-1 wayward servant
-1 trial // error
-1 corpse augur
-1 accursed horde
-1 never // return
-1 drunau corpse trawler
-1 bladestitched skaab
-1 victim of night
-1 binding mummy
-1 murderous cut
-1 esper charm
-1 hero's downfall
-1 anguished unmaking
-1 gnawing zombie
-1 graf harvest
-1 ratadrabik or urborg
-1 cut down
-1 elas il-kor, sadistic pilgrim
-1 liliana, untouched by death
-1 organ hoarder
-1 fleshbag marauder
-1 phyrexian vivisector
-1 peace talks
-1 gravedigger
-1 infernal grasp
-1 morkrut behemoth
-1 vedalken ghoul
-1 altar's reap
-1 carrion feeder
-1 zealous persecution
-1 unraveling mummy
-1 vanquisher's banner
-1 adorned pouncer
-1 hour of eternity
-1 gravecrawler
-1 ammit eternal
-1 diregraf Colossus
-1 dreamstealer
+1 vengeful dead
+1 undead warchief
+1 shepherd of rot
 1 from under the floorboards
-1 noosegraf mob
+1 malakir rebirth
+1 silent clearing
+1 shambling ghast
 1 god-pharaoh's gift
-1 gisa's bidding
-1 vela the night clad
+1 unburial rites
+1 swords to plowshares
+1 zealous persecution
+1 surge of salvation
+1 tainted isle
+1 fleshbag marauder
 1 grim physician
-1 lotleth giant
+1 binding mummy
+1 deep analysis
 1 fan bearer
-1 falcon abomination
-1 lilian's elite
-1 startle
+1 unbreakable formation
+1 exotic orchard
+1 command tower
+1 urborg tomb of yawgmoth
+1 darkwater catacombs
+1 make a stand
+1 death baron
+1 corpse augur
+1 throne of the god-pharaoh
+1 josu vess lich knight
+1 liliana's elite
+1 fateful absence
+1 trial error
+1 carrion feeder
+1 gisa's favorite shovel
+1 choked estuary
+1 army of the damned
+1 victimize
+1 accursed horde
+1 infernal grasp
+1 vanquisher's banner
+1 port lane
+1 diregraf colossus
+1 go for the throat
+1 arcane sanctum
+1 vedalken ghoul
+1 kindred dominance
+1 necratog
+1 keep watch
+1 custodi lich
+1 alhammarret's archive
+1 ebondeath dracolich
 1 foulmire knight
-1 stitchwing skaab
-1 flip the switch
-1 stir the sands
-1 larder zombie
-1 infectious horror
+1 dimir aqueduct
+1 gray merchant of asphodel
+1 harsh sustenance
+1 graf harvest
+1 bladestitched skaab
+1 dreadmalkin
+1 anguished unmaking
+1 wayward servant
+1 unearth
+1 godless shrine
+1 drunau corpse trawler
+1 vizier of the scorpion
+1 gravecrawler
+1 liliana untouched by death
+1 unraveling mummy
+1 psychosis crawler
+1 gravedigger
+1 wonder
+1 murderous cut
+1 orzhov basilica
+1 drowned catacomb
+1 headless rider
+1 return to dust
+1 dismember
+1 azorius chancery
+1 murderous rider
+7 plains
+7 island
+8 swamp

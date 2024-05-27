@@ -1,86 +1,83 @@
-6 Plains
-5 Swamp
-5 Mountain
-1 temple of silence
-1 mikokoro, center of the sea
-1 temple of triumph
-1 geier reach sanitarium
-1 bojuka bog
-1 boros garrison
-1 evolving wilds
-1 terramorphic expanse
-1 reliquary tower
-1 battlefield forge
-1 rakdos carnarium
-1 temple of malice
-1 caves of koilos
-1 dragonskull summit
-1 mobilizen district
-1 nomad outpost
-1 tyrite sanctum
-1 smoldering marsh
-1 orzhov basilica
-1 command tower
-1 shivan gorge
-1 foreboding ruins
-1 shizo, death's storehouse
-1 kambal, consul of allocation
-1 arvad the cursed
-1 adriana, captain of the guard
-1 gisel, the broken blade
-1 bruna, the fading light
+1 soul's attendant
+1 soul warden
+1 test of endurance
+1 felidar sovereign
 1 ruinous ultimatum
-1 offspring's revenge
-1 teysa, envoy of ghosts
-1 archangel avacyn
-1 urza's ruinous blast
-1 read the bones
-1 teshar, ancestor's apostle
-1 thrill of possibility
-1 commander's sphere
-1 jazal goldmane
-1 zeriam, golden wind
-1 mortify
-1 primevals' glorious rebirth
-1 bell borca, spectral sergeant
-1 josu vess, lich knight
-1 arcane signet
-1 captain lannery storm
-1 neheb, dreadhorde champion
-1 drana and linvala
-1 moira, urborg haunt
-1 kari zev, skyship raider
-1 zetalpa, primal dawn
-1 fellwar stone
-1 bladewing, deathless tyrant
-1 anafenza, kin-tree spirit
-1 hero's blade
-1 hedron archive
-1 bontu's monument
-1 oketra's monument
-1 hazoret's monument
-1 garna, the bloodflame
-1 night's whisper
-1 cadric, soul kindler
-1 odric, lunarch marshal
-1 generous gift
-1 blackblade reforged
-1 alesha, who smiles at death
-1 faithless looting
-1 the circle of loyalty
-1 heroes' podium
-1 shanid, sleepers' scourge
-1 bedevil
-1 the reaver cleaver
-1 gerrard's hourglass pendant
-1 hero's downfall
-1 ambition's cost
-1 kothophed, soul hoarder
-1 the peregrine dynamo
-1 drana, liberator of malakir
-1 traxos, scourge of kroog
-1 etali, primal storm
-1 wear // tear
-1 kaya's wrath
-1 day of destiny
-1 krenko, tin street kingpin
+1 westvale abbey
+1 orzhov basilica
+1 bloodstained mire
+1 marsh flats
+1 terramorphic expanse
+1 evolving wilds
+1 savai triome
+1 blood crypt
+1 godless shrine
+1 sacred peaks
+1 silent clearing
+1 command tower
+1 caves of koilos
+1 concealed courtyard
+1 battlefield forge
+1 nomad outpost
+1 thoughtpicker witch
+1 plaguecrafter
+1 dread wanderer
+1 bloodsoaked champion
+1 carrion feeder
+1 gutterbones
+1 persistent specimen
+1 sarkhan fireblood
+1 molten duplication
+1 hellrider
+1 glorybringer
+1 captivating crew
+1 war cadence
+1 malevolent whispers
+1 furnace reigns
+1 wrenn's resolve
+1 wrangle
+1 trumpet blast
+1 fleshtaker
+1 zulaport cutthroat
+1 grenzo havoc raiser
+1 cult conscript
+1 martial coup
+1 razaketh the foulblooded
+1 bladewing deathless tyrant
+1 regna the redeemer
+1 krav the unredeemed
+1 heartless hidetsugu
+1 rankle and torbran
+1 pitiless plunderer
+1 teysa karlov
+1 rumor gatherer
+1 ashnod's altar
+1 bastion of rememberance
+1 pious envangel
+1 woe strider
+1 liliana heretical healer
+1 fanatical devotion
+1 lingering souls
+1 vito thorn of the dusk rose
+1 raking claws
+1 portent
+1 hijack
+1 act of treason
+1 fling
+1 braids arisen nightmare
+1 kambal profiteering mayor
+1 costly plunder
+1 altar's reap
+1 weatherlight compleated
+1 elas il-kor sadistic pilgrim
+1 benalish sleeper
+1 blood artist
+1 imperious oligarch
+1 recommission
+1 reassembling skeleton
+1 raise the alarm
+1 bitterblossom
+1 lampad of death's vigil
+7 plains
+5 moutain
+7 swamp

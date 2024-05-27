@@ -1,64 +1,67 @@
-36 Island
-1 Consider
-1 circular logic
-1 aetherspouts
-1 ravenform
-1 tempest djinn
-1 kumena's awakening
-1 borrowing 100,000 arrows
-1 engulf the shore
-1 into the roil
-1 cephalid pathmage
-1 negate
-1 fumble
-1 sinister sabotage
-1 inevitable betrayal
-1 blink of an eye
-1 high tide
-1 body double
-1 willbreaker
-1 dispel
-1 invasive surgery
-1 shield broker
-1 archetype of imagination
-1 ponder
-1 llawan, cephalid empress
-1 polymorphist's jest
-1 in bolas's clutches
-1 stolen by the fae
-1 inundate
-1 unsubstantiate
-1 shark typhoon
-1 temporal distortion
-1 stifle
-1 mana vapors
-1 opportunity
-1 theft of dreams
-1 disdainful stroke
-1 floodgate
-1 cephalid looter
-1 essence scatter
-1 cephalid broker
-1 flood
-1 verity circle
-1 deluge
-1 aetherize
-1 snap
-1 tolarian terror
-1 energy tap
-1 broken concentration
-1 elder deep-fiend
-1 foil
-1 eel umbra
-1 horribly awry
-1 blustersquall
-1 didn't say please
-1 cephalid sage
-1 psychic pickpocket
-1 opt
-1 aboshan's desire
-1 cephalid retainer
-1 faerie artisan's
+1 back to basics
+1 gadwick the wizened
+1 spellseeker
+1 wash away
+1 alter reality
+1 quick study
+1 aboshan cephalid emporer
+1 gitaxian probe
 1 treasure cruise
-1 resculpt
+1 eel umbra
+1 shield broker
+1 mana vapors
+1 psychic pickpocket
 1 callous oppressor
+1 ravenform
+1 floodgate
+1 spectral shift
+1 mystic confluence
+1 engulf the shore
+1 galmerdye
+1 blue elemental blast
+1 sword of sinew and steel
+1 cephalid sage
+1 hieorglyphic illumination
+1 mass manipulation
+1 myriad landscape
+1 aetherize
+1 arcane signet
+1 consider
+1 sword of the chosen
+1 shifting sky
+1 shark typhoon
+1 sol ring
+1 cephalid broker
+1 mind bend
+1 sword of the animist
+1 cephalid looter
+1 arcanis the omnipotent
+1 sleight of mind
+1 cephalid coliseum
+1 cephalid pathmage
+1 opportunity
+1 douse
+1 insight
+1 loxodon warhammer
+1 leyline of anticipation
+1 inevitable betrayal
+1 batterskull
+1 cephalid retainer
+1 commander's sphere
+1 opt
+1 reliquary tower
+1 painter's servant
+1 ponder
+1 expropriate
+1 high tide
+1 sword of fire and ice
+1 aetherspouts
+1 flash flood
+1 willbreaker
+1 narset's reversal
+1 wrath of marit lage
+1 stolen by the fae
+1 glimmer of genius
+1 whim of volrath
+1 thought vessel
+33 island

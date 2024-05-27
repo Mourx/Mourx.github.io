@@ -1,89 +1,85 @@
-3 Plains
-3 Mountain
-7 Forest
-1 Cabaretti courtyard
-1 rugged prairie
-1 slayers' stronghold
-1 command tower
-1 temple of triumph
-1 cinder glade
-1 myriad landscape
-1 thriving grove
-1 naya panorama
-1 mossfire valley
-1 exotic orchard
-1 ash barrens
-1 jungle shrine
+1 annie flash the veteran
 1 sungrass prairie
-1 thriving bluff
-1 sheltered thicket
-1 castle embereth
-1 game trail
-1 path of ancestry
-1 raging ravine
-1 windbrisk heights
-1 canopy vista
-1 fortified village
-1 castle ardenvale
-1 thriving heath
-1 intrepid adversary
-1 sylvan anthem
-1 wolfbriar elemental
-1 march of the machines
-1 nevinyrral's disk
-1 thunderfoot baloth
-1 sakura-tribe elder
-1 arcane signet
-1 chitterspitter
-1 cultivate
-1 trostani discordant
-1 path to exile
-1 fell the mighty
-1 commander's sphere
-1 outpost siege
-1 artifact mutation
-1 assemble the legion
-1 vigor
-1 naya charm
-1 gideon, ally of zendikar
-1 torsten, founder of benalia
-1 rumour gatherer
-1 marital coup
-1 response // resurgence
-1 champion of lambholt
-1 boss's chauffeur
-1 kazuul, tyrant of the cliffs
-1 boros charm
-1 grand crescendo
-1 avenger of zendikar
-1 xantid swarm
-1 intangible virtue
-1 harmonize
-1 sandwurm convergence
-1 CAbaretti charm
-1 fellwar stone
-1 verdant force
+1 master of ceremonies
 1 dragonlair spider
-1 beastmaster ascension
-1 camaraderie
-1 chef's kiss
-1 finale of glory
+1 raging ravine
+1 gahiji honored one
+1 aurelia the warleader
+1 archangel avacyn
+1 harmonize
+1 fortified village
+1 boros garrison
+1 escape to the wilds
+1 thrill of possibility
+1 arboria
+1 naya charm
+1 savage twister
+1 phabine boss's confidant
+1 goblin anarchomancer
 1 call the coppercoats
-1 phabine, boss's confidant
-1 divine visitation
-1 dire fleet daredevil
+1 canopy vista
+1 etali primal storm
+1 banishing light
+1 kitta kanto mayhem diva
+1 command tower
+1 decimate
+1 swords to plowshares
+1 commander's sphere
+1 fellwar stone
+1 abrade
+1 ghostly prison
+1 eternal witness
+1 game trail
+1 inspiring vantage
+1 artifact mutation
+1 hull breach
+1 cataclysmic gearhulk
+1 rulik mons warren chief
+1 restless bivouac
+1 path of ancestry
+1 mayael's aria
+1 deafening clarion
+1 cindervines
+1 temple garden
+1 nevinyrral's disk
+1 by invitation only
+1 castle embereth
+1 carnage tyrant
+1 castle ardenvale
+1 sylvan library
+1 sheltered thicket
+1 exotic orchard
+1 temple of triumph
+1 questing druid
+1 assemble the legion
+1 arcane signet
+1 wear tear
+1 bruna the fading light
+1 slayers' stronghold
+1 sandwurm convergence
+1 blackblade reforged
+1 regisaur alpha
+1 wakening sun's avatar
+1 regal behemoth
+1 porphyry nodes
+1 gisela blade of goldnight
+1 bronzehide lion
 1 beast within
 1 seedborn muse
-1 prosperous partnership
-1 grand warlord radha
-1 goblin anarchomancer
-1 indulge // excess
-1 duelist's heritage
-1 CAbaretti confluence
-1 gahiji, honored one
-1 entreat the angels
-1 master of ceremonies
-1 jetmir, nexus of revels
-1 deafening clarion
-1 wood elves
-1 shamanic revelation
+1 steel seraph
+1 jungle shrine
+1 zetalpa primal dawn
+1 panharmonicon
+1 tormenting voice
+1 copperline gorge
+1 cabaretti confluence
+1 mossfire valley
+1 cinder glade
+1 rhythm of the wild
+1 arasta of the endless web
+1 sacred foundry
+1 gisela the broken blade
+1 rugged prairie
+7 plains
+5 mountain
+5 forest

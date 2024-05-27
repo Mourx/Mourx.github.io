@@ -1,65 +1,77 @@
-18 Island
-18 Mountain
-1 thermo-alchemist
-1 glimmer of genius
-1 opt
-1 opportunity
-1 spellheart chimera
-1 arcane infusion
-1 volcanic vision
-1 okaun, eye of chaos
-1 grapeshot
-1 firefist adept
-1 aether tradewinds
-1 convolute
-1 treasure cruise
-1 zndrsplt, eye of wisdom
-1 mana leak
-1 keep safe
-1 brain in a jar
-1 negate
-1 archaeomancer
-1 beacon bolt
-1 rolling thunder
-1 ghitu lavarunner
-1 jace's ingenuity
-1 crackling drake
-1 rise from the tides
-1 fact or fiction
-1 dismiss
+1 steam vents
+1 desert of the mindful
+1 temple of the false god
+1 swiftwater cliffs
+1 rogue's passage
+1 myriad landscape
+1 memorial to genius
+1 mage-ring network
+1 izzet guildgate
+1 izzet boilerworks
+1 highland lake
+1 eroded canyon
+1 jeweled lotus
+1 fellwar stone
+1 mind stone
+1 blaze
+1 scatter to the winds
+1 metallurgic summonings
+1 epiphany at the drownyard
+1 entrancing melody
+1 erratic cyclops
 1 izzet chronarch
-1 empty the warrens
-1 mercurial chemister
-1 finale of promise
-1 blink of an eye
-1 wizard's retort
-1 merfolk trickster
-1 didn't say please
-1 enigma drake
-1 dream fracture
-1 omenspeaker
-1 charmbreaker devils
-1 niv-mizzet, the firemind
-1 geistblast
-1 naru meha, master wizard
-1 anticipate
-1 dispel
-1 izzet locket
 1 goblin electromancer
-1 battlefield thaumaturge
-1 step through
-1 murmuring mystic
-1 azami, lady of scrolls
-1 naban, dean of iteration
-1 spellseeker
-1 galecaster colossus
-1 panharmonicon
-1 merchant of secrets
-1 aether channeler
-1 balmor, battlemage captain
-1 nin, the pain artist
-1 nivix guildmage
-1 izzet chemister
-1 wizard's lightning
-1 reduce // rubble
-1 commit // memory
+1 geistblast
+1 spellheart chimera
+1 impulse
+1 frostveil ambush
+1 frantic search
+1 distant melody
+1 dispel
+1 dive down
+1 depths of desire
+1 deep analysis
+1 consider
+1 anticipate
+1 barrage of expendables
+1 sol ring
+1 goblin bombardment
+1 seize the day
+1 tolarian terror
+1 repulse
+1 opt
+1 oona's grace
+1 negate
+1 meeting of minds
+1 keep safe
+1 into the fae court
+1 wrap in flames
+1 volcanic spite
+1 tormenting voice
+1 orcish oriflamme
+1 mana geyser
+1 magmatic chasm
+1 empty the warrens
+1 fissure
+1 enigma drake
+1 crackling drake
+1 beacon bolt
+1 arcan infusion
+1 refuse cooperate
+1 volcanic vision
+1 underworld breach
+1 sunbird's invocation
+1 mana flare
+1 fall of the titans
+1 electrodominance
+1 burn from within
+1 trumpet blast
+1 tibalt rakish instigator
+1 spiteful prankster
+1 rolling thunder
+1 malevolent whispers
+1 desperate rituals
+1 dance with devils
+1 clash of titans
+12 mountain
+12 island

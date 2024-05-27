@@ -1,67 +1,64 @@
-33 Forest
-1 Desert Of the Indomitable
-1 Temple of the False God
-1 garruk's uprising
-1 Forgotten Ancient
-1 bramble familiar
-1 utopia sprawl
-1 echoing courage
-1 Search for Tomorrow
-1 miming slime
-1 hardened scales
-1 prowling serpopard
-1 irresistable prey
-1 slice in twain
-1 elvish mystic
-1 veteran explorer
-1 leyline of abundance
-1 nature's will
-1 return from the wilds
-1 Silvos, rogue elemental
-1 thwart the enemy
-1 regal Behemoth
-1 lead the stampede
-1 nissa's pilgrimage
-1 hedron Archive
-1 inexorable blob
-1 explore
-1 emerald dragon
 1 verdant force
-1 beast within
-1 avoid fate
-1 mutagenic growth
-1 vigor
-1 selvala's stampede
-1 grow from the ashes
-1 bane of bala Ged
-1 llanowar elves
-1 brawn
-1 renata, called to the hunt
-1 inspiring call
-1 explosive vegetation
-1 titania's command
-1 bramble sovereign
-1 defiler of vigor
-1 seed of hope
-1 yedora, grave gardener
-1 bind
-1 burnished hart
-1 scavenging ooze
-1 jiang yanggu, wildcrafter
-1 lifeforce
-1 sylvan anthem
-1 invigorate
-1 overrun
-1 bramblecrush
-1 selvala, heart of the wilds
-1 yorvo, lord of garenbrig
-1 arasta of the endless web
-1 verdant command
-1 manglehorn
-1 plated Crusher
-1 manaplasm
-1 caged sun
-1 rampant growth
+1 hornet queen
+1 tarmogoyf
+1 exploration
 1 wayward swordtooth
+1 beastmaster ascension
+1 ezuri's predation
+1 nissa vital force
+1 nevinyrral's disk
+1 tireless tracker
+1 lair of the hydra
+1 augur of autumn
+1 might of the masses
+1 ghirapur orrery
+1 silverglade pathfinder
+1 sylvan advocate
+1 sylvan library
+1 boundless realms
+1 genesis
+1 temple of the false god
+1 brawn
+1 nature's claim
+1 memorial to unity
+1 dawnstrider
+1 harmonize
+1 crash the party
+1 search for tomorrow
+1 city of solitude
+1 vitalize
+1 horn of greed
+1 field of ruin
+1 vigor
+1 return of the wildspeaker
+1 burgeoning
+1 mobilize
+1 kodama's reach
+1 strength in numbers
+1 fertile thicket
+1 elvish mystic
+1 desert of the indomitable
+1 echoing courage
+1 shamanic revelation
+1 regal behemoth
+1 overrun
+1 early harvest
+1 thunderfoot baloth
+1 harvest season
+1 cultivate
+1 gingerbread cabin
+1 blossoming defense
+1 lifecrafter's bestiary
+1 beast within
 1 sandwurm convergence
-1 savage summoning
+1 hall of gemstone
+1 mosswort bridge
+1 moment's peace
+1 preferred selection
+1 stampede driver
+1 llanowar elves
+1 once and future
+1 tranquil thicket
+1 skyshroud claim
+1 nature's lore
+36 forest

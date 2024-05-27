@@ -1,75 +1,72 @@
-13 Island
-13 Swamp
-1 Sunken Hollow
-1 Temple of the false God
-1 command tower
-1 reflecting pool
-1 jwar isle refuge
-1 evolving wilds
-1 dismal backwater
-1 dimir aqueduct
-1 barren moor
-1 terramorphic expanse
-1 spite // malice
-1 discovery // dispersal
-1 living lore
-1 silumgar's command
-1 mnemonic betrayal
-1 scatter to the winds
-1 compulsive research
-1 cast down
-1 drag to the underworld
-1 go for the throat
-1 price of fame
-1 countersquall
-1 mystic confluence
-1 malevolent hermit
-1 spelltwine
-1 tragic slip
-1 dark petition
-1 invisible stalker
-1 sire of stagnation
-1 memory plunder
-1 thrilling encore
-1 arcanis the omnipotent
-1 decree of pain
-1 mind shatter
-1 clone legion
-1 command the dreadhorde
-1 tree of perdition
-1 expropriate
-1 the eldest reborn
-1 narset's reversal
-1 slip through space
-1 necromantic selection
-1 dream fracture
-1 mind control
-1 etrata, the silencer
-1 part the waterveil
-1 taigam, sidisi's hand
+1 faerie vandal
+1 spite malice
+1 archmage of echoes
+1 brazen borrower
+1 perilous voyage
+1 watery grave
+1 hypnotic sprite
+1 marchesa's decree
 1 stunt double
-1 vampire hexmage
-1 deadly tempest
-1 misdirection
-1 polymorphist's jest
-1 far // away
-1 connive // concoct
-1 extract from darkness
-1 meletis charlatan
-1 jace, unraveler of secrets
+1 shadow puppeteers
+1 opportunity
+1 malleable imposter
+1 halo forger
+1 sower of temptation
+1 faerie artisans
+1 quickling
+1 nymris oona's trickster
+1 glen elendra liege
+1 bojuka bog
+1 theoretical duplication
+1 dimir aqueduct
+1 nullify
+1 deluge
+1 spellscorn coven
+1 mistbound clique
+1 faerie formation
+1 dispel
+1 rankle master of pranks
+1 consider
+1 oona queen of the fae
+1 drown in the loch
+1 tegwyll duke of splendor
+1 temple of deceit
+1 reconnaissance mission
+1 snaremaster sprite
+1 far away
+1 obyra dreaming duelist
+1 scion of oona
+1 treasure cruise
+1 spellstutter sprite
+1 wicked slumber
+1 exotic orchard
+1 bitterblossom
+1 connive concoct
+1 memory plunder
+1 faerie bladecrafter
+1 whirlwind denial
+1 mocking sprite
+1 alela cunning conqueror
+1 midnight clock
+1 talion's messenger
+1 sunken hollow
+1 silumgar's command
+1 cloud of faeries
+1 glen elendra archmage
+1 tegwyll's scouring
+1 picklock prankster
+1 spell stutter
+1 nightveil sprite
 1 puppeteer clique
-1 ob nixilis reignited
-1 ashiok, nightmare weaver
-1 liliana, heretical healer
-1 thryx, the sudden storm
-1 void beckoner
-1 invasion of kamigawa
-1 shadowmage infiltrator
-1 dimir doppleganger
-1 in bolas's clutches
-1 precognition field
-1 sea-dasher octopus
-1 willbender
-1 nightveil predator
-1 stunning reversal
-1 infernal grasp
+1 secluded glen
+1 tetsuko umezawa fugitive
+1 drowned catacomb
+1 feed the swarm
+1 nettling nuisance
+1 faerie conclave
+1 blightwing bandit
+1 reality shift
+1 discovery dispersal
+1 negate
+14 island
+15 swamp

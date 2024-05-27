@@ -1,65 +1,71 @@
-18 Plains
-18 Mountain
-1 Crib Swap
-1 Raise The Alarm
-1 integrity // intervention
-1 boros reckoner
-1 leave // chance
-1 flame-kin zealot
-1 any, merciless angel
-1 gisela, blade of goldnight
-1 Sky terror
-1 inventor's apprentice
-1 boros keyrune
-1 expedite
-1 besmirch
-1 akroan hoplite
-1 viashino firstblade
-1 captain's claws
-1 resolute blademaster
-1 rampaging monument
-1 flameblade angel
-1 bygone bishop
-1 master splicer
-1 protector of the crown
-1 fall of the Thran
-1 aligned hedron network
-1 adriana, captain of the guard
-1 sanctum prelate
-1 invasion of kylem
-1 bound by moonsilver
-1 aurelia, the warleader
-1 banishing light
-1 torri d'avenant, fury rider
-1 baird, argivian recruiter
-1 obsessive astronomer
-1 truefire paladin
-1 cathat commando
-1 mirror-shield hoplite
+1 fleetfeather sandals
+1 gold pan
+1 wings of hubris
+1 sigarda's aid
+1 goblin engineer
+1 inspiring vantage
+1 temple of triumph
+1 desert of the fervent
+1 boros garrison
+1 trash for treasure
+1 champion of the flame
+1 ghirapur aether grid
 1 boros charm
-1 magmatic chasm
-1 oketra's monument
-1 jor kadeen, the prevailer
-1 sunhome guildmage
-1 akiri, line-slinger
+1 kazuul's toll collector
+1 rabbit battery
+1 reinforced ronin
+1 beamtown beatstick
+1 goldhound
+1 faithless looting
+1 raking claws
+1 simian sling
+1 thrill of possibility
+1 boros reckoner
+1 leave chance
 1 swiftblade vindicator
-1 tiana, ship's caretaker
-1 inner struggle
-1 flame Slash
-1 fortress cyclops
-1 savai thundermane
-1 thraben inspector
-1 intangible virtue
-1 ordrunn veteran
-1 Tajic, blade of the legion
-1 swathcutter giant
-1 rem karolus, stalwart slayer
-1 retreat to emeria
+1 nahiri storm of stone
+1 sky terror
+1 truefire captain
 1 weapons trainer
-1 unstable Obelisk
-1 hero of goma fada
-1 crash through
-1 glimmerpoint stag
-1 make your mark
-1 fireborn knight
-1 fling
+1 stoneforge mystic
+1 sram senior edificer
+1 danitha capashen paragon
+1 loarn disciple of history
+1 board the weatherlight
+1 bushi tenderfoot
+1 repair and recharge
+1 sheltering light
+1 swooping lookout
+1 fireshrieker
+1 swiftfoot boots
+1 sol ring
+1 kari zev skyship raider
+1 kediss emberclaw familiar
+1 bloodthirsty blade
+1 burnished hart
+1 hero's blade
+1 shield of the realm
+1 armory automaton
+1 captain's claws
+1 dowsing dagger
+1 helm of the host
+1 metalwork colossus
+1 open the armory
+1 godo bandit warlord
+1 sword of war and peace
+1 sword of truth and justice
+1 sword of sinew and steel
+1 sword of once and future
+1 sword of light and shadow
+1 sword of hearth and home
+1 sword of forge and frontier
+1 sword of fire and ice
+1 sword of feast and famine
+1 sword of body and mind
+1 bruse tarl roving rancher
+1 baird argivian recruiter
+1 bruse tarl boorish herder
+1 tajic blade of the legion
+1 tiana ship's caretaker
+15 plains
+15 mountain

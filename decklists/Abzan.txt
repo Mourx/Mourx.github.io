@@ -1,79 +1,81 @@
-5 Plains
-5 Island
-5 Swamp
-5 Mountain
-5 Forest
-1 Selesnya Guildgate
-1 volving Wilds
-1 Rakdos Guildgate
-1 Command Tower
-1 Izzet Guildgate
-1 Geothermal bog
-1 tangled islet
-1 sacred peaks
+1 stitch together
+1 reanimate
+1 concealed courtyard
+1 silent clearing
+1 marsh flats
+1 orzhov guildgate
+1 crypt of agadeem
+1 path of ancestry
+1 command tower
+1 bountiful promenade
+1 canopy vista
+1 dakmor salvage
+1 urborg tomb of yawgmoth
+1 yavimaya cradle of growth
 1 sunlit marsh
-1 contaminated aquifer
-1 gruul Guildgate
-1 rupture Spire
-1 golgari Guildgate
-1 azorious Guildgate
-1 black dragon Gate
-1 gateway plaza
-1 phyrexian ingester
-1 zagoth mamba
-1 gustcloak savior
-1 puncing shoreshark
-1 exert influence
-1 song of creation
-1 regal leosaur
-1 shadow prophecy
+1 golgari guildgate
+1 selesnya guildgate
+1 skull prophet
+1 glowspore shaman
+1 excavation mole
+1 circuitous route
+1 wood elves
+1 search for tomorrow
+1 ranger's path
+1 rampant growth
+1 grow from the ashes
+1 farseek
+1 cultivate
 1 borderland explorer
-1 inscribed tablet
-1 artillery blast
-1 herd migration
-1 insatiable hemophage
-1 ojutai's Command
-1 cavern whisperer
-1 dreamtail hedron
-1 vulpikeet
-1 parcelbeast
-1 trumpeting gnarr
-1 roilmage's trick
-1 radiant epicure
-1 evasive action
-1 auger spree
-1 radiant flames
-1 dazzling beauty
-1 kaleidoscorch
-1 tangle asp
-1 woodland wanderer
-1 cubwarden
-1 shield of the righteous
-1 migratory greathorn
-1 briar patch
-1 everquill phoenix
-1 glinting creeper
-1 huntmaster liger
-1 essence symbiote
-1 glowstone recluse
-1 aetherplasm
-1 genesis ultimatum
-1 fire // ice
-1 final death
-1 mysterious egg
-1 porcuparrot
-1 majestic auricorn
-1 doom blade
-1 dream fighter
-1 laccolith rig
-1 illuna, apex of wishes
-1 bring to light
-1 necropanther
-1 pollywog symbiote
-1 lore drakkis
-1 painful truths
-1 chittering harvester
-1 auspicious starrix
-1 gatecreeper vine
-1 coiling oracle
-1 Arlinn Kord
+1 abundant growth
+1 hero's downfall
+1 zetalpa primal dawn
+1 tear asunder
+1 assassin's trophy
+1 balustrade spy
+1 eerie ultimatum
+1 devouring sugarmaw
+1 erebos bleak-hearted
+1 thalia and the gitrog monster
+1 archon of valor's reach
+1 ramunap hydra
+1 gemrazer
+1 avatar of the resolute
+1 untamed kavu
+1 titanoth rex
+1 plated crusher
+1 bassara tower archer
+1 grave titan
+1 junji the midnight sky
+1 visara the dreadful
+1 sigarda host of herons
+1 valentin dean of the vein
+1 verrak warped sengir
+1 kwende pride of femeref
+1 odric lunarch marshal
+1 drana liberator of malakir
+1 drana and linvala
+1 firja judge of valor
+1 gray merchant of asphodel
+1 kamahl's druidic vow
+1 up the beanstalk
+1 lead the stampede
+1 crawling sensation
+1 virtue of persistence
+1 tortured existence
+1 makeshift mannequin
+1 entreat the dead
+1 zombify
+1 fated return
+1 marshal's anthem
+1 command the dreadhorde
+1 dread return
+1 victimize
+1 entomb
+1 phyrexian delver
+1 late to dinner
+1 ever after
+1 wake the dead
+9 swamp
+3 plains
+9 forest

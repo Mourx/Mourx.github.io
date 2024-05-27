@@ -1,71 +1,77 @@
-29 Mountain
-1 Zoetic Cavern
-1 Dwarven Mine
-1 Looming Spires
-1 Forgotten Cave
-1 Desert of the Fervent
-1 Witty Roastmaster
-1 Mayhem Patrol
-1 Sword of the Animist
-1 Storm's wrath
-1 Dualcaster Mage
-1 Act of Treason
-1 Indomitable Creativity
-1 Idol of Oblivion
-1 Reverberate
-1 Shivan Devastator
-1 Jaya's Immolating Inferno
-1 Godo, Bandit Warlord
-1 Fury Storm
-1 Rolling Thunder
-1 Burnout
-1 Besmirch
-1 Weatherlight Compleated
-1 Faithless Looting
-1 Tibalt, Rakish Instigator
-1 Raze the Effigy
-1 Flame Slash
-1 Pia and Kiran Nalaar
-1 Helm of the Host
-1 Chaos Warp
-1 Trove of Temptation
-1 Raid Bombardment
-1 Brimstone Vandal
-1 Bedlam Reveler
-1 Chained Brute
-1 Spiteful Prankster
-1 Sin Prodder
-1 Embermaw Hellion
-1 Impact Tremors
-1 Abrade
-1 Devilish Valet
-1 Hellrider
-1 Comet Storm
-1 Bag of Holding
-1 Psychosis Crawler
-1 Reiterate
-1 Glorybringer
-1 Festival Crasher
-1 Magmatic Chasm
-1 Charmbreaker Devils
-1 Pyroblast
-1 Roast
-1 Wheel of fate
+1 shivan gorge
+1 cathartic reunion
+1 hostile hostel
+1 outpost siege
+1 extraplanar lens
+1 gratuitous violence
+1 desert of the fervent
+1 reverberate
+1 blood moon
+1 bedlam reveler
+1 genesis chamber
+1 inner struggle
+1 treasure map
+1 zhalfiin void
+1 maze of ith
+1 warstorm surge
+1 raid bombardment
+1 gemstone caverns
+1 pillage
+1 lava flow
+1 chef's kiss
+1 chrome mox
+1 goblin rabblemaster
+1 wild ricochet
+1 combustible gearhulk
+1 purphoros god of the forge
+1 pyroblast
+1 squee the immortal
+1 smoldering crater
+1 greater gargadon
 1 red elemental blast
-1 wrap in flames
-1 torch fiend
-1 wrangle
-1 clash of titans
-1 magus of the Wheel
+1 embermaw hellion
+1 krenko tin street kingpin
+1 fellwar stone
+1 curse of the shaken faith
+1 molten rain
+1 ruby medallion
+1 mirror march
+1 starstorm
+1 confusion in the ranks
+1 rose room treasurer
+1 blast zone
+1 flame blitz
+1 storm world
+1 thrill of possibility
+1 storm's wrath
+1 forgotten cave
+1 chandra flamecaller
+1 wrenn's resolve
+1 insurrection
+1 ali from cairo
+1 lightning bolt
+1 drownyard temple
 1 ensnaring bridge
+1 sulfuric vortex
+1 hour of devastation
+1 temple of the false god
+1 wheel of fate
+1 panharmonicon
+1 dwarven mine
+1 witty roastmaster
+1 reiterate
+1 implode
+1 fork
+1 chaos warp
+1 mutavault
+1 magus of the wheel
+1 beetleback chief
+1 geier reach sanitarium
+1 impact tremors
+1 aftershock
 1 tormenting voice
-1 lava coil
-1 dance with Devils
-1 malevolent whispers
-1 wild richochet
-1 combat celebrant
-1 innner struggle
-1 cathartic renuion
-1 gibbering fiend
-1 throne of the god-pharaoh
-1 grenzo, havoc raiser
+1 kazuul tyrant of the cliffs
+1 war's toll
+1 siege gang commander
+1 dualcaster mage
+23 mountain

@@ -1,67 +1,73 @@
-33 Plains
-1 Desert of the True
-1 Mesa Enchantress
-1 Danitha Capashen, Paragon
-1 Cartouche of Solidarity
-1 Battle Mastery
-1 Hundred-Handed One
-1 Cathar's Call
-1 Eerie Interlude
-1 Crib Swap
-1 Celestial Flare
-1 Pariah
-1 Beloved Princess
-1 Sage's Reverie
-1 Glimpse the Sun God
-1 Iona's Blessing
-1 Phalanx Leader
-1 Kinjalli's Sunwing
-1 Swords to Plowshares
-1 Blessing
-1 Sentinel's Mark
-1 Felidar Retreat
-1 Spectral Grasp
-1 Bond of Discipline
-1 Angel of Condemnation
-1 Emeria Shepherd
-1 Sigil of the Empty Throne
-1 Ajani's Sunstriker
-1 Brave the Elements
-1 Monk Idealist
-1 Captured by the Consulate
-1 Commanding Presence
-1 Unquestioned Authority
-1 Immolating Glare
-1 Cage of Hands
-1 Vow of Duty
-1 Gideon's Intervention
-1 Kwende, Pride of Femeref
-1 Faith's Reward
-1 Desert's Hold
-1 All that Glitters
-1 Auramancer
-1 Serra Angel
-1 Return to dust
-1 Banishing light
-1 On serra's wings
-1 Blade Banish
-1 Kor spiritdancer
-1 Lone Rider
-1 Transcendent Envoy
-1 Heliod's pilgrim
-1 Open the armory
-1 Grasp of fate
-1 Holy mantle
-1 Stasis snare
-1 Thopter arrest
-1 Cast Out
-1 Demotion
-1 Dictate of heliod
-1 Seal away
-1 Ghostblade eidolon
-1 Dawn of hope
-1 Cathar commando
-1 Sentinel's eyes
-1 Open the vaults
-1 Pacifism
-1 Celestial archon
+1 herald of anafenza
+1 mikeaus the lunarch
+1 lay down arms
+1 skrelv defector mite
+1 bereaved survivor
+1 grand abolisher
+1 gift of estates
+1 angel of condemnation
+1 phyrexian vindicator
+1 kor sanctifiers
+1 sorcerous spyglass
+1 loran of the third path
+1 gideon ally of zendikar
+1 path to exile
+1 fairgrounds warden
+1 evra halcyon witness
+1 invasion of gobakhan
+1 selfless spirit
+1 palace jailer
+1 elspeth sun's nemesis
+1 idyllic grange
+1 crib swap
+1 swords to plowshares
+1 eerie interlude
+1 approach of the second sun
+1 recruiter of the guard
+1 thraben inspector
+1 sphere of resistance
+1 cathar commando
+1 new benalia
+1 protector of the crown
+1 emeria shepherd
+1 esper sentinel
+1 werefox bodyguard
+1 grand crescendo
+1 thorn of amethyst
+1 master trinketeer
+1 windbrisk heights
+1 access tunnel
+1 anointed peacekeeper
+1 authority of the consuls
+1 hanweir militia captain
+1 angel of sanctions
+1 spellbook vendor
+1 secluded steppe
+1 dawn of hope
+1 giant killer
+1 orzhov advokist
+1 glowrider
+1 oreskos explorer
+1 desert of the true
+1 make a stand
+1 sanctum prelate
+1 tocatli honor guard
+1 brave the elements
+1 myriad landscape
+1 bygone bishop
+1 generous gift
+1 intrepid adversary
+1 aven mindcensor
+1 drannith magistrate
+1 expel the interlopers
+1 baird steward of argive
+1 kinjali's sunwing
+1 knight of the white orchid
+1 retribution of the meek
+1 tithe
+1 ethersworn cannonist
+1 mother of runes
+1 giver of runes
+1 fell the mighty
+1 victory's herald
+27 plains 

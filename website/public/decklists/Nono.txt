@@ -1,86 +1,92 @@
-14 Wastes
-1 Reliquary Tower
-1 War Room
-1 Dread Statuary
-1 Urza's Mine
-1 Urza's Power Plant
-1 Urza's Tower
-1 Cradle of the Accursed
-1 Isolated Watchtower
-1 Forge of Heroes
-1 Grasping Dunes
-1 Shrine of the Forsaked Gods
-1 Mystifying Maze
-1 Eldrazi Temple
-1 Sunscorched Desert
-1 Detection Tower
-1 Spawning Bed
-1 Sea Gate Wreckage
-1 Evolving Wilds
-1 Zhalfirin Void
-1 Endless Sands
-1 Rogue's Passage
-1 Mage-Ring Network
-1 Hostile Desert
-1 Matter Reshaper
-1 Reality Smasher
-1 Prowler's Helm
-1 Unstable Obelisk
-1 Haunted Cloak
-1 Thought-Knot Seer
-1 Titan's Presence
-1 Endbringer
-1 Chariot of Victory
-1 Kozilek's Pathfinder
-1 It That Betrays
-1 Aartisan of Kozilek
-1 Hedron Archive
-1 Darksteel Ingot
-1 Conduit of Ruin
-1 Gruesome Slaughter
-1 Filigree Familiar
-1 Ugin, the Ineffable
-1 Mind Stone
-1 Expedition Map
-1 Thought Vessel
-1 Seer's Lantern
-1 Nullstone Gargoyle
-1 Fireshrieker
-1 Ulamog's Crusher
-1 Soul of New Phyrexia
-1 Warping Wail
-1 Gilded Lotus
-1 Helm of the Host
-1 Whispersilk Cloak
-1 Oblivion Stone
-1 Palladium Myr
-1 Bane of Bala Ged
-1 Everflowing Chalice
-1 Darksteel Sentinel
-1 Walker of the Wastes
-1 Breaker of Armies
-1 Metalwork Colossus
-1 Spatial Contortion
-1 Eternal Scourge
-1 Mindslaver
-1 Jhoira's Familiar
-1 Wayfarer's Bauble
-1 Thran Dynamo
-1 Eldrazi Mimic
-1 Scour from Existence
-1 Solemn Simulacrum
-1 Karn, the Great Creator
-1 Azor's Gateway
-1 Dreamstone Hedron
-1 Introduction to Annihilation
-1 Myr Battlesphere
-1 Sol Ring
-1 Kozilek's Channeler
-1 Platinum Angel
-1 Oblivion Sower
-1 Forsaken Monument
-1 All is Dust
-1 Not of this World
-1 Geode Golem
-1 Burnished hart
-1 Deceivor of Form
+1 metalwork colossus
+1 kozilek butcher of truth
+1 metalworker
+1 karn liberated
+1 ulamog the infinite gyre
+1 ulamog the ceaseless hunger
+1 ugin the spirit dragon
+1 emrakul the promised end
+1 god-pharaoh's statue
+1 crystal vein
+1 rogue's passage
+1 mishra's workshop
+1 geode golem
+1 walker of the wastes
+1 reality smasher
+1 bane of bala ged
+1 ugin the ineffable
+1 sculpting steel
+1 endless sands
+1 eldrazi temple
+1 eriette's tempting apple
+1 introduction to annihilation
+1 ulamog's crusher
+1 grasping dunes
+1 breaker of armies
+1 spatial contortion
+1 endbringer
+1 matter reshaper
+1 fireshrieker
+1 dreamstone hedron
+1 kozilek's pathfinder
+1 azor's gateway
+1 eldrazi mimic
+1 it that betrays
+1 nullstone gargoyle
+1 darksteel sentinel
+1 artisan of kozilek
+1 dread statuary
+1 thran dynamo
+1 sunscorched desert
+1 mage-ring network
+1 eternal scourge
+1 mikokoro centre of the sea
+1 oblivion sower
+1 unstable obelisk
+1 titan's presence
+1 ancient tomb
+1 sol ring
+1 shrine of the forsaken gods
+1 forsaken monument
+1 fellwar stone
+1 darksteel ingot
+1 cradle of the accursed
+1 prowler's helm
+1 evolving wilds
+1 conduit of ruin
+1 scour from existence
+1 deceiver of form
+1 lion eye's diamond
+1 haunted cloak
+1 sea gate wreckage
+1 everflowing chalice
+1 isolated watchtower
+1 not of this world
+1 mystifying maze
+1 thought-knot seer
+1 hedron archive
+1 oblivion stone
+1 platinum angel
+1 reliquary tower
+1 soul of new phyrexia
+1 burnished hart
+1 spawning bed
+1 forge of heroes
+1 all is dust
+1 pristine talisman
+1 helm of the host
+1 zhalfirin void
+1 myr battlesphere
+1 mindslaver
+1 wasteland
+1 detection tower
+1 whispersilk cloak
+1 war room
+1 folded world
+1 zoetic cavern
+1 chariot of victory
+1 warping wail
+1 city of traitors
+1 crawlspace
+1 karn the great creator
+8 wastes

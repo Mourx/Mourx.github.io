@@ -1,71 +1,73 @@
-11 Plains
-11 Island
-9 Forest
-1 Meandering river
-1 tranquil expanse
-1 selesnya guildgate
+1 moment of silence
+1 festival
+1 glacial fortress
+1 desert of the indomitable
+1 desert of the mindful
+1 crystal grotto
+1 thornwood falls
 1 evolving wilds
-1 tranquil cove
-1 traveler's amulet
-1 cataclysmic gearhulk
-1 angel of condemnation
-1 abundant growth
-1 obstinate baloth
-1 coiling oracle
-1 cloudblazer
-1 glimmerpoint stag
-1 relief captain
-1 essence flux
+1 azorius guildgate
+1 the tabernacle at pendrell vale
+1 ugin's insight
+1 three steps ahead
+1 shark typhoon
+1 kumena's awakening
+1 clone legion
+1 voidslime
+1 supreme verdict
+1 righteousness
+1 prairie dog
+1 journey to nowhere
+1 crush contraband
+1 banishing light
+1 rout
+1 hallowed burial
+1 grasp of fate
+1 explosive vegetation
+1 migration path
+1 titanoth rex
+1 veteran explorer
+1 cultivate
+1 elephant grass
 1 elvish mystic
-1 wispweaver angel
-1 vizier of deferment
-1 oreskos explorer
-1 kitchen finks
-1 melira the living cure
-1 boreas charger
-1 dovin baan
-1 tishana, voice of thunder
-1 paradoxical outcome
-1 elspeth conquers death
-1 acrobatic maneuver
-1 flicker of fate
-1 eternal witness
-1 touch the spirit realm
-1 meticulous excavation
-1 whirler rogue
-1 sentinel of the pearl trident
-1 rite of undoing
-1 jetting glasskite
-1 mirror mockery
-1 switcheroo
-1 sunset pyramid
+1 explore
 1 llanowar elves
-1 long road home
-1 glimmer of genius
-1 overrun
-1 djinn of wishes
-1 ojutai's command
-1 juniper order ranger
-1 deputy of detention
-1 croaking counterpart
-1 brago, king eternal
-1 aethermage's touch
-1 mistbind clique
-1 loran of the third path
-1 lavabrink venturer
-1 anointed peacekeeper
-1 flickerwisp
-1 restoration angel
-1 heron's grace champion
-1 prepare // fight
-1 Selvala, explorer returned
-1 sigarda, host of herons
-1 veteran warleader
-1 farm // market
-1 neoform
-1 spring // Mind
-1 staggering insight
-1 tobias, doomed conqueror
-1 unflinching courage
-1 arborback stomper
-1 azusa's many journeys
+1 rampant growth
+1 sakura-tribe elder
+1 search for tomorrow
+1 tempt with discovery
+1 verdant force
+1 vigor
+1 bounty of might
+1 colossification
+1 forgotton ancient
+1 hungering hydra
+1 fumigate
+1 abundant growth
+1 scute mob
+1 wolfbriar elemental
+1 plated crusher
+1 jaheira's respite
+1 illusionist's gambit
+1 serene sunset
+1 thwart the enemy
+1 riot control
+1 respite
+1 blinding
+1 moment's peace
+1 constant mists
+1 haze of pollen
+1 commencement of festivities
+1 root snare
+1 holy day
+1 fog
+1 solitary confinement
+1 peacekeeper
+1 debt of loyalty
+1 dawn charm
+1 oblation
+1 preacher
+1 timetwister
+9 island
+10 plains
+10 forest

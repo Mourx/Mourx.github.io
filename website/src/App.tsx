@@ -127,7 +127,7 @@ function App() {
             <Box sx={{ outline: "solid", height: "100%" }}>
               <Toolbar />
               <Typography textAlign="center" variant="h4">
-                What we doin' now?
+                Things to Do
               </Typography>
 
               <List sx={{ paddingLeft: "4%" }}>
@@ -151,6 +151,11 @@ function App() {
                     <ListItem>
                       <ListItemButton href="https://mourx.itch.io/shpz">
                         <Typography>Shpz </Typography>
+                      </ListItemButton>
+                    </ListItem>
+                    <ListItem>
+                      <ListItemButton href="https://fklfkl.itch.io/which-mode">
+                        <Typography>Which Mode?</Typography>
                       </ListItemButton>
                     </ListItem>
                   </List>

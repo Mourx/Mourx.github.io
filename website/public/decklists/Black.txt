@@ -1,69 +1,70 @@
-31 Swamp
-1 Cabal stronghold
-1 barren moor
-1 castle locthwain
-1 hive of the eye tyrant
-1 malakir mire
-1 mage-ring network
-1 suffer the past
-1 annihilate
+1 polluted mire
 1 night's whisper
-1 cast down
-1 bubbling muck
-1 cloud key
-1 darkness
+1 decree of pain
+1 ancient craving
+1 charcoal diamond
 1 greed
-1 ultimate price
-1 ob nixilis reignited
+1 wrench mind
+1 commander's sphere
+1 ambition's cost
+1 hymn to tourach
+1 overseer of the damned
+1 castle locthwain
+1 supernatural stamina
+1 barren moor
+1 mutilate
+1 deadly tempest
+1 noxious gearhulk
+1 bojuka bog
 1 unlikely aid
-1 altar's reap
+1 arcane lighthouse
+1 cast down
+1 read the bones
+1 arguel's blood fast
+1 sol ring
+1 cabal stronghold
+1 arcane signet
+1 crypt ghast
+1 black market
+1 lightning greaves
+1 shizo death's storehouse
+1 vorpal sword
 1 blood pact
-1 ad nauseam
-1 final parting
-1 Slaughter
-1 bloodline culling
-1 to the slaughter
-1 dark bargain
-1 pharika's libation
-1 sangromancer
-1 funeral charm
-1 cling to dust
-1 custodi lich
-1 murder
-1 languish
-1 tendrils of agony
-1 price of fame
-1 ashnod's intervention
-1 dismember
-1 easy prey
-1 spoils of blood
-1 mastermind's acquisition
-1 geth's verdict
-1 bile Blight
-1 bontu's last reckoning
-1 bloodgift demon
-1 Hostile negotiations
-1 gonti, lord of luxury
-1 hero's downfall
-1 tendrils of corruption
-1 tainted strike
-1 cut down
-1 butcher of malakir
-1 erebos's intervention
-1 tragic slip
-1 archfiend of despair
-1 cremate
-1 cabal ritual
-1 profane tutor
-1 torment of hailfire
-1 dark banishing
-1 sedgemoor witch
-1 defile
-1 victim of night
-1 murderous cut
-1 sphinx-bone wand
-1 sentinel tower
-1 helm of awakening
+1 mind shatter
+1 lashwrithe
 1 dark ritual
-1 magus of the coffers
-1 harvester of souls
+1 tragic slip
+1 tainted strike
+1 infernal grasp
+1 haunted cloak
+1 defile
+1 heartless act
+1 sinkhole
+1 tree of perdition
+1 wayfarer's bauble
+1 necromantic selection
+1 cabal ritual
+1 sudden spoiling
+1 toxic deluge
+1 languish
+1 drag to the underworld
+1 feed the swarm
+1 stunning reversal
+1 force of despair
+1 dismember
+1 swiftfoot boots
+1 price of fame
+1 torment of hailfire
+1 promise of power
+1 jet medallion
+1 ghost quarter
+1 nirkana revenant
+1 hero's downfall
+1 sign in blood
+1 the meathook massacre
+1 kaya's ghostform
+1 mind stone
+1 bubbling muck
+1 black sun's zenith
+1 pack rat
+30 swamp

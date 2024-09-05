@@ -1,61 +1,81 @@
-20 Swamp
-20 Forest
-1 carrier thrall
-1 golgari locket
-1 torgaar, famine incarnate
-1 phyrexian vivisector
-1 seed guardian
-1 echoing courage
-1 gutterbones
-1 whisper, blood liturgist
-1 dreadmalkin
-1 tear asunder
-1 feed the swarm
-1 dark bargain
-1 golgari keyrune
-1 bastion of remembrance
-1 diabolic tutor
-1 llanowar elves
-1 bake into a pie
-1 yavimaya sapherd
-1 song of freyalise
-1 saproling migration
-1 tukatongue thallid
-1 maelstrom pulse
+1 yavimaya hollow
+1 volrath's stronghold
+1 desert of the glorified
+1 desrt of the indomitable
+1 foul orchard
+1 golgari guildgate
+1 hashep oasis
+1 jungle hollow
+1 memorial to unity
+1 memorial to folly
+1 mortuary mire
+1 rogue's passage
+1 svogthos the restless tomb
+1 temple of the false god
+1 homeward path
+1 barren moor
+1 defiler of vigor
+1 tetzimoc primal death
+1 demonlord belzenlok
+1 pelakka wurm
+1 plated crusher
+1 greater sandwurm
+1 tumbleweed rising
+1 butcher of malakir
+1 reign of the pit
+1 phage the untouchable
+1 grunn the lonely king
+1 ghalta primal hunger
+1 ghalt stamped tyrant
+1 beledros witherbloom
+1 emerald medallion
+1 jet medallion
+1 explosive vegetation
+1 hunting wilds
 1 elvish mystic
-1 magnifying glass
-1 quest for the gravelord
-1 sifter of skulls
-1 Squirrel nest
-1 nihil spellbomb
-1 rite of belzenlok
-1 verdant command
-1 read the bones
-1 champion of stray souls
-1 bag of devouring
-1 spore swarm
-1 eaten alive
-1 cut down
-1 byway courier
-1 night's whisper
-1 phyrexian altar
-1 nemata, primeval warden
-1 murder
-1 zulaport cutthroat
-1 warteye witch
-1 brood monitor
-1 kindred dominance
-1 bile blight
-1 catacomb sifter
-1 settle the score
-1 magus of the abyss
-1 pitiless plunderer
-1 curse of disturbance
-1 killer service
-1 altar's reap
-1 sign in blood
-1 cult conscript
+1 explore
+1 llanowar elves
+1 sakura-tribe mystic
+1 search for tomorrow
+1 blossoming defense
+1 verdant rebirth
+1 regrowth
 1 urborg repossesion
-1 bankrupt in blood
-1 blisterpod
-1 ob nixilis's cruelty
+1 heroic intervention
+1 reclaim
+1 ulvenwald observer
+1 garruk's uprising
+1 sylvan scrying
+1 up the beanstalk
+1 disciple of bolas
+1 harvester of souls
+1 kothophed soul herder
+1 gravedigger
+1 read the bones
+1 sign in blood
+1 mosswood dreadknight
+1 diregraf rebirth
+1 berserk
+1 brawn
+1 invigorate
+1 giant growth
+1 ram through
+1 reach for sky
+1 xathrid demon
+1 ghoulcaller gisa
+1 selvala heart of the wilds
+1 altar of dementia
+1 concordant crossroads
+1 greater good
+1 food chain
+1 murder
+1 nature's claim
+1 wilt
+1 heartless act
+1 hero's downfall
+1 infernal grasp
+1 price of fame
+1 back for more
+1 destined lead
+10 swamp
+10 forest

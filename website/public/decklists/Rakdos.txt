@@ -1,67 +1,73 @@
-17 Swamp
-17 Mountain
-1 creeping dread
-1 murderous redcap
-1 grenzo, havoc raider
-1 smash to smithereens
-1 marchesa's decree
-1 blackmail
-1 delirium skeins
-1 gibbering fiend
-1 smallpox
-1 rakdos charm
-1 syphon mind
-1 Squee, the immortal
-1 gonti, lord of luxury
-1 plaguecrafter
-1 curse of shaken faith
 1 nyxathid
-1 davriel, rogue shadowmage
-1 sorcerous spyglass
-1 never // return
-1 unlicensed disintegration
-1 lightning skelemental
-1 diabolic tutor
-1 judith, the scourge diva
-1 underworld dreams
-1 necrogen mists
-1 neheb, the worthy
-1 custodi lich
-1 angrath's rampage
-1 phage the untouchable
-1 rankle and torbran
-1 vampire hexmage
-1 asylum visitor
-1 the eldest reborn
-1 ratchet bomb
-1 the rack
-1 shrieking affliction
-1 chandra, flamecaller
-1 heartless hidetsugu
-1 pia and kiran nalaar
-1 arterial flow
-1 silent arbiter
+1 sangromancer
+1 blightning
 1 terminate
-1 bile blight
-1 the flame of keld
-1 fate unraveler
-1 sulfurous blast
-1 thunderbreak regent
-1 feed the swarm
-1 demonic pact
-1 dark bargain
-1 bontu's last reckoning
-1 murderous rider
-1 grapeshot
-1 last one standing
-1 macabre mockery
+1 mind stone
+1 forsaken wastes
+1 bottomless pit
+1 backlash
+1 nether void
+1 temple of malice
+1 palace siege
+1 urborg tomb of yawgmoth
+1 beacon of unrest
+1 bloodstained mire
+1 oppression
+1 delirium skeins
+1 burglar rat
+1 command tower
+1 wheel of fortune
+1 pack rat
+1 dreadbore
+1 fiery temper
+1 wayfarer's bauble
+1 arcbond
+1 canyon slough
+1 geothermal bog
 1 carnage gladiator
-1 scald
-1 asmoranomardicadaistinaculdacar
+1 oversold cemetery
+1 blood crypt
+1 tormenting voice
+1 sarcatog
+1 fire convenant
+1 leyline of the void
+1 chains of mephistopheles
+1 lightning skelemental
+1 anger
+1 daretti ingenious iconoclast
+1 asylum visitor
 1 the raven man
-1 garna, bloodfist of keld
-1 cut down
-1 invasion of azgol
-1 deathgrip
+1 yawgmoth's will
+1 avatar of woe
+1 repercussion
+1 voldaren pariah
+1 night's whisper
+1 dreamstealer
+1 custodi lich
+1 raven's crime
+1 neheb dreadhorde champion
+1 nezumi shortfang
+1 grave upheaval
+1 foreboding ruins
+1 kolaghan's command
+1 necrogen mists
+1 noxious gearhulk
+1 rakdos charm
+1 sol ring
+1 ovalchase daredevil
+1 skull storm
+1 rakdos carnarium
+1 dragonskull summit
+1 augur of skulls
 1 the underworld cookbook
-1 waste not
+1 smoldering marsh
+1 magus of the will
+1 cathartic reunion
+1 thrill of possibility
+1 bedevil
+1 arcane signet
+1 manabarbs
+1 skirge familiar
+1 commander's sphere
+14 swamp
+14 mountain

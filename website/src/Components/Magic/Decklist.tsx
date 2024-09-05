@@ -1,4 +1,4 @@
-import { Box, Drawer, Grid, List, ListItem, Typography } from "@mui/material";
+import { Box, Grid, ListItem, Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
 
 interface decklistProps {
@@ -11,13 +11,12 @@ export function Decklist(props: decklistProps) {
   const [previewUrl, setPreviewUrl] = useState("");
 
   async function ProcessDecklist(): Promise<string[]> {
-    console.log(data);
     let decklist: string[] = [];
     let lines = data.split("\n");
     for (let i = 0; i < lines.length; i++) {
       decklist = decklist.concat(lines[i]);
-      console.log(lines[i]);
     }
+    decklist = decklist.sort();
     console.log(decklist);
     setList(decklist);
     return decklist;
@@ -44,10 +43,10 @@ export function Decklist(props: decklistProps) {
 
   useEffect(() => {
     if (list[0]) {
-      console.log(list);
       setImageUrl(list[0]);
     }
   }, [list]);
+
   function setImageUrl(str: string): any {
     let parts = str.split(" ");
     let newrl = "";
@@ -74,12 +73,21 @@ export function Decklist(props: decklistProps) {
       true
     );
     http.send();
-
-    console.log(newrl);
+  }
+  function titleCase(str: string) {
+    var splitStr = str.toLowerCase().split(" ");
+    for (var i = 0; i < splitStr.length; i++) {
+      // You do not need to check if i is larger than splitStr length, as your for does that for you
+      // Assign it back to the array
+      splitStr[i] =
+        splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);
+    }
+    // Directly return the joined string
+    return splitStr.join(" ");
   }
 
   return (
-    <Box sx={{ padding: "8" }}>
+    <Box>
       <Grid
         container
         display="grid"
@@ -87,7 +95,7 @@ export function Decklist(props: decklistProps) {
           direction: "column",
           justifyContent: "center",
           alignItems: "center",
-          gridTemplateColumns: { md: "1fr 1fr" },
+          gridTemplateColumns: { md: "3fr 2fr" },
           backgroundColor: "#cdcdcd",
         }}
       >
@@ -96,27 +104,31 @@ export function Decklist(props: decklistProps) {
           display="grid"
           sx={{
             height: "fit-content",
-            gridTemplateColumns: { md: "1fr 1fr 1fr" },
+            gridTemplateColumns: { md: "1fr 1fr 1fr 1fr" },
+            outline: "solid",
+            margin: "5px",
           }}
         >
           {list.map((text, index) => (
             <ListItem
-              disablePadding
+              sx={{ padding: 0.5 }}
               key={index}
               onMouseEnter={() => {
                 setImageUrl(text);
               }}
             >
-              <Typography>{text}</Typography>
+              <Typography>{titleCase(text)}</Typography>
             </ListItem>
           ))}
         </Grid>
-        <Grid item>
+        <Grid justifySelf={"center"} item>
           <img
             src={previewUrl}
             style={{
-              maxWidth: "100%",
-              maxHeight: "100%",
+              marginLeft: "auto",
+              marginRight: "auto",
+              height: "100%",
+              width: "100%",
             }}
           ></img>
         </Grid>

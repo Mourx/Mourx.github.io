@@ -1,63 +1,85 @@
-18 Plains
-18 Island
-1 Reliquary Tower
-1 serra angel
-1 aven mindcensor
-1 palace jailer
-1 teferi time raveler
-1 dismiss
+1 countervailing winds
+1 the temporal anchor
+1 failure comply
+1 spelltwine
+1 cryptic command
+1 memorial to glory
+1 abeyance
+1 the fair basilica
+1 sol ring
 1 scatter to the winds
-1 spectral grasp
-1 hollowhenge spirit
-1 treasure cruise
-1 spell snare
-1 rise from the tides
-1 nimble obstructionist
-1 single combat
-1 negate
-1 peregerine drake
-1 fact or fiction
-1 peace talks
-1 damping sphere
-1 evra, halcyon witness
-1 ojutai monument
-1 wakening sun's avatar
-1 baird, steward of argive
-1 mana leak
-1 skywise teachigns
-1 unsubstantiate
-1 ojutai's command
-1 secrets of the key
-1 felidar sovereign
-1 teferi, who slows the sunset
-1 think twice
+1 insidious will
+1 mirage mirror
+1 circular logic
+1 peek
+1 silence
 1 blink of an eye
-1 shark typhoon
-1 narset's reversal
-1 dream fracture
-1 jace's ingenuity
-1 rout
-1 void shatter
-1 hydrolash
-1 piracy charm
-1 in bolas's clutches
-1 opportunity
-1 naiad of hidden coves
-1 witching well
-1 stenn, paranoid partisan
-1 silumgar sorcerer
-1 snap
-1 pull from the deep
-1 azorius locket
-1 gideon of the trials
-1 ghostly prison
-1 galestrike
-1 dispel
-1 foil
-1 dovin, hand of control
-1 hallowed burial
-1 hieorglyphic illumination
+1 gilded drake
+1 misleading signpost
+1 gideon's intervention
+1 hallowed fountain
+1 stall for time
+1 fumigate
+1 the mirari conjecture
+1 teferi who slows the sunset
+1 brazen borrower
+1 polymorphist's jest
+1 single combat
+1 temple of the false god
 1 glimmer of genius
-1 oreskos explorer
-1 gadwick, the wizened
-1 faith's fetters
+1 dig through time
+1 commit memory
+1 finale of glory
+1 dovin baan
+1 gitaxian probe
+1 swords to plowshares
+1 teferi time raveler
+1 pongify
+1 time stretch
+1 rapid hybridization
+1 ojutai's command
+1 wrath of god
+1 desert of the mindful
+1 port town
+1 narset's reversal
+1 jace unraveler of secrets
+1 halimar depths
+1 mishra's bauble
+1 new benalia
+1 part the waterveil
+1 perplexing test
+1 skybridge towers
+1 arcane signet
+1 sea of clouds
+1 path of ancestry
+1 step between worlds
+1 reliquary tower
+1 deputy of detention
+1 evolving wilds
+1 serra avatar
+1 prairie stream
+1 braingeyser
+1 command tower
+1 jace the mind sculpter
+1 mystic sanctuary
+1 glacial fortress
+1 azorius chancery
+1 zeriam golden wind
+1 hindering light
+1 teferi's protection
+1 memorial to genius
+1 akroma's vengeance
+1 supreme verdict
+1 azorius signet
+1 capsize
+1 misdirection
+1 stunt double
+1 time spiral
+1 hullbreaker horror
+1 stoic sphinx
+1 torrential gearhulk
+1 psychic vortex
+1 paradigm shift
+1 tolarian entrancer
+9 island
+7 plains

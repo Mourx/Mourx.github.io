@@ -22,7 +22,7 @@ export function CommanderDecklistsPage() {
         sx={{ backgroundColor: "#cdcdcd" }}
         open={dialogOpen}
         fullWidth
-        maxWidth="lg"
+        maxWidth="xl"
       >
         <Decklist decklist={decklist}></Decklist>
         <Button

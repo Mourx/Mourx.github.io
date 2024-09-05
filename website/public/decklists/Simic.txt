@@ -1,74 +1,78 @@
-13 Island
-14 Forest
-1 memorial to genius
-1 desert of the mindful
-1 rogue's passage
-1 hinterland harbor
-1 evolving wilds
-1 memorial to unity
-1 lumbering falls
-1 deep analysis
-1 wonder
-1 weight of memory
-1 stunt double
-1 merfolk trickster
-1 the mirari conjecture
-1 roar of the wurm
-1 nightveil sprite
-1 aberrant researcher
-1 wood sage
-1 trygon predator
-1 spring // mind
-1 silumgar sorcerer
-1 forgotten ancient
-1 reason // believe
-1 vivien, monsters' advocate
-1 nissa, vital force
-1 carnage tyrant
+1 blighted woodland
+1 sultai skullkeeper
+1 portal mage
+1 man-o'-war
+1 sakura-tribe elder
 1 voracious greatshark
-1 abundant growth
-1 moment's peace
-1 explosive vegetation
+1 tempest caller
+1 strategic planning
+1 arcane signet
+1 ghost quarter
+1 learn from the past
+1 body double
+1 tyrite sanctum
+1 memorial to genius
+1 aether tunnel
+1 taigam's scheming
 1 froghemoth
-1 commander's sphere
-1 galloping lizrog
-1 eureka moment
-1 awakening zone
-1 croaking counterpart
-1 tatyova, benthic druid
-1 simic charm
-1 nimbus swimmer
-1 opportunity
-1 dampening pulse
-1 gamekeeper
-1 gaea's blessing
-1 frogify
-1 altered ego
-1 spore frog
-1 murkfiend liege
-1 verdant command
-1 undercover operative
-1 slogurk, the overslime
-1 overrun
-1 jade avenger
-1 regal behemoth
-1 pulse of murasa
-1 fellwar stone
-1 spectral searchlight
-1 lay claim
-1 curse of verbocity
-1 steal artifact
-1 weaver of currents
-1 beast within
-1 pelakka wurm
-1 keeper of keys
-1 crawling sensation
-1 kiora, behemoth beckoner
-1 lashweed lurker
-1 lead the stampede
-1 turn to frog
-1 plated crusher
-1 bloated toad
+1 lotus blossom
+1 fact or fiction
+1 lumbering falls
+1 combat research
+1 deep analysis
+1 manglehorn
+1 acidic slime
+1 curiosity
+1 keep safe
+1 aboshan's desire
 1 coiling oracle
-1 urban evolution
-1 slinn voda, the rising deep
+1 commander's sphere
+1 evolving wilds
+1 silumgar sorcerer
+1 prodigious growth
+1 colossification
+1 elder deep-fiend
+1 ochre jelly
+1 one with the wind
+1 desert of the mindful
+1 memorial to unity
+1 sol ring
+1 birds of paradise
+1 saiba cryptomancer
+1 command tower
+1 hinterland harbor
+1 hedron archive
+1 terastodon
+1 curator's ward
+1 simic charm
+1 frogify
+1 flight of fancy
+1 llanowar elves
+1 strip mine
+1 gurmag drowner
+1 tome scour
+1 think twice
+1 organ hoarder
+1 beast within
+1 laboratory maniac
+1 nature's will
+1 dream twist
+1 desert of the indomitable
+1 shore up
+1 terramorphic expanse
+1 pieces of the puzzle
+1 witching well
+1 glacial chasm
+1 bramble familiar
+1 whispersilk cloak
+1 elvish mystic
+1 treasure cruise
+1 narset's reversal
+1 splitting slime
+1 thrashing brontodon
+1 throne of the high city
+1 sphinx of uthuun
+1 ramunap excavator
+1 haze frog
+11 island
+12 forest

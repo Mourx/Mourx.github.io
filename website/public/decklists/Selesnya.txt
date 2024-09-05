@@ -1,68 +1,72 @@
-17 Plains
-16 Forest
-1 curse of predation
-1 brood monitor
-1 doomed traveler
-1 sacred cat
-1 recruiter of the guard
-1 unbreakable formation
-1 deeproot
-1 shielded by faith
-1 adanto vanguard
-1 llanowar elves
-1 squirrel nest
-1 spore swarm
-1 botanical brawler
-1 one dozen eyes
-1 migration path
-1 might of the masses
-1 manaplasm
-1 elegant edgecrafters
-1 visionary augmenter
-1 topplegeist
-1 sheltering light
-1 resolute reinforcements
-1 palace jailer
-1 make a stand
-1 jubilant mascot
-1 intangible virtue
-1 grateful apparition
-1 commanding Presence
-1 verdent command
-1 sylvan offering
-1 unfliching courage
-1 queen allenal of ruadach
-1 oakhame ranger
-1 flower // flourish
-1 armadillo cloak
-1 appeal // Authority
-1 thopter assembly
-1 myr battlesphere
-1 captain's claws
-1 glare of subdual
-1 raise the alarm
-1 omen of the sun
-1 garrison cat
-1 benevolent bodyguard
-1 throne of the god-pharaoh
+1 boseiju who endures
+1 cavern of souls
+1 desert of the indomitable
+1 desert of the true
+1 tranquil thicket
+1 myriad landscape
+1 vitu-ghazi the city tree
+1 appeal authority
+1 camaraderie
+1 assure assemble
+1 invasion of moag
 1 panharmonicon
-1 thalia's lieutenant
-1 legion's landing
-1 elspeth, sun's nemesis
-1 king darien XLVIII
-1 leonin vanguard
-1 ambitious farmhand
-1 bronzehide lion
-1 beast within
-1 triumph of gerrard
-1 inspiring unicorn
-1 swords to Plowshares
-1 assure // assemble
-1 loyal unicorn
-1 haazda marshal
-1 overrun
-1 sheltering light
-1 shanna, sisay's legacy
-1 banishing light
-1 marshal's anthem
+1 throne of the god-pharaoh
+1 burnished hart
+1 woodland acolyte
+1 shanna sisay's legacy
+1 torsten founder of benalia
+1 unflinching courage
+1 1 primitive etchings
+1 ozolith the shattered spire
+1 hardened scales
+1 bubble matrix
+1 cloudstone curio
+1 lifeline
+1 urza's incubator
+1 aether vial
+1 aluren
+1 vivien monsters' advocate
+1 freestider lookout
+1 melira the living cure
+1 altar of dementia
+1 war priest of thune
+1 gavony trapper
+1 palace jailer
+1 ardenvale tactician
+1 discerning financier
+1 gavony silversmith
+1 savage summoning 
+1 uncage the menagerie
 1 wild pair
+1 clarion cathars
+1 coalition honor guard
+1 palace sentinels
+1 lavabrink venturer
+1 oltec matterweaver
+1 vengeful townsfolk
+1 doomskar warrior
+1 channeler initiate
+1 ancestor's chosen
+1 tireless tracker
+1 lantern scout
+1 glory-bound initiate
+1 botanical brawler
+1 thraben inspector
+1 champion of lambholt
+1 weathered wayfarer
+1 serra ascendant
+1 essence warden
+1 thalia's lieutenant
+1 ambitious farmhand
+1 haazda marshal
+1 lone rider
+1 benevolent bodyguard
+1 doomed traveler
+1 martyr of sands
+1 unruly mob
+1 sage of ancient lore
+1 custodi soulbinders
+1 outlaw medic
+1 dauntless bodyguard
+14 forest
+15 plains

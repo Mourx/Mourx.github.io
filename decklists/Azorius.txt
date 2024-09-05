@@ -14,7 +14,6 @@
 1 peek
 1 silence
 1 blink of an eye
-1 commandeer
 1 gilded drake
 1 misleading signpost
 1 gideon's intervention
@@ -23,7 +22,6 @@
 1 fumigate
 1 the mirari conjecture
 1 teferi who slows the sunset
-1 horned loch-whale
 1 brazen borrower
 1 polymorphist's jest
 1 single combat
@@ -79,7 +77,9 @@
 1 time spiral
 1 hullbreaker horror
 1 stoic sphinx
-1 three steps ahead
 1 torrential gearhulk
+1 psychic vortex
+1 paradigm shift
+1 tolarian entrancer
 9 island
 7 plains

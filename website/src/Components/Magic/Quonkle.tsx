@@ -40,7 +40,7 @@ export function Quonkle() {
         ></img>
 
         <img
-          src="/decklists/CustomPrecons/Quonkle/Being from After.png"
+          src="/decklists/CustomPrecons/Quonkle/Being From After.png"
           width="100%"
         ></img>
         <img

@@ -65,10 +65,13 @@ import { SpinachPaneerPulao } from "./Components/Recipes/SpinachPaneerPulao";
 import { SausagePotatoKaleSoup } from "./Components/Recipes/SausagePotatoKaleSoup";
 import { Samosas } from "./Components/Recipes/Samosas";
 import { RedLentilCurry } from "./Components/Recipes/RedLentilCurry";
+import { Insom } from "./Components/Magic/Insom";
+import { Quonkle } from "./Components/Magic/Quonkle";
 
 function App() {
   const [openGames, setOpenGames] = React.useState(false);
   const [openMagic, setMagic] = React.useState(false);
+  const [openCustomPrecons, setCustomPrecons] = React.useState(false);
   const [openTTRPG, setTTRPG] = React.useState(false);
   const [openDnd, setDnd] = React.useState(false);
   const [openBtv, setBtv] = React.useState(false);
@@ -97,6 +100,11 @@ function App() {
   const changeOpenMagic = () => {
     setMagic(!openMagic);
   };
+
+  const changeOpenCustomPrecons = () => {
+    setCustomPrecons(!openCustomPrecons);
+  };
+
   useEffect(() => {
     document.title = "Morx's Stuff :)";
   }, []);
@@ -218,6 +226,33 @@ function App() {
                   </List>
                 </Collapse>
 
+                {/* Custom Magic */}
+                <ListItemButton onClick={changeOpenCustomPrecons}>
+                  <Typography>Custom Precons</Typography>
+                  {openCustomPrecons ? <ExpandLess /> : <ExpandMore />}
+                </ListItemButton>
+                <Collapse in={openCustomPrecons}>
+                  <List>
+                    <ListItem sx={{ paddingLeft: "1vw" }}>
+                      <ListItemButton
+                        to={"/CustomPrecon/Quonkle"}
+                        component={Link}
+                      >
+                        <Typography>Quonkle</Typography>
+                      </ListItemButton>
+                    </ListItem>
+
+                    <ListItem sx={{ paddingLeft: "1vw" }}>
+                      <ListItemButton
+                        to={"/CustomPrecon/Insom"}
+                        component={Link}
+                      >
+                        <Typography>Insom</Typography>
+                      </ListItemButton>
+                    </ListItem>
+                  </List>
+                </Collapse>
+
                 {/* Magic */}
                 <ListItemButton onClick={changeOpenMagic}>
                   <Typography>Magic Decks</Typography>
@@ -244,20 +279,20 @@ function App() {
               {/* <Toolbar /> */}
               <Routes>
                 <Route path="/" element={<MainPage />} />
-
+                <Route
+                  path="/CustomPrecon/Quonkle"
+                  element={<Quonkle />}
+                />{" "}
+                <Route path="/CustomPrecon/Insom" element={<Insom />} />
                 <Route
                   path="/Magic/Commander"
                   element={<CommanderDecklistsPage />}
                 />
                 <Route path="/Magic/Modern" element={<ModernDecklistsPage />} />
-
                 <Route path="/Santryl/History" element={<HistoryPage />} />
                 <Route path="/Santryl/Faith" element={<FaithPage />} />
-
                 <Route path="/Dnd/DndRules" element={<DndRulesPage />} />
-
                 <Route path="/Btv/Rules" element={<BtvRulesPage />} />
-
                 <Route path="/Recipes" element={<RecipePage />} />
                 <Route
                   path="/Recipes/AubergineMeatballs"

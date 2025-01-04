@@ -19,8 +19,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
         {/* Mono Colour */}
         <>
           <MagicDeckPreviewCard
-            deckname={"Thalia <3"}
-            previewCard="Thalia, Guardian of Thraben"
+            deckname={"Gerrard's Life"}
+            previewCard="Gerrard Capashen"
             file="White"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -31,14 +31,14 @@ export function CommanderDecks(props: CommanderDecksProps) {
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Drana"}
-            previewCard="Drana, Kalastria Bloodchief"
+            deckname={"Pranks"}
+            previewCard="Kuro, Pitlord"
             file="Black"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"He Comes Back Don't Worry"}
-            previewCard="Norin the Wary"
+            deckname={"What a Hunk!"}
+            previewCard="Tahngarth Talruun Hero"
             file="Red"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -53,8 +53,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
         {/* Ally Duals */}
         <>
           <MagicDeckPreviewCard
-            deckname={"Control"}
-            previewCard="Rasputin Dreamweaver"
+            deckname={"Big Token"}
+            previewCard="Temmet, Vizier of Naktamun"
             file="Azorius"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -65,8 +65,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Who Needs Cards"}
-            previewCard="Asmoranomardicadaistinaculdacar"
+            deckname={"Not Available"}
+            previewCard="Gone Missing"
             file="Rakdos"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -77,8 +77,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"A Bunch of Little Guys"}
-            previewCard="Asmira Holy Avenger"
+            deckname={"Not Available"}
+            previewCard="Gone Missing"
             file="Selesnya"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -87,26 +87,26 @@ export function CommanderDecks(props: CommanderDecksProps) {
         {/* Enemy Duals */}
         <>
           <MagicDeckPreviewCard
-            deckname={"Life's Judgement"}
-            previewCard="Selenia Dark Angel"
+            deckname={"EnchantMan"}
+            previewCard="Daxos the returned"
             file="Orzhov"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Empty the Warrens 2"}
-            previewCard="Ovika enigma goliath"
+            deckname={"Not Available"}
+            previewCard="Gone Missing"
             file="Izzet"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Yarglgleglegllegle"}
-            previewCard="Yargle and Multani"
+            deckname={"Not Available"}
+            previewCard="Gone Missing"
             file="Golgari"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Suit Up"}
-            previewCard="Bruenor Battlehammer"
+            deckname={"Not Available"}
+            previewCard="Gone Missing"
             file="Boros"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -127,26 +127,26 @@ export function CommanderDecks(props: CommanderDecksProps) {
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"No Deck Yet"}
-            previewCard="Gone Missing"
+            deckname={"Marcheasy"}
+            previewCard="Marchesa the Black Rose"
             file="Grixis"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"No Deck Yet"}
-            previewCard="Gone Missing"
+            deckname={"Group Hug!"}
+            previewCard="Xira Arien"
             file="Jund"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Zacalamity"}
-            previewCard="Zacama Primal Calamity"
+            deckname={"Desert Gang"}
+            previewCard="Hazezon, shaper of sand"
             file="Naya"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Peaceful Fogs"}
-            previewCard="Angus Mackenzie"
+            deckname={"The Rabbit"}
+            previewCard="Ms. Bumbleflower"
             file="Bant"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -154,8 +154,8 @@ export function CommanderDecks(props: CommanderDecksProps) {
         {/* Enemy Triples */}
         <>
           <MagicDeckPreviewCard
-            deckname={"Keyword Reanimator"}
-            previewCard="Kathril Aspect Warper"
+            deckname={"Thalia <3 Frogie"}
+            previewCard="Thalia and the gitrog monster"
             file="Abzan"
             functions={props}
           ></MagicDeckPreviewCard>
@@ -166,13 +166,13 @@ export function CommanderDecks(props: CommanderDecksProps) {
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"No Deck Yet"}
-            previewCard="Gone Missing"
+            deckname={"Glarb it Up"}
+            previewCard="Glarb, calamity's augur"
             file="Sultai"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard
-            deckname={"Aristocrat Lifestyle"}
+            deckname={"Dragon's Wrath"}
             previewCard="Piru the Volatile"
             file="Mardu"
             functions={props}
@@ -213,18 +213,6 @@ export function CommanderDecks(props: CommanderDecksProps) {
             deckname={"Chaos 40k"}
             previewCard="Abaddon the Despoiler"
             file="Abaddon"
-            functions={props}
-          ></MagicDeckPreviewCard>
-          <MagicDeckPreviewCard
-            deckname={"1 Mana Tribal"}
-            previewCard="Rosnakht"
-            file="OneboRed"
-            functions={props}
-          ></MagicDeckPreviewCard>
-          <MagicDeckPreviewCard
-            deckname={"Surviving In the Desert"}
-            previewCard="Hazezon Shaper of Sand"
-            file="Hazezon"
             functions={props}
           ></MagicDeckPreviewCard>
           <MagicDeckPreviewCard

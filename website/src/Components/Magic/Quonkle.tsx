@@ -55,10 +55,6 @@ export function Quonkle() {
           src="/decklists/CustomPrecons/Quonkle/Confulgion.png"
           width="100%"
         ></img>
-        <img
-          src="/decklists/CustomPrecons/Quonkle/Corruption Specialist.png"
-          width="100%"
-        ></img>
 
         <img
           src="/decklists/CustomPrecons/Quonkle/Creeping Leech.png"
@@ -161,7 +157,11 @@ export function Quonkle() {
           width="100%"
         ></img>
         <img
-          src="/decklists/CustomPrecons/Quonkle/Octopitcher.png"
+          src="/decklists/CustomPrecons/Quonkle/Octopus Obfuscator.png"
+          width="100%"
+        ></img>
+        <img
+          src="/decklists/CustomPrecons/Quonkle/Pigeon Hoarder.png"
           width="100%"
         ></img>
         <img

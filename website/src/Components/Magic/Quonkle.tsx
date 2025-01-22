@@ -19,7 +19,7 @@ export function Quonkle() {
         <img width="100%"></img>
 
         <img
-          src="/decklists/CustomPrecons/Quonkle/Abjure.png"
+          src="/decklists/CustomPrecons/Quonkle/Abjurate.png"
           width="100%"
         ></img>
         <img
@@ -245,7 +245,7 @@ export function Quonkle() {
           width="100%"
         ></img>
         <img
-          src="/decklists/CustomPrecons/Quonkle/Wisdon of Age.png"
+          src="/decklists/CustomPrecons/Quonkle/Wisdom of Age.png"
           width="100%"
         ></img>
       </Grid>

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Mourx.github.io/static/css/main.1fa03363.css",
-    "main.js": "/Mourx.github.io/static/js/main.74b47eab.js",
-    "static/js/787.71e672d5.chunk.js": "/Mourx.github.io/static/js/787.71e672d5.chunk.js",
-    "index.html": "/Mourx.github.io/index.html",
-    "main.1fa03363.css.map": "/Mourx.github.io/static/css/main.1fa03363.css.map",
-    "main.74b47eab.js.map": "/Mourx.github.io/static/js/main.74b47eab.js.map",
-    "787.71e672d5.chunk.js.map": "/Mourx.github.io/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/static/css/main.1fa03363.css",
+    "main.js": "/static/js/main.db44d2a0.js",
+    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
+    "index.html": "/index.html",
+    "main.1fa03363.css.map": "/static/css/main.1fa03363.css.map",
+    "main.db44d2a0.js.map": "/static/js/main.db44d2a0.js.map",
+    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fa03363.css",
-    "static/js/main.74b47eab.js"
+    "static/js/main.db44d2a0.js"
   ]
 }

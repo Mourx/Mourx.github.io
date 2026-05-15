@@ -67,6 +67,7 @@ import { Samosas } from "./Components/Recipes/Samosas";
 import { RedLentilCurry } from "./Components/Recipes/RedLentilCurry";
 import { Insom } from "./Components/Magic/Insom";
 import { Quonkle } from "./Components/Magic/Quonkle";
+import { CubeList } from "./Components/Magic/CubeList";
 
 function App() {
   const [openGames, setOpenGames] = React.useState(false);
@@ -227,31 +228,10 @@ function App() {
                 </Collapse>
 
                 {/* Custom Magic */}
-                <ListItemButton onClick={changeOpenCustomPrecons}>
-                  <Typography>Custom Precons</Typography>
-                  {openCustomPrecons ? <ExpandLess /> : <ExpandMore />}
-                </ListItemButton>
-                <Collapse in={openCustomPrecons}>
-                  <List>
-                    <ListItem sx={{ paddingLeft: "1vw" }}>
-                      <ListItemButton
-                        to={"/CustomPrecon/Quonkle"}
-                        component={Link}
-                      >
-                        <Typography>Quonkle</Typography>
-                      </ListItemButton>
-                    </ListItem>
 
-                    <ListItem sx={{ paddingLeft: "1vw" }}>
-                      <ListItemButton
-                        to={"/CustomPrecon/Insom"}
-                        component={Link}
-                      >
-                        <Typography>Insom</Typography>
-                      </ListItemButton>
-                    </ListItem>
-                  </List>
-                </Collapse>
+                <ListItemButton to={"/CubeList"} component={Link}>
+                  <Typography>Commander Cube</Typography>
+                </ListItemButton>
 
                 {/* Magic */}
                 <ListItemButton onClick={changeOpenMagic}>
@@ -279,6 +259,7 @@ function App() {
               {/* <Toolbar /> */}
               <Routes>
                 <Route path="/" element={<MainPage />} />
+                <Route path="/CubeList" element={<CubeList />} />
                 <Route
                   path="/CustomPrecon/Quonkle"
                   element={<Quonkle />}

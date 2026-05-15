@@ -13,10 +13,6 @@ export function Quonkle() {
           src="/decklists/CustomPrecons/Quonkle/Quonkle, Reverter of Time.png"
           width="100%"
         ></img>
-        <img width="100%"></img>
-        <img width="100%"></img>
-        <img width="100%"></img>
-        <img width="100%"></img>
 
         <img
           src="/decklists/CustomPrecons/Quonkle/Abjurate.png"
